@@ -1,6 +1,46 @@
 <?php
+# Primero los nombres de los edos en un array para agregarlos
+$nombres_estados =
+array(
+    '', # Para que coincidan 1..32 (no 0..31)
+    'AGUASCALIENTES',
+    'BAJA CALIFORNIA',
+    'BAJA CALIFORNIA SUR',
+    'CAMPECHE',
+    'COAHUILA',
+    'COLIMA',
+    'CHIAPAS',
+    'CHIHUAHUA',
+    'DISTRITO FEDERAL',
+    'DURANGO',
+    'GUANAJUATO',
+    'GUERRERO',
+    'HIDALGO',
+    'JALISCO',
+    'MEXICO',
+    'MICHOACAN',
+    'MORELOS',
+    'NAYARIT',
+    'NUEVO LEON',
+    'OAXACA',
+    'PUEBLA',
+    'QUERETARO',
+    'QUINTANA ROO',
+    'SAN LUIS POTOSI',
+    'SINALOA',
+    'SONORA',
+    'TABASCO',
+    'TAMAULIPAS',
+    'TLAXCALA',
+    'VERACRUZ',
+    'YUCATAN',
+    'ZACATECAS',
+);
+
+# Ahora los estados (de curl_estados.php
 $estados = [
-   '',
+   array()
+   ,
    array(
       'id'=>'1',
       'municipios'=>[

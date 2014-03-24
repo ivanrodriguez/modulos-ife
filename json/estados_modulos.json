@@ -1,0 +1,5369 @@
+[
+  {
+    "id":"1",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"AGUASCALIENTES",
+        "modulos":[
+          {
+            "numero":"010222",
+            "nombre":"AGUASCALIENTES",
+            "direccion":"AV. FRANCISCO I. MADERO NO. 538, COL. CENTRO",
+            "codigo_postal":"20000",
+            "referencia":"ENTRE CALLE EZEQUIEL A. CH\u00c1VEZ Y CALLE GENERAL. MIGUEL FRANCISCO BARRAG\u00c1N"
+          },
+          {
+            "numero":"010223",
+            "nombre":"AGUASCALIENTES",
+            "direccion":"AV. SIGLO XXI NO. 538, COL. FRACC. MORELOS I",
+            "codigo_postal":"20298",
+            "referencia":"ESQUINA CALLE MAYO DE 1812 EN EL EDIFICIO DE LA DELEGACI\u00d3N MUNICIPAL."
+          },
+          {
+            "numero":"010230",
+            "nombre":"AGUASCALIENTES",
+            "direccion":"AV. SIGLO XXI 2307 NO. S\/N, COL. FRACC. VILLAS DE NUESTRA SE\u00d1ORA DE LA ASUNCI\u00d3N",
+            "codigo_postal":"20126",
+            "referencia":"ENTRE CALLES GER\u00d3NIMO DE LA CUEVA Y PUEBLO DE SAN MARCOS"
+          },
+          {
+            "numero":"010322",
+            "nombre":"FRACC. JARDINES DE LA ASUNCION",
+            "direccion":"HERNANDO MARTELL NO. 305, COL. FRACC. JARDINES DE LA ASUNCION",
+            "codigo_postal":"20270",
+            "referencia":"ENTRE FRAY ANTONIO DE SEGOVIA Y PASEO DE LA ASUNCI\u00d3N SUR"
+          },
+          {
+            "numero":"010326",
+            "nombre":"VICENTE GUERRERO",
+            "direccion":"AV. DE LOS MAESTROS 4042 NO. S\/N, COL. VICENTE GUERRERO",
+            "codigo_postal":"20287",
+            "referencia":"ENTRE CALLE JULIAN MEDINA Y CALLE GENERAL MACLOVIO HERRADA, DENTRO DE LAS INSTALACIONES DE LA DELEGACI\u00d3N MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"3",
+        "nombre":"CALVILLO",
+        "modulos":[
+          {
+            "numero":"010127",
+            "nombre":"CALVILLO",
+            "direccion":"GUANAJUATO NO. S\/N, COL. BARRIO DE CHICAGO",
+            "codigo_postal":"20800",
+            "referencia":"PALACIO DE JUSTICIA FRENTE AL CECATI"
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"JESUS MARIA",
+        "modulos":[
+          {
+            "numero":"010121",
+            "nombre":"JESUS MARIA",
+            "direccion":"ALDAMA NO. 118, COL. CENTRO",
+            "codigo_postal":"20920",
+            "referencia":"A MEDIA CUADRA DEL MERCADO Y PRESIDENCIA MUNICIPAL"
+          }
+        ]
+      }
+    ],
+    "nombre":"AGUASCALIENTES"
+  },
+  {
+    "id":"2",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"ENSENADA",
+        "modulos":[
+          {
+            "numero":"020321",
+            "nombre":"ENSENADA",
+            "direccion":"SEXTA Y RYERSON NO. 109, COL. ZONA CENTRO",
+            "codigo_postal":"22800",
+            "referencia":"A UNA CUADRA DEL PARQUE REVOLUCI\u00d3N"
+          },
+          {
+            "numero":"020322",
+            "nombre":"SAN QUINT\u00cdN",
+            "direccion":"CARR. TRANSPENINSULAR KM 189 NO. 1110, COL. SAN QUINT\u00cdN",
+            "codigo_postal":"22940",
+            "referencia":"A UN COSTADO RESTAURANTE ''LA PALAPA''"
+          }
+        ]
+      },
+      {
+        "id":"2",
+        "nombre":"MEXICALI",
+        "modulos":[
+          {
+            "numero":"020121",
+            "nombre":"MEXICALI",
+            "direccion":"CALZ. BENITO JUAREZ NO. 52, COL. SANCHEZ TABOADA",
+            "codigo_postal":"21360",
+            "referencia":"PLAZA MANDARIN LOCAL 18 A ENTRE CATEMACO Y MARIA TAPIA"
+          },
+          {
+            "numero":"020122",
+            "nombre":"FRACC. VALLE DEL PUEBLA",
+            "direccion":"AV. R\u00cdO SAN \u00c1NGEL 78 NO. S\/N, COL. FRACC. VALLE DEL PUEBLA",
+            "codigo_postal":"21395",
+            "referencia":"PLAZA SANTA FE LOCAL 6 Y 7 , ENTRE CER\u00c1MICA Y CANDILES"
+          },
+          {
+            "numero":"020221",
+            "nombre":"SEGUNDA SECCION",
+            "direccion":"E NO. 451, COL. SEGUNDA SECCION",
+            "codigo_postal":"21100",
+            "referencia":"ENTRE LERDO Y ZARAGOZA CONTRA ESQ. DE LA CERVECERIA MEXICALI"
+          },
+          {
+            "numero":"020222",
+            "nombre":"INDEPENDENCIA",
+            "direccion":"BLVD L\u00c1ZARO C\u00c1RDENAS Y C R\u00cdO PRESIDIO NO. 1299, COL. INDEPENDENCIA",
+            "codigo_postal":"21290",
+            "referencia":"CENTRO COMERCIAL ABSA LOCAL 10 Y 11"
+          },
+          {
+            "numero":"020726",
+            "nombre":"JOAQUIN MURRIETA",
+            "direccion":"CALZ. HECTOR TERAN TERAN NO. 1624, COL. JOAQUIN MURRIETA",
+            "codigo_postal":"21320",
+            "referencia":"JUNTA DISTRITAL EJECUTIVA 07, JUNTO A ESTACION DE ''PEMEX''"
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"PLAYAS DE ROSARITO",
+        "modulos":[
+          {
+            "numero":"020822",
+            "nombre":"POBLADO ROSARITO",
+            "direccion":"BLVD. BENITO JU\u00c1REZ 26500 NO. S\/N, COL. CENTRO",
+            "codigo_postal":"22710",
+            "referencia":"CENTRO COMERCIAL QUINTA PLAZA, LOCAL 47"
+          }
+        ]
+      },
+      {
+        "id":"3",
+        "nombre":"TECATE",
+        "modulos":[
+          {
+            "numero":"020722",
+            "nombre":"TECATE",
+            "direccion":"AV. HIDALGO 131, COL. CENTRO",
+            "codigo_postal":"21400",
+            "referencia":"FRENTE A JARD\u00cdN ''TECATE''"
+          }
+        ]
+      },
+      {
+        "id":"4",
+        "nombre":"TIJUANA",
+        "modulos":[
+          {
+            "numero":"020422",
+            "nombre":"TIJUANA",
+            "direccion":"RUTA MARIANO MATAMOROS 7281-5 NO. S\/N, COL. FRACC. MARIANO MATAMOROS",
+            "codigo_postal":"22206",
+            "referencia":"ENTRE FUERTE JAUGILLA Y FUERTE SACA TULA"
+          },
+          {
+            "numero":"020426",
+            "nombre":"TIJUANA",
+            "direccion":"6 DE ENERO NO. 21460, COL. FRACC. LOMAS DEL MATAMOROS",
+            "codigo_postal":"22206",
+            "referencia":"ENTRE 20 DE NOVIEMBRE Y TULIPANES A ESPALDAS DEL MOTEL SAN JUAN"
+          },
+          {
+            "numero":"020521",
+            "nombre":"TIJUANA",
+            "direccion":"RIO BALSAS NO. 2070, COL. MARR\u00d3N",
+            "codigo_postal":"22015",
+            "referencia":"ENTRE CALLE R\u00cdO SUCHIATE Y CJON. GRIJALVA A ESPALDAS DE SORIANA"
+          },
+          {
+            "numero":"020524",
+            "nombre":"TIJUANA",
+            "direccion":"BLVD. L\u00c1ZARO C\u00c1RDENAS 1900 NO. S\/N, COL. FRACC. OTAY CONSTITUYENTES",
+            "codigo_postal":"22457",
+            "referencia":"PLAZA COMERCIAL OTAY LOCAL 32 Y 33"
+          },
+          {
+            "numero":"020525",
+            "nombre":"TIJUANA",
+            "direccion":"PASEO CENTENARIO DE TIJUANA NO. S\/N, COL. ZONA R\u00cdO",
+            "codigo_postal":"22010",
+            "referencia":"PALACIO MUNICIPAL"
+          },
+          {
+            "numero":"020621",
+            "nombre":"TIJUANA",
+            "direccion":"SEGUNDA Y\/O BENITO JUAREZ NO. 7625, COL. ZONA CENTRO",
+            "codigo_postal":"22000",
+            "referencia":"ENTRE AVENIDA ( E ) MUTUALISMO Y CALLEJ\u00d3N 5 DE MAYO, A UN COSTADO DE LA FARMACIA DEL ALBA, FRENTE A ELECTRONICA STEREN"
+          },
+          {
+            "numero":"020624",
+            "nombre":"TIJUANA",
+            "direccion":"C. CEDROS 8351 NO. S\/N, COL. FRACC. TERRAZAS DEL RUB\u00cd",
+            "codigo_postal":"22190",
+            "referencia":"DENTRO DE LA DELEGACI\u00d3N MUNICIPAL. SAN ANTONIO DE LOS BUENOS"
+          },
+          {
+            "numero":"020821",
+            "nombre":"TIJUANA",
+            "direccion":"BLVD. GUSTAVO D\u00cdAZ ORDAZ NO. 15655, COL. MAURILIO MAGALL\u00d3N",
+            "codigo_postal":"22116",
+            "referencia":"PLAZA INGENIEROS, FRENTE AL CENTRO COMERCIAL SIGLO XXI"
+          },
+          {
+            "numero":"020825",
+            "nombre":"TIJUANA",
+            "direccion":"ROBERTO DE LA MADRID NO. 13200, COL. CA\u00d1\u00d3N DEL SAINZ",
+            "codigo_postal":"22170",
+            "referencia":"PLAZA EL VAQUERO, ENTRE CALLEJ\u00d3N SERVICIO Y CALLE SIN NOMBRE."
+          }
+        ]
+      }
+    ],
+    "nombre":"BAJA CALIFORNIA"
+  },
+  {
+    "id":"3",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"COMONDU",
+        "modulos":[
+          {
+            "numero":"030122",
+            "nombre":"COMONDU",
+            "direccion":"BLVD. HUGO CERVANTES DEL R\u00cdO NO. 11, COL. CENTRO",
+            "codigo_postal":"23600",
+            "referencia":"ENTRE MADERO Y PINO SU\u00c1REZ, FRENTE AL MONUMENTO AL MAESTRO"
+          }
+        ]
+      },
+      {
+        "id":"3",
+        "nombre":"LA PAZ",
+        "modulos":[
+          {
+            "numero":"030125",
+            "nombre":"PAZ, LA",
+            "direccion":"CARR. TRANSPENINSULAR AL SUR NO. S\/N, COL. COLONIA EL MEZQUITITO",
+            "codigo_postal":"23083",
+            "referencia":"ENTRE GILBERTO ARREOLA Y CALLE SIN NOMBRE, A UN COSTADO DE LA POLIC\u00cdA"
+          },
+          {
+            "numero":"030221",
+            "nombre":"LA PAZ",
+            "direccion":"IGNACIO ALLENDE NO. 435, COL. CENTRO",
+            "codigo_postal":"23000",
+            "referencia":"ESQ. IGNACIO M. ALTAMIRANO, EN LA PLAZA ALLENDE"
+          }
+        ]
+      },
+      {
+        "id":"4",
+        "nombre":"LOS CABOS",
+        "modulos":[
+          {
+            "numero":"030227",
+            "nombre":"CABO SAN LUCAS",
+            "direccion":"LEONA VICARIO NO. S\/N, COL. EJIDAL",
+            "codigo_postal":"23410",
+            "referencia":"ENTRE ILDEFONSO GREEN Y DIAGONAL MORELOS, FRENTE AL CALIGAS"
+          },
+          {
+            "numero":"030228",
+            "nombre":"CABOS, LOS",
+            "direccion":"C. FORJADORES NO. S\/N, COL. EL ZACATAL",
+            "codigo_postal":"23588",
+            "referencia":"ENTRE CALLES ABELARDO RODR\u00cdGUEZ Y JOS\u00c9 ANTONIO CASTRO GULUARTE"
+          }
+        ]
+      },
+      {
+        "id":"2",
+        "nombre":"MULEGE",
+        "modulos":[
+          {
+            "numero":"030121",
+            "nombre":"MULEGE",
+            "direccion":"AV. EMILIO CARRANZA NO. 31, COL. CENTRO",
+            "codigo_postal":"23920",
+            "referencia":"ESQUINA CALLE TRES, FRENTE AL PALACIO MUNICIPAL"
+          }
+        ]
+      }
+    ],
+    "nombre":"BAJA CALIFORNIA SUR"
+  },
+  {
+    "id":"4",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"CAMPECHE",
+        "modulos":[
+          {
+            "numero":"040121",
+            "nombre":"CAMPECHE",
+            "direccion":"FRANCISCO FIELDS JURADO L 6 Y 7 - M 1, COL. AH KIM PECH",
+            "codigo_postal":"24005",
+            "referencia":"ENTRE LA CALLE RICARDO CASTILLO OLIVER Y AVENIDA FUNDADORES"
+          }
+        ]
+      },
+      {
+        "id":"3",
+        "nombre":"CARMEN",
+        "modulos":[
+          {
+            "numero":"040221",
+            "nombre":"CARMEN",
+            "direccion":"CALLE 28 NO. 113, COL. CENTRO",
+            "codigo_postal":"24100",
+            "referencia":"ENTRE LAS CALLES 29 Y 29-A"
+          }
+        ]
+      }
+    ],
+    "nombre":"CAMPECHE"
+  },
+  {
+    "id":"5",
+    "municipios":[
+      {
+        "id":"2",
+        "nombre":"ACU\u00d1A",
+        "modulos":[
+          {
+            "numero":"050122",
+            "nombre":"ACU\u00d1A",
+            "direccion":"CARR. PRESA DE LA AMISTAD, LOCALES 162 Y 164 NO. S\/N, COL. ATILANO BARRERA",
+            "codigo_postal":"26210",
+            "referencia":"ENTRE C. NUEVO LEON Y LUIS DONALDO COLOSIO, EN CONTRA ESQUINA DE LA ESTACI\u00d3N DE BOMBEROS"
+          }
+        ]
+      },
+      {
+        "id":"10",
+        "nombre":"FRONTERA",
+        "modulos":[
+          {
+            "numero":"050229",
+            "nombre":"FRONTERA",
+            "direccion":"SERVICIOS PRIMARIOS JUAREZ NO. S\/N, COL. CENTRO",
+            "codigo_postal":"25600",
+            "referencia":"SECCI\u00d3N 195, MZ 29, ENTRE PRESIDENTE CARRANZA Y PROGRESO"
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"MATAMOROS",
+        "modulos":[
+          {
+            "numero":"050533",
+            "nombre":"MATAMOROS",
+            "direccion":"BOULEVARD MATAMOROS NO. 2555, COL. VALLE HERMOSO",
+            "codigo_postal":"27450",
+            "referencia":"ENTRE AVENIDA DEL R\u00cdO Y BOULEVARD LAS TORRES"
+          }
+        ]
+      },
+      {
+        "id":"18",
+        "nombre":"MONCLOVA",
+        "modulos":[
+          {
+            "numero":"050321",
+            "nombre":"MODULO DISTRITAL",
+            "direccion":"VENUSTIANO CARRANZA NO. 115 OTE, COL. ZONA CENTRO",
+            "codigo_postal":"25700",
+            "referencia":"ENTRE J SILVA Y MATAMOROS FRENTE OFICINAS DE SIMAS"
+          }
+        ]
+      },
+      {
+        "id":"25",
+        "nombre":"PIEDRAS NEGRAS",
+        "modulos":[
+          {
+            "numero":"050121",
+            "nombre":"PIEDRAS NEGRAS",
+            "direccion":"AV. L\u00c1ZARO BENAVIDES NO. 400, COL. VENUSTIANO CARRANZA",
+            "codigo_postal":"26070",
+            "referencia":"ENTRE C. LUCIO BLANCO Y C. M. PEREZ"
+          }
+        ]
+      },
+      {
+        "id":"28",
+        "nombre":"SABINAS",
+        "modulos":[
+          {
+            "numero":"050322",
+            "nombre":"SABINAS",
+            "direccion":"CUAUHT\u00c9MOC NO. S\/N, COL. CENTENARIO",
+            "codigo_postal":"26750",
+            "referencia":"ESCUELA DE M\u00daSICA ESQUINA ENTRE CALLE CUAUHTEMOC Y CALLE INDEPENDENCIA"
+          }
+        ]
+      },
+      {
+        "id":"30",
+        "nombre":"SALTILLO",
+        "modulos":[
+          {
+            "numero":"050421",
+            "nombre":"SALTILLO",
+            "direccion":"PASEO DE LA REFORMA NO. 1482-2, COL. PROVIVIENDA",
+            "codigo_postal":"25020",
+            "referencia":"A UN COSTADO DE CONAFE, ANTES DE LLEGAR A WALMART, ENTRE CALLE 12 DE OCTUBRE Y FRANCISCO DE URDI\u00d1OLA"
+          },
+          {
+            "numero":"050721",
+            "nombre":"SALTILLO",
+            "direccion":"REAL NO. S\/N, COL. JARDINES DEL VALLE",
+            "codigo_postal":"25260",
+            "referencia":"OFICINA DISTRITAL, ESQ. BLVD. ISIDRO L\u00d3PEZ ZERTUCHE, FRENTE A CINSA A UN COSTADO DEL OXXO"
+          },
+          {
+            "numero":"050722",
+            "nombre":"SALTILLO",
+            "direccion":"GUADALUPE VICTORIA NO. 215-14, COL. CENTRO",
+            "codigo_postal":"25000",
+            "referencia":"A UN COSTADO DEL RESTAURANT ARCA ENNTRE ACU\u00d1A Y JAVIER MINA"
+          }
+        ]
+      },
+      {
+        "id":"33",
+        "nombre":"SAN PEDRO",
+        "modulos":[
+          {
+            "numero":"050221",
+            "nombre":"SAN PEDRO",
+            "direccion":"AV. HIDALGO NO. 107, COL. CENTRO",
+            "codigo_postal":"27800",
+            "referencia":"ESQ. CON VIESCA Y CALLE ZARAGOZA (EDIFICIO IFE)"
+          }
+        ]
+      },
+      {
+        "id":"35",
+        "nombre":"TORREON",
+        "modulos":[
+          {
+            "numero":"050521",
+            "nombre":"TORREON",
+            "direccion":"DONATO GUERRA NO. SUR-101, COL. ZONA CENTRO",
+            "codigo_postal":"27000",
+            "referencia":"OFICINA DISTRITAL ENTRE LA AV MATAMOROS Y LA AV MORELOS"
+          },
+          {
+            "numero":"050532",
+            "nombre":"TORREON",
+            "direccion":"BOULEVARD RODR\u00cdGUEZ TRIANA NO. SN, COL. LA MERCED",
+            "codigo_postal":"27000",
+            "referencia":"ENTRE BOULEVARD DIAGONAL DE LAS FUENTES Y CALLE DE LOS CANASTOS"
+          },
+          {
+            "numero":"050621",
+            "nombre":"TORREON",
+            "direccion":"BLVD. REVOLUCI\u00d3N NO. 1930, COL. TORRE\u00d3N JARD\u00cdN",
+            "codigo_postal":"27200",
+            "referencia":"ENTRE BEGONIAS Y ACACIAS, A UNA CUADRA DEL COLEGIO LA LUZ"
+          },
+          {
+            "numero":"050622",
+            "nombre":"TORRE\u00d3N",
+            "direccion":"BLVD. REVOLUCI\u00d3N NO. 3155 OTE, COL. CAMPESTRE LA ROSITA",
+            "codigo_postal":"27250",
+            "referencia":"UNIDAD DEPORTIVA 'TORREON' CALLE PASEO DE LA ROSITA Y BLVD. SALTILLO 400, A UN COSTADO DEL GIMNASIO DE LA UNIDAD DEPORTIVA"
+          },
+          {
+            "numero":"050628",
+            "nombre":"NAVARRO",
+            "direccion":"BLVD. CONSTITUCI\u00d3N NO. S\/N, COL. AMPLIACI\u00d3N MARGARITAS",
+            "codigo_postal":"27130",
+            "referencia":"ENTRE CALZADA SALVADOR CREEL Y PASEO DE LOS \u00c1LAMOS AL INTERIOR DEL CENTRO COMERCIAL SORIANA CONSTITUCI\u00d3N, EN EL ESTACIONAMIENTO SUBTERR\u00c1NEO"
+          }
+        ]
+      }
+    ],
+    "nombre":"COAHUILA"
+  },
+  {
+    "id":"6",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"COLIMA",
+        "modulos":[
+          {
+            "numero":"060121",
+            "nombre":"COLIMA",
+            "direccion":"AV. CONSTITUCI\u00d3N NO. 2171, COL. FRACC. LOS OLIVOS",
+            "codigo_postal":"28017",
+            "referencia":"PLAZA LOS OLIVOS, ENTRE OLIVO NEGRO Y AV. EMILIO BRUN"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"MANZANILLO",
+        "modulos":[
+          {
+            "numero":"060221",
+            "nombre":"MANZANILLO",
+            "direccion":"PARICUT\u00cdN NO. 118, COL. BELLAVISTA",
+            "codigo_postal":"28238",
+            "referencia":"AL COSTADO DEL PANTE\u00d3N MUNICIPAL, ESQ. VOLCANES DE COLIMA"
+          }
+        ]
+      },
+      {
+        "id":"10",
+        "nombre":"TECOMAN",
+        "modulos":[
+          {
+            "numero":"060225",
+            "nombre":"TECOMAN",
+            "direccion":"AVENIDA INSURGENTES NO. 1000, COL. TEPEYAC",
+            "codigo_postal":"28110",
+            "referencia":"CASA DE LA CULTURA ENTRE AV MARCIANO CABRERA Y CALLE J\u00daPITER"
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"VILLA DE ALVAREZ",
+        "modulos":[
+          {
+            "numero":"060126",
+            "nombre":"VILLA DE \u00c1LVAREZ",
+            "direccion":"AV. J. MERCED CABRERA NO. S\/N, COL. CENTRO",
+            "codigo_postal":"28970",
+            "referencia":"PRESIDENCIA MUNICIPAL, ENTRE AQUILES SERD\u00c1N Y MORELOS"
+          },
+          {
+            "numero":"060128",
+            "nombre":"VILLA DE \u00c1LVAREZ",
+            "direccion":"AV. PABLO SILVA NO. S\/N, COL. EL CENTENARIO",
+            "codigo_postal":"28984",
+            "referencia":"CASINO SNTE 39 ENTRE GRAL. JACINTO TREVI\u00d1O Y GRAL. PEDRO MA. ANAYA"
+          }
+        ]
+      }
+    ],
+    "nombre":"COLIMA"
+  },
+  {
+    "id":"7",
+    "municipios":[
+      {
+        "id":"13",
+        "nombre":"BOCHIL",
+        "modulos":[
+          {
+            "numero":"070221",
+            "nombre":"070221",
+            "direccion":"6A. OTE SUR NO. 4, COL. BARRIO ORIZABA, C.P. 29760, BOCHIL, CHIAPAS",
+            "codigo_postal":"29760",
+            "referencia":"ENTRE 2A Y 3A SUR A DOS CUADRAS DE LA IGLESIA DE GUADALUPE"
+          }
+        ]
+      },
+      {
+        "id":"23",
+        "nombre":"CHAMULA",
+        "modulos":[
+          {
+            "numero":"070528",
+            "nombre":"CHAMULA",
+            "direccion":"LIRIOS NO. S\/N, COL. CENTRO BARRIO CALVARIO",
+            "codigo_postal":"29320",
+            "referencia":"ENTRE CALLE DIAMANTE Y CALLE DEL CEMENTERIO BARRIO CALVARIO"
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"CINTALAPA",
+        "modulos":[
+          {
+            "numero":"071033",
+            "nombre":"CINTALAPA",
+            "direccion":"1A AVENIDA NORTE ORIENTE NO. S\/N, COL. CENTRO",
+            "codigo_postal":"30400",
+            "referencia":"ENTRE 1A Y 2A ORIENTE NORTE"
+          }
+        ]
+      },
+      {
+        "id":"19",
+        "nombre":"COMITAN DE DOMINGUEZ",
+        "modulos":[
+          {
+            "numero":"070821",
+            "nombre":"COMITAN DE DOMINGUEZ",
+            "direccion":"3A. NTE. PTE. NO. 76, COL. BARRIO DE GUADALUPE",
+            "codigo_postal":"30020",
+            "referencia":"ENTRE 4A Y 5A PTE NORTE, 08 JUNTA DISTRITAL DEL IFE"
+          }
+        ]
+      },
+      {
+        "id":"40",
+        "nombre":"HUIXTLA",
+        "modulos":[
+          {
+            "numero":"071121",
+            "nombre":"HUIXTLA",
+            "direccion":"AV. GONZ\u00c1LEZ ORTEGA NTE. NO. 65, COL. CENTRO",
+            "codigo_postal":"30640",
+            "referencia":"ENTRE CALLE CORREGIDORA Y FRANCISCO ZARCO"
+          }
+        ]
+      },
+      {
+        "id":"59",
+        "nombre":"OCOSINGO",
+        "modulos":[
+          {
+            "numero":"070321",
+            "nombre":"OCOSINGO",
+            "direccion":"4A AV. NTE. PTE. NO. 158, COL. BARRIO NORTE",
+            "codigo_postal":"29950",
+            "referencia":"ENTRE CARRETERA INTERNACIONAL NORTE Y 3A CALLE PONIENTE NORTE"
+          }
+        ]
+      },
+      {
+        "id":"61",
+        "nombre":"OCOZOCOAUTLA DE ESPINOSA",
+        "modulos":[
+          {
+            "numero":"070421",
+            "nombre":"OCOZOCOAUTLA DE ESPINOSA",
+            "direccion":"1A AVENIDA SUR PTE. NO. 771, COL. BARRIO SAN ANTONIO",
+            "codigo_postal":"29140",
+            "referencia":"ENTRE 6A Y 7A PTE., FRENTE AL AUDITORIO MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"65",
+        "nombre":"PALENQUE",
+        "modulos":[
+          {
+            "numero":"070121",
+            "nombre":"PALENQUE",
+            "direccion":"AV. 5 DE MAYO NO. S\/N INT. 7, COL. PALENQUE",
+            "codigo_postal":"29960",
+            "referencia":"ENTRE PERIF\u00c9RICO NORTE Y CALLE NUEVO M\u00c9XICO"
+          }
+        ]
+      },
+      {
+        "id":"68",
+        "nombre":"PICHUCALCO",
+        "modulos":[
+          {
+            "numero":"070422",
+            "nombre":"PICHUCALCO",
+            "direccion":"AV. DR. BELISARIO DOM\u00cdNGUEZ NO. 9, COL. PICHUCALCO",
+            "codigo_postal":"29520",
+            "referencia":"ENTRE AURORA Y JORGE CAMACHO VIDAL (FRENTE A TELMEX)"
+          }
+        ]
+      },
+      {
+        "id":"77",
+        "nombre":"SAN CRISTOBAL DE LAS CASAS",
+        "modulos":[
+          {
+            "numero":"070521",
+            "nombre":"SAN CRISTOBAL DE LAS CASAS",
+            "direccion":"PROL. INSURGENTES NO. 191, COL. BARRIO MARIA AUXILIADORA",
+            "codigo_postal":"29290",
+            "referencia":"ENTRE PERIF\u00c9RICO SUR Y CALLEJ\u00d3N JUAN BOSCO"
+          }
+        ]
+      },
+      {
+        "id":"90",
+        "nombre":"TAPACHULA",
+        "modulos":[
+          {
+            "numero":"071221",
+            "nombre":"TAPACHULA",
+            "direccion":"1\u00aa. CALLE ORIENTE NO. 7, COL. CENTRO",
+            "codigo_postal":"30700",
+            "referencia":"ENTRE CENTRAL Y 1A NTE, FRENTE AL HOTEL CERVANTINO"
+          }
+        ]
+      },
+      {
+        "id":"97",
+        "nombre":"TONALA",
+        "modulos":[
+          {
+            "numero":"070721",
+            "nombre":"TONALA",
+            "direccion":"FRANCISCO I MADERO NO. 114, COL. BARRIO NUEVO",
+            "codigo_postal":"30500",
+            "referencia":"ESQUINA AV. IGNACIO ZARAGOZA"
+          }
+        ]
+      },
+      {
+        "id":"102",
+        "nombre":"TUXTLA GUTIERREZ",
+        "modulos":[
+          {
+            "numero":"070621",
+            "nombre":"TUXTLA GUTIERREZ",
+            "direccion":"BOULEVARD BELISARIO DOMINGUEZ NO. 3875-B, COL. TER\u00c1N",
+            "codigo_postal":"29050",
+            "referencia":"CARRETERA INTERNACIONAL KM. 1070, ENTRE 4A PONIENTE NORTE Y ENTRADA AL CLUB ROTARIO"
+          },
+          {
+            "numero":"070921",
+            "nombre":"TUXTLA GUTIERREZ",
+            "direccion":"15A PTE. NTE. NO. 206, COL. MOCTEZUMA",
+            "codigo_postal":"29030",
+            "referencia":"ENTRE BOULEVARD BELISARIO DOMINGUEZ Y 1A NTE PTE"
+          }
+        ]
+      },
+      {
+        "id":"109",
+        "nombre":"VILLAFLORES",
+        "modulos":[
+          {
+            "numero":"071021",
+            "nombre":"VILLAFLORES",
+            "direccion":"2A. AV. SUR PTE. NO. 265, COL. BARRIO GUADALUPE",
+            "codigo_postal":"30470",
+            "referencia":"ENTRE 11A Y 12A PONIENTE, FRENTE A LA IGLESIA DE GUADALUPE"
+          }
+        ]
+      }
+    ],
+    "nombre":"CHIAPAS"
+  },
+  {
+    "id":"8",
+    "municipios":[
+      {
+        "id":"19",
+        "nombre":"CHIHUAHUA",
+        "modulos":[
+          {
+            "numero":"080621",
+            "nombre":"CHIHUAHUA",
+            "direccion":"AV. ANTONIO DE MONTES NO. 1307, COL. SAN FELIPE",
+            "codigo_postal":"31203",
+            "referencia":"ENTRE BLAS CANO DE LOS R\u00cdOS Y DEZA Y ULLOA"
+          },
+          {
+            "numero":"080622",
+            "nombre":"CHIHUAHUA",
+            "direccion":"PERIF\u00c9RICO ORTIZ MENA NO. 4054, COL. FOVISSTE",
+            "codigo_postal":"31206",
+            "referencia":"EN LA DIRECCI\u00d3N DE TR\u00c1NSITO EN EL DEPARTAMENTO DE LICENCIAS"
+          },
+          {
+            "numero":"080821",
+            "nombre":"CHIHUAHUA",
+            "direccion":"PINO NO. 2307-2, COL. FRACC. SATELITE",
+            "codigo_postal":"31104",
+            "referencia":"ENTRE LA AVE. TECNOLOGICO Y C. PAQUIME"
+          },
+          {
+            "numero":"080822",
+            "nombre":"CHIHUAHUA",
+            "direccion":"BLVD. FUENTES MARES Y 16 DE SEPTIEMBRE NO. S\/N, COL. \u00c1VALOS",
+            "codigo_postal":"31390",
+            "referencia":"EN LA SUBCOMANDANCIA DE POLIC\u00cdA EN \u00c1VALOS"
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"CUAUHTEMOC",
+        "modulos":[
+          {
+            "numero":"080721",
+            "nombre":"CUAUHTEMOC",
+            "direccion":"TERCERA INT. 1040, COL. CENTRO",
+            "codigo_postal":"31500",
+            "referencia":"CERCA DEL JARDIN DE NI\u00d1OS 10 DE MAYO, A LA VUELTA DE OFICINAS DEL IFE"
+          }
+        ]
+      },
+      {
+        "id":"21",
+        "nombre":"DELICIAS",
+        "modulos":[
+          {
+            "numero":"080521",
+            "nombre":"DELICIAS",
+            "direccion":"AV. 7 ORIENTE NO. 703, COL. SECTOR ORIENTE",
+            "codigo_postal":"33000",
+            "referencia":"FRENTE AL CENTRO COMERCIAL SORIANA"
+          }
+        ]
+      },
+      {
+        "id":"32",
+        "nombre":"HIDALGO DEL PARRAL",
+        "modulos":[
+          {
+            "numero":"080921",
+            "nombre":"HIDALGO DEL PARRAL",
+            "direccion":"ESCALERILAS, NO. 13, COL. BARRIO DEL CONEJO",
+            "codigo_postal":"33850",
+            "referencia":"VOCAL\u00cdA DEL REGISTRO FEDERAL DE ELECTORES. ENTRE C. AZTECAS Y C. ORT\u00cdZ MENA"
+          }
+        ]
+      },
+      {
+        "id":"37",
+        "nombre":"JUAREZ",
+        "modulos":[
+          {
+            "numero":"080121",
+            "nombre":"JUAREZ",
+            "direccion":"HACIENDA DEL PORTAL NO. 10120, COL. FRACC. HACIENDA DE LAS TORRES II",
+            "codigo_postal":"32695",
+            "referencia":"ESQ. CON CALLE HACIENDA DEL ARADO, A 100 MTS. DE AV. DE LAS TORRES"
+          },
+          {
+            "numero":"080123",
+            "nombre":"JU\u00c1REZ",
+            "direccion":"PUERTO PRINCIPIO Y PUERTO DESPERTAR S\/N, COL. TIERRA NUEVA",
+            "codigo_postal":"32599",
+            "referencia":"A UN COSTADO DE LA ESCUELA PRIMARIA MAHATMA GHANDI"
+          },
+          {
+            "numero":"080221",
+            "nombre":"JUAREZ",
+            "direccion":"AV. SANDERS NO. S\/N, COL. SANTA ROSA",
+            "codigo_postal":"32250",
+            "referencia":"ESQ. CON AYUNTAMIENTO, ANTIGUO MERCADO FRONTERA"
+          },
+          {
+            "numero":"080222",
+            "nombre":"JU\u00c1REZ",
+            "direccion":"BLVD. BERNARDO NORZAGARAY NO. 3520, COL. ALTA VISTA",
+            "codigo_postal":"32120",
+            "referencia":"ENFRENTE DE PREPARATORIA ALTAVISTA"
+          },
+          {
+            "numero":"080321",
+            "nombre":"JUAREZ",
+            "direccion":"AV. MANUEL G\u00d3MEZ MOR\u00cdN NO. 7950, COL. ADICI\u00d3N CAMPESTRE",
+            "codigo_postal":"32460",
+            "referencia":"DENTRO DEL CENTRO COMERCIAL VALLE CAMPESTRE"
+          },
+          {
+            "numero":"080323",
+            "nombre":"JUAREZ",
+            "direccion":"AV. ADOLFO L\u00d3PEZ MATEOS NO. 250 NORTE, COL. MONUMENTAL",
+            "codigo_postal":"32310",
+            "referencia":"DENTRO DE LA DIRECCI\u00d3N DE DESARROLLO SOCIAL DEL MPIO. DE JU\u00c1REZ"
+          },
+          {
+            "numero":"080421",
+            "nombre":"JUAREZ",
+            "direccion":"CATALINA NO. 5916, COL. FRACC. LOMAS DEL REY",
+            "codigo_postal":"32650",
+            "referencia":"ENTRE JOSEFINA Y GUADALUPE"
+          },
+          {
+            "numero":"080422",
+            "nombre":"JU\u00c1REZ",
+            "direccion":"AVE. DE LAS TORRES NO. 135, COL. EJIDO SALVARCAR (JU\u00c1REZ NUEVO)",
+            "codigo_postal":"32583",
+            "referencia":"LOCAL 1, PLAZA COMERCIAL SAN CARLOS, FRENTE A GAS NATURAL DE JUAREZ"
+          }
+        ]
+      },
+      {
+        "id":"50",
+        "nombre":"NUEVO CASAS GRANDES",
+        "modulos":[
+          {
+            "numero":"080722",
+            "nombre":"NUEVO CASAS GRANDES",
+            "direccion":"C. 16 DE SEPTIEMBRE NO. 501-D, COL. CENTRO",
+            "codigo_postal":"31700",
+            "referencia":"ESQUINA CON AVENIDA HIDALGO"
+          }
+        ]
+      }
+    ],
+    "nombre":"CHIHUAHUA"
+  },
+  {
+    "id":"9",
+    "municipios":[
+      {
+        "id":"10",
+        "nombre":"ALVARO OBREGON",
+        "modulos":[
+          {
+            "numero":"091621",
+            "nombre":"SAN PEDRO DE LOS PINOS",
+            "direccion":"CALLE 10 LOCAL SA1 NO. 132, COL. SAN PEDRO DE LOS PINOS",
+            "codigo_postal":"1140",
+            "referencia":"DENTRO DE LA PLAZA EXHIBIMEX FRENTE A LOS CINES"
+          }
+        ]
+      },
+      {
+        "id":"2",
+        "nombre":"AZCAPOTZALCO",
+        "modulos":[
+          {
+            "numero":"090321",
+            "nombre":"CENTRO DE AZCAPOTZALCO",
+            "direccion":"AV. AZCAPOTZALCO NO. 527, COL. CENTRO DE AZCAPOTZALCO",
+            "codigo_postal":"2000",
+            "referencia":"ENTRE 16 DE SEPTIEMBRE Y LIBERTAD EN EL 1ER. PISO DEL CENTRO COMERCIAL AZCAPOTZALCO"
+          }
+        ]
+      },
+      {
+        "id":"14",
+        "nombre":"BENITO JUAREZ",
+        "modulos":[
+          {
+            "numero":"091521",
+            "nombre":"DEL VALLE",
+            "direccion":"PILARES NO. 46, COL. DEL VALLE",
+            "codigo_postal":"3100",
+            "referencia":"ENTRE CAPULIN Y RAFAEL ALDUCIN"
+          },
+          {
+            "numero":"091522",
+            "nombre":"ALAMOS",
+            "direccion":"CALZ. DE TLALPAN NO. 757, COL. ALAMOS",
+            "codigo_postal":"3400",
+            "referencia":"ENTRE AV. XOLA Y ESQ. CUENCA"
+          }
+        ]
+      },
+      {
+        "id":"3",
+        "nombre":"COYOACAN",
+        "modulos":[
+          {
+            "numero":"092321",
+            "nombre":"LOS REYES",
+            "direccion":"AV. AZTECAS NO. 270, COL. LOS REYES",
+            "codigo_postal":"4330",
+            "referencia":"ENTRE REY MOCTEZUMA Y MONTSERRAT LOCALES 32 Y 33, PLAZA CANTIL"
+          },
+          {
+            "numero":"092421",
+            "nombre":"EHACIENDA COAPA",
+            "direccion":"CALZ. DE LAS BOMBAS NO. 128-11, COL. EX-HACIENDA COAPA",
+            "codigo_postal":"4980",
+            "referencia":"ENTRE AV. CANAL DE MIRAMONTES Y PROL. DIVISI\u00d3N DEL NORTE A ESPALDAS DE LA CL\u00cdNICA NO. 32 DEL IMSS"
+          },
+          {
+            "numero":"092423",
+            "nombre":"DEL CARMEN",
+            "direccion":"PAR\u00cdS NO. 188-D, COL. DEL CARMEN",
+            "codigo_postal":"4100",
+            "referencia":"ESQ. CON ALLENDE, A UNA CUADRA DEL MERCADO COYOAC\u00c1N."
+          }
+        ]
+      },
+      {
+        "id":"4",
+        "nombre":"CUAJIMALPA DE MORELOS",
+        "modulos":[
+          {
+            "numero":"091721",
+            "nombre":"SAN JOS\u00c9 DE LOS CEDROS",
+            "direccion":"CEDROS NO. 8, COL. SAN JOS\u00c9 DE LOS CEDROS",
+            "codigo_postal":"5200",
+            "referencia":"ENTRE C. PI\u00d1\u00d3N Y C. EUCALIPTO"
+          }
+        ]
+      },
+      {
+        "id":"15",
+        "nombre":"CUAUHTEMOC",
+        "modulos":[
+          {
+            "numero":"090821",
+            "nombre":"SANTA MAR\u00cdA LA RIBERA",
+            "direccion":"NARANJO NO. 46, COL. SANTA MAR\u00cdA LA RIBERA",
+            "codigo_postal":"6400",
+            "referencia":"ENTRE AMADO NERVO Y LOPEZ VELARDO"
+          },
+          {
+            "numero":"091221",
+            "nombre":"HIP\u00d3DROMO CONDESA",
+            "direccion":"AV. BAJA CALIFORNIA (EJE 3 SUR) NO. 284, COL. HIP\u00d3DROMO CONDESA",
+            "codigo_postal":"6100",
+            "referencia":"ENTRE NUEVO LE\u00d3N Y CULIAC\u00c1N A TRES CUADRAS DEL METRO CHILPANCINGO, FRENTE A LA GASOLINER\u00cdA"
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"GUSTAVO A. MADERO",
+        "modulos":[
+          {
+            "numero":"090121",
+            "nombre":"ZONA ESCOLAR",
+            "direccion":"AV. JAIME NUNO NO. 63, COL. ZONA ESCOLAR",
+            "codigo_postal":"7230",
+            "referencia":"AV. FRANCISCO VILLA Y AV. LAZARO CARDENAS FRENTE AL RECLUSORIO NORTE"
+          },
+          {
+            "numero":"090221",
+            "nombre":"PUEBLO SAN BARTOLO ATEPEHUACAN",
+            "direccion":"AV. MONTEVIDEO NO. 636, COL. PUEBLO SAN BARTOLO ATEPEHUACAN",
+            "codigo_postal":"7330",
+            "referencia":"CASI ESQ. AV. DE LOS 100 METROS, ABAJO DEL RESTAURANTE EL CAMPIRANO"
+          },
+          {
+            "numero":"090222",
+            "nombre":"SANTA ROSA",
+            "direccion":"CALLE 14-A NO. 40, COL. SANTA ROSA",
+            "codigo_postal":"7270",
+            "referencia":"ENTRE CALZ. VALLEJO Y C. 3-A, A UNA CALLE DEL METROB\u00daS SAN JOS\u00c9 DE LA ESCALERA"
+          },
+          {
+            "numero":"090621",
+            "nombre":"VASCO DE QUIROGA",
+            "direccion":"FRAY SEBASTI\u00c1N DE APARICIO NO. 122-C, COL. VASCO DE QUIROGA",
+            "codigo_postal":"7440",
+            "referencia":"ESQUINA INGENIERO EDUARDO MOLINA, FRENTE PANADER\u00cdA LECAROZ"
+          },
+          {
+            "numero":"090721",
+            "nombre":"NUEVA TENOCHTITL\u00c1N",
+            "direccion":"NORTE 90 NO. 4522, COL. NUEVA TENOCHTITL\u00c1N",
+            "codigo_postal":"7890",
+            "referencia":"ENTRE LAS CALLES ORIENTE 87 Y ORIENTE 91"
+          }
+        ]
+      },
+      {
+        "id":"6",
+        "nombre":"IZTACALCO",
+        "modulos":[
+          {
+            "numero":"091321",
+            "nombre":"GRANJAS M\u00c9XICO",
+            "direccion":"AV. A\u00d1IL NO. 571, COL. GRANJAS M\u00c9XICO",
+            "codigo_postal":"8400",
+            "referencia":"ENTRE CALLE RESINA Y AV. R\u00cdO CHURUBUSCO EDIFICIO DE AV\u00d3N, FRENTE AL FORO SOL"
+          }
+        ]
+      },
+      {
+        "id":"7",
+        "nombre":"IZTAPALAPA",
+        "modulos":[
+          {
+            "numero":"090423",
+            "nombre":"SANTA MAR\u00cdA TOMATL\u00c1N",
+            "direccion":"AV. TL\u00c1HUAC NO. 4158, COL. SANTA MAR\u00cdA TOMATL\u00c1N",
+            "codigo_postal":"9870",
+            "referencia":"ENTRE EMILIANO ZAPATA Y PROGRESO"
+          },
+          {
+            "numero":"091821",
+            "nombre":"LEYES DE REFORMA 3A. SECCI\u00d3N",
+            "direccion":"BATALLA DE TUNAS BLANCAS NO. 720-A, COL. LEYES DE REFORMA 3A. SECCI\u00d3N",
+            "codigo_postal":"9310",
+            "referencia":"CASI ESQUINA ROJO GOMEZ JUNTO A MULTIPACK, FRENTE A LA ZONA DE BANCOS"
+          },
+          {
+            "numero":"091921",
+            "nombre":"PUEBLO DE SANTA CRUZ MEYEHUALCO",
+            "direccion":"CALZ. ERMITA IZTAPALAPA NO. 2367, COL. PUEBLO DE SANTA CRUZ MEYEHUALCO",
+            "codigo_postal":"9700",
+            "referencia":"ENTRE MAURILIO MEJIA Y GUADALUPE VICTORIA"
+          },
+          {
+            "numero":"092021",
+            "nombre":"AMPLIACI\u00d3N SINATEL",
+            "direccion":"AV. SINATEL, COL. AMPLIACI\u00d3N SINATEL",
+            "codigo_postal":"9470",
+            "referencia":"ENTRE SUR 73, SUR 73 A, MUNICIPIO LIBRE Y ORIENTE 172, FRENTE AL CAMPO DE BEISBOL"
+          },
+          {
+            "numero":"092221",
+            "nombre":"2DA. AMPLIACI\u00d3N SANTIAGO ACAHUALTEPEC",
+            "direccion":"AV. CARLOS HANK GONZ\u00c1LEZ NO. S\/N, COL. 2DA. AMPLIACI\u00d3N SANTIAGO ACAHUALTEPEC",
+            "codigo_postal":"9609",
+            "referencia":"ENTRE ENCINO Y BAMB\u00da, A 5 MINUTOS DE LA PENITENCIARIA DE STA. MARTHA ACATITLA"
+          },
+          {
+            "numero":"092521",
+            "nombre":"SAN LORENZO TEZONCO",
+            "direccion":"AV. MATEO SALDA\u00d1A NO. 6 BIS, COL. SAN LORENZO TEZONCO",
+            "codigo_postal":"9900",
+            "referencia":"ENTRE AV. TLAHUAC Y PAISAJE DE MIXCOAC"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"LA MAGDALENA CONTRERAS",
+        "modulos":[
+          {
+            "numero":"092621",
+            "nombre":"H\u00c9ROES DE PADIERNA",
+            "direccion":"AV. M\u00c9XICO NO. 792, COL. H\u00c9ROES DE PADIERNA",
+            "codigo_postal":"10700",
+            "referencia":"AV. CAMINO A STA. TERESA Y CALLE QUERETAR A DOS CUADRAS DEL HOSPITAL \u00c1NGELES"
+          }
+        ]
+      },
+      {
+        "id":"16",
+        "nombre":"MIGUEL HIDALGO",
+        "modulos":[
+          {
+            "numero":"091021",
+            "nombre":"GRANADA",
+            "direccion":"LAGUNA DE LA MANCHA NO. 15, COL. GRANADA",
+            "codigo_postal":"11520",
+            "referencia":"A DOS CALLES DEL METRO SAN JOAQUIN Y A UNA CALLE DE LA AV. MIGUEL DE CERVANTES"
+          },
+          {
+            "numero":"091023",
+            "nombre":"SAN MIGUEL CHAPULTEPEC",
+            "direccion":"GOBERNADOR LUIS G. VIEYRA NO. 63, COL. SAN MIGUEL CHAPULTEPEC",
+            "codigo_postal":"11850",
+            "referencia":"AV. PARQUE LIRA Y GRAL. VICENTE GU\u00cdA ESTACI\u00d3N DEL METROBUS PARQUE LIRA"
+          }
+        ]
+      },
+      {
+        "id":"11",
+        "nombre":"TLAHUAC",
+        "modulos":[
+          {
+            "numero":"092721",
+            "nombre":"LA CONCHITA ZAPOTITL\u00c1N",
+            "direccion":"TE\u00d3FILO NORE NO. 27, COL. LA CONCHITA ZAPOTITL\u00c1N",
+            "codigo_postal":"13360",
+            "referencia":"ENTRE AV. TLAHUAC Y ADOLFO UNDA"
+          }
+        ]
+      },
+      {
+        "id":"12",
+        "nombre":"TLALPAN",
+        "modulos":[
+          {
+            "numero":"090521",
+            "nombre":"EXHACIENDA SAN JUAN DE DIOS",
+            "direccion":"AV. PROLONGACI\u00d3N DIVISI\u00d3N DEL NORTE NO. 4541, COL. EXHACIENDA SAN JUAN DE DIOS",
+            "codigo_postal":"14380",
+            "referencia":"ENTRE C. ESCUELA Y C. GRIJALVA INT. PLAZA MARKET PLACE"
+          },
+          {
+            "numero":"091421",
+            "nombre":"H\u00c9ROES DE PADIERNA",
+            "direccion":"IZAMAL NO. 416, COL. H\u00c9ROES DE PADIERNA",
+            "codigo_postal":"14200",
+            "referencia":"ENTRE CALLE TECAL Y PISTE, FRENTE DEPORTIVO GRAL. S\u00c1NCHEZ TABOADA"
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"VENUSTIANO CARRANZA",
+        "modulos":[
+          {
+            "numero":"090921",
+            "nombre":"AMPLIACI\u00d3N 20 DE NOVIEMBRE",
+            "direccion":"AV. ING. EDUARDO MOLINA NO. S\/N, COL. AMPLIACI\u00d3N 20 DE NOVIEMBRE",
+            "codigo_postal":"15260",
+            "referencia":"ENTRE LAS CALLES DE PROGRESO Y PELUQUEROS"
+          },
+          {
+            "numero":"090922",
+            "nombre":"JARD\u00cdN BALBUENA",
+            "direccion":"AV. MIGUEL RIVERA CAMBAS NO. 61, COL. JARD\u00cdN BALBUENA",
+            "codigo_postal":"15900",
+            "referencia":"ENTRE CECILIO ROBELO Y CALZ. IGNACIO ZARAGOZA"
+          },
+          {
+            "numero":"091121",
+            "nombre":"CUATRO ARBOLES",
+            "direccion":"CALZ. GRAL. IGNACIO ZARAGOZA NO. S\/N, COL. CUATRO ARBOLES",
+            "codigo_postal":"15730",
+            "referencia":"ENTRE ENRIQUE FARMAN Y SRIA. DEL TRABAJO, ESTACI\u00d3N METRO ZARAGOZA, A UN COSTADO DE TELMEX"
+          }
+        ]
+      },
+      {
+        "id":"13",
+        "nombre":"XOCHIMILCO",
+        "modulos":[
+          {
+            "numero":"092122",
+            "nombre":"BARRIO XALTOCAN",
+            "direccion":"CALZ. NATIVITAS NO. 35, COL. BARRIO XALTOCAN",
+            "codigo_postal":"16090",
+            "referencia":"ENTRE HELIOTROPO Y R\u00cdO SAN LUCAS, DENTRO DE LA PLAZA COMERCIAL MANANTIALES NATIVITAS"
+          },
+          {
+            "numero":"092522",
+            "nombre":"POTRERO DE SAN BERNARDINO",
+            "direccion":"AV. PROLONGACI\u00d3N DIVISI\u00d3N DEL NORTE NO. 5253, COL. POTRERO DE SAN BERNARDINO, C.P. 16030, XOCHIMILCO, DISTRITO FEDERAL",
+            "codigo_postal":"16030",
+            "referencia":"(DOM. OFI. CLAVEL 60-1), ENTRE CLAVEL Y AV. DIVISI\u00d3N DEL NORTE A UN COSTADO DEL BANCO HSBC Y DORMIMUNDO"
+          }
+        ]
+      }
+    ],
+    "nombre":"DISTRITO FEDERAL"
+  },
+  {
+    "id":"10",
+    "municipios":[
+      {
+        "id":"5",
+        "nombre":"DURANGO",
+        "modulos":[
+          {
+            "numero":"100121",
+            "nombre":"DURANGO",
+            "direccion":"BLVD. DOMINGO ARRIETA NO. 2125, COL. 8 DE SEPTIEMBRE",
+            "codigo_postal":"34196",
+            "referencia":"01 JUNTA DISTRITAL ENTRE LAS CALLES HILARIO P\u00c9REZ DE LE\u00d3N Y SIM\u00d3N \u00c1LVAREZ"
+          },
+          {
+            "numero":"100421",
+            "nombre":"DURANGO",
+            "direccion":"ASIANO NO. 156, COL. FRACC. JARDINES DE DURANGO",
+            "codigo_postal":"34200",
+            "referencia":"ESQ. BOULEVARD JUAN PABLO II"
+          },
+          {
+            "numero":"100422",
+            "nombre":"DURANGO",
+            "direccion":"C. ZARCO NO. 409, COL. CENTRO",
+            "codigo_postal":"34000",
+            "referencia":"ENTRE CALLE PINO SUAREZ Y CALLE CINCO DE FEBRERO"
+          }
+        ]
+      },
+      {
+        "id":"7",
+        "nombre":"GOMEZ PALACIO",
+        "modulos":[
+          {
+            "numero":"100221",
+            "nombre":"GOMEZ PALACIO",
+            "direccion":"AV. ALLENDE NTE. NO. 610, COL. ZONA CENTRO",
+            "codigo_postal":"35000",
+            "referencia":"02 JUNTA DISTRITAL EJECUTIVA (ENTRE 20 DE NOVIEMBRE Y CONSTITUCI\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"GUADALUPE VICTORIA",
+        "modulos":[
+          {
+            "numero":"100321",
+            "nombre":"GUADALUPE VICTORIA",
+            "direccion":"JOS\u00c9 RAM\u00d3N VALDEZ NO. 407, COL. CENTRO",
+            "codigo_postal":"34700",
+            "referencia":"VOCALIA DISTRITAL, ENTRE AV M\u00c1RTIRES DE CHICAGO Y AV JU\u00c1REZ"
+          }
+        ]
+      },
+      {
+        "id":"12",
+        "nombre":"LERDO",
+        "modulos":[
+          {
+            "numero":"100222",
+            "nombre":"LERDO",
+            "direccion":"AVE. ZARAGOZA NTE. NO. 520, COL. CENTRO",
+            "codigo_postal":"35150",
+            "referencia":"A UNA CUADRA DEL PARQUE VICTORIA (ENTRE GALEANA Y OCAMPO)"
+          }
+        ]
+      },
+      {
+        "id":"33",
+        "nombre":"SANTIAGO PAPASQUIARO",
+        "modulos":[
+          {
+            "numero":"100137",
+            "nombre":"SANTIAGO PAPASQUIARO",
+            "direccion":"BRUNO MART\u00cdNEZ NO. 25 INT. 10, COL. CENTRO, SANTIAGO PAPASQUIARO",
+            "codigo_postal":"34630",
+            "referencia":"ENTRE LAS CALLES LEYVA Y ARROYO DEL TAGARETE"
+          }
+        ]
+      }
+    ],
+    "nombre":"DURANGO"
+  },
+  {
+    "id":"11",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"ABASOLO",
+        "modulos":[
+          {
+            "numero":"111130",
+            "nombre":"ABASOLO",
+            "direccion":"LERDO PONIENTE NO. 408, COL. ZONA CENTRO",
+            "codigo_postal":"36970",
+            "referencia":"A UN LADO DE LA PELUQUER\u00cdA LA TIJERA DE ORO"
+          }
+        ]
+      },
+      {
+        "id":"2",
+        "nombre":"ACAMBARO",
+        "modulos":[
+          {
+            "numero":"111421",
+            "nombre":"ACAMBARO",
+            "direccion":"AVENIDA 1 DE MAYO NO. 1659, COL. SAN ISIDRO",
+            "codigo_postal":"38670",
+            "referencia":"ENTRE LA PROL. MORELOS Y C SAN LUIS POTOSI"
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"APASEO EL GRANDE",
+        "modulos":[
+          {
+            "numero":"111423",
+            "nombre":"APASEO EL GRANDE",
+            "direccion":"C. MARIANO MATAMOROS NO. 224, COL. CENTRO",
+            "codigo_postal":"38160",
+            "referencia":"ENTRE C. VENUSTIANO CARRANZA Y C. VICENTE GUERRERO"
+          }
+        ]
+      },
+      {
+        "id":"7",
+        "nombre":"CELAYA",
+        "modulos":[
+          {
+            "numero":"111221",
+            "nombre":"CELAYA",
+            "direccion":"INSURGENTES NO. 113, COL. CENTRO",
+            "codigo_postal":"38000",
+            "referencia":"ENTRE CALLE 5 DE MAYO Y CALLE MANUEL DOBLADO"
+          }
+        ]
+      },
+      {
+        "id":"9",
+        "nombre":"COMONFORT",
+        "modulos":[
+          {
+            "numero":"110223",
+            "nombre":"COMONFORT",
+            "direccion":"CARRETERA A CELAYA NO. 44-B, COL. CENTRO",
+            "codigo_postal":"38200",
+            "referencia":"ESQUINA PROLONGACI\u00d3N MINISTERIAL"
+          }
+        ]
+      },
+      {
+        "id":"11",
+        "nombre":"CORTAZAR",
+        "modulos":[
+          {
+            "numero":"111324",
+            "nombre":"CORTAZAR",
+            "direccion":"C. MANUEL DOBLADO 137 NO. S\/N, COL. CENTRO",
+            "codigo_postal":"38300",
+            "referencia":"ENTRE CALLES B. JU\u00c1REZ Y MELCHOR OCAMPO; A 80 MTS DEL JARD\u00cdN PRINCIPAL"
+          }
+        ]
+      },
+      {
+        "id":"15",
+        "nombre":"GUANAJUATO",
+        "modulos":[
+          {
+            "numero":"110421",
+            "nombre":"GUANAJUATO",
+            "direccion":"CARR LIBRE GUANAJUATO - SILAO KM 5.5, COL. MARFIL",
+            "codigo_postal":"36250",
+            "referencia":"'CENTRO COMERCIAL VILLAS MANCHEGAS ', FRENTE A LA SUBIDA A LA COLONIA LAS TERESAS"
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"IRAPUATO",
+        "modulos":[
+          {
+            "numero":"110921",
+            "nombre":"IRAPUATO",
+            "direccion":"CRATER NO. 2072, COL. LAS REYNAS",
+            "codigo_postal":"36660",
+            "referencia":"ENTRE CALLE VOLC\u00c1N, ATR\u00c1S DE MEGA COMERCIAL MEXICANA"
+          }
+        ]
+      },
+      {
+        "id":"20",
+        "nombre":"LEON",
+        "modulos":[
+          {
+            "numero":"110321",
+            "nombre":"LEON",
+            "direccion":"AV. DEL ASTILLERO NO. 148, COL. CENTRO BODEGUERO LAS TROJES",
+            "codigo_postal":"37227",
+            "referencia":"ESQ. BLVD ANTONIO MADRAZO FRENTE A MUEBLERIA GAL"
+          },
+          {
+            "numero":"110322",
+            "nombre":"LE\u00d3N",
+            "direccion":"BLVD. VICENTE VALTIERRA NO. S\/N, COL. SAN MANUEL",
+            "codigo_postal":"37250",
+            "referencia":"ESQUINA BOULEVARD HILARIO MEDINA, AL LADO DE BODEGA AURRERA"
+          },
+          {
+            "numero":"110521",
+            "nombre":"LEON",
+            "direccion":"REP\u00daBLICA DE ECUADOR NO. 302, COL. ARBIDE",
+            "codigo_postal":"37360",
+            "referencia":"ENTRE VERACRUZ Y OAXACA"
+          },
+          {
+            "numero":"110525",
+            "nombre":"LE\u00d3N",
+            "direccion":"BLVD. SAN JUAN BOSCO NO. S\/N, COL. INDUSTRIAL",
+            "codigo_postal":"37340",
+            "referencia":"ENTRE C. SALAMANCA Y SAN JUAN DE LOS LAGOS EN EL MERCADO"
+          },
+          {
+            "numero":"110621",
+            "nombre":"LEON",
+            "direccion":"BLVD. ADOLFO L\u00d3PEZ MATEOS NO. 3002, COL. JARDINES DE JEREZ",
+            "codigo_postal":"37530",
+            "referencia":"ATR\u00c1S BOULEVARD TORRES LANDA, CENTRO COMERCIAL PLAZA VENECIA"
+          },
+          {
+            "numero":"110625",
+            "nombre":"LE\u00d3N",
+            "direccion":"BLVD. JUAN JOS\u00c9 TORRES LANDA NO. 1701, COL. LA PISCINA",
+            "codigo_postal":"37440",
+            "referencia":"CENTRO COMERCIAL SORIANA PLAZA SAT\u00c9LITE"
+          }
+        ]
+      },
+      {
+        "id":"23",
+        "nombre":"PENJAMO",
+        "modulos":[
+          {
+            "numero":"111121",
+            "nombre":"PENJAMO",
+            "direccion":"BLVD. ALDAMA NO. 73, COL. CENTRO",
+            "codigo_postal":"36900",
+            "referencia":"ENTRE CALLE GARDENIA Y BOULEVARD L\u00c1ZARO C\u00c1RDENAS, FRENTE A LA GLORIETA"
+          }
+        ]
+      },
+      {
+        "id":"27",
+        "nombre":"SALAMANCA",
+        "modulos":[
+          {
+            "numero":"110821",
+            "nombre":"SALAMANCA",
+            "direccion":"HEROES DE CANANEA NO. 404, COL. JARDINES DE SAN JUAN",
+            "codigo_postal":"36770",
+            "referencia":"ENTRE AV. HIDALGO Y PRIV. JUAREZ (ANTES COMPLEJO LIBERTAD)"
+          }
+        ]
+      },
+      {
+        "id":"30",
+        "nombre":"SAN FELIPE",
+        "modulos":[
+          {
+            "numero":"110128",
+            "nombre":"SAN FELIPE",
+            "direccion":"C. 5 DE FEBRERO NO. 104, COL. BARRIO EL SANTUARIO",
+            "codigo_postal":"37600",
+            "referencia":"ENTRE CALLE MORELOS Y CALLE CICL\u00d3N POSTERIOR CALLE LA SOLEDAD"
+          }
+        ]
+      },
+      {
+        "id":"31",
+        "nombre":"SAN FRANCISCO DEL RINCON",
+        "modulos":[
+          {
+            "numero":"110721",
+            "nombre":"SAN FRANCISCO DEL RINCON",
+            "direccion":"AGUASCALIENTES NO. 738, COL. SAN CARLOS",
+            "codigo_postal":"36350",
+            "referencia":"ESQ. CON IGNACIO MARISCAL, A ESPALDAS DEL DIF MUNICIPAL, 07 JDE DEL IFE"
+          }
+        ]
+      },
+      {
+        "id":"32",
+        "nombre":"SAN JOSE ITURBIDE",
+        "modulos":[
+          {
+            "numero":"110228",
+            "nombre":"SAN JOS\u00c9 ITURBIDE",
+            "direccion":"C. MIGUEL HIDALGO NO. 61, COL. CENTRO",
+            "codigo_postal":"37980",
+            "referencia":"ENTRE CALLES MOCTEZUMA Y MANUEL DOBLADO, ATR\u00c1S DR HERN\u00c1NDEZ ALBA"
+          }
+        ]
+      },
+      {
+        "id":"33",
+        "nombre":"SAN LUIS DE LA PAZ",
+        "modulos":[
+          {
+            "numero":"110121",
+            "nombre":"SAN LUIS DE LA PAZ",
+            "direccion":"WALTER C BUCHANAN NO. 228, COL. ISSSTE",
+            "codigo_postal":"37900",
+            "referencia":"ENTRE LIBRAMIENTO SUR, ALH\u00d3NDIGA Y RENOVACI\u00d3N, CRUCERO SALIDA"
+          }
+        ]
+      },
+      {
+        "id":"3",
+        "nombre":"SAN MIGUEL DE ALLENDE",
+        "modulos":[
+          {
+            "numero":"110221",
+            "nombre":"SAN MIGUEL DE ALLENDE",
+            "direccion":"BLVD. DE LA CONSPIRACI\u00d3N NO. 2, COL. CENTRO",
+            "codigo_postal":"37700",
+            "referencia":"CENTREO COMERCIAL PLAZA REAL DEL CONDE, PLANTA BAJA LOCAL BB12"
+          }
+        ]
+      },
+      {
+        "id":"35",
+        "nombre":"SANTA CRUZ DE JUVENTINO ROSAS",
+        "modulos":[
+          {
+            "numero":"110825",
+            "nombre":"SANTA CRUZ DE JUVENTINO ROSAS",
+            "direccion":"C. BENITO JU\u00c1REZ NO. 213, COL. CENTRO",
+            "codigo_postal":"38240",
+            "referencia":"ENTRE AQUILES SERD\u00c1N Y \u00c1LVARO OBREG\u00d3N, CASA EJIDAL."
+          }
+        ]
+      },
+      {
+        "id":"37",
+        "nombre":"SILAO",
+        "modulos":[
+          {
+            "numero":"110722",
+            "nombre":"SILAO",
+            "direccion":"C. ALDAMA 2 NO. S\/N, COL. CENTRO",
+            "codigo_postal":"36100",
+            "referencia":"FRENTE A LA DIRECCI\u00d3N DE SEGURIDAD PUBLICA, ENTRE CON MELCHOR OCAMPO Y LUCERO"
+          }
+        ]
+      },
+      {
+        "id":"41",
+        "nombre":"URIANGATO",
+        "modulos":[
+          {
+            "numero":"111021",
+            "nombre":"URIANGATO",
+            "direccion":"VASCO DE QUIROGA NO. 1, COL. LA JOYITA",
+            "codigo_postal":"38980",
+            "referencia":"ENTRE BOULEVARD URIANGATO 200 Y CALLE VENUSTIANO CARRANZA."
+          }
+        ]
+      },
+      {
+        "id":"42",
+        "nombre":"VALLE DE SANTIAGO",
+        "modulos":[
+          {
+            "numero":"111321",
+            "nombre":"VALLE DE SANTIAGO",
+            "direccion":"GALEANA NO. 51, COL. CENTRO",
+            "codigo_postal":"38400",
+            "referencia":"ENTRE CALLES JU\u00c1REZ Y OBREG\u00d3N, A UN COSTADO DEL CLUB DE LEONES"
+          }
+        ]
+      },
+      {
+        "id":"44",
+        "nombre":"VILLAGRAN",
+        "modulos":[
+          {
+            "numero":"110826",
+            "nombre":"VILLAGRAN",
+            "direccion":"PORTAL CONSTITUCI\u00d3N NO. S\/N, COL. CENTRO",
+            "codigo_postal":"38270",
+            "referencia":"SAL\u00d3N DE USOS M\u00daLTIPLES, A UN COSTADO DE LA PRESIDENCIA MUNICIPAL"
+          }
+        ]
+      }
+    ],
+    "nombre":"GUANAJUATO"
+  },
+  {
+    "id":"12",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"ACAPULCO DE JUAREZ",
+        "modulos":[
+          {
+            "numero":"120421",
+            "nombre":"ACAPULCO DE JUAREZ",
+            "direccion":"AV. CUAUHT\u00c9MOC NO. 853, COL. GARITA",
+            "codigo_postal":"3965",
+            "referencia":"JUNTO A LA OFICINA DEL REGISTRO CIVIL, ENTRE EL CRUCERO DE LA Y GRIEGA Y LA IGLESIA DE LA GARITA."
+          },
+          {
+            "numero":"120427",
+            "nombre":"ACAPULCO DE JUAREZ",
+            "direccion":"AV. EMILIANO ZAPATA NO. 86, COL. BELLA VISTA",
+            "codigo_postal":"39550",
+            "referencia":"JUNTA DISTRITAL EJECUTIVA DEL 04 DISTRITO ELECTORAL FEDERAL, ENTRE AV. CONSTITUYENTES Y CALLE DOS."
+          },
+          {
+            "numero":"120921",
+            "nombre":"ACAPULCO DE JUAREZ",
+            "direccion":"AV. L\u00c1ZARO C\u00c1RDENAS NO. 13, COL. LA POPULAR",
+            "codigo_postal":"39799",
+            "referencia":"FRENTE A LA FABRICA DE LIMON Y ESTATUA DE LAZARO CARDENAS"
+          },
+          {
+            "numero":"120922",
+            "nombre":"ACAPULCO DE JUAREZ",
+            "direccion":"AC. EJE CENTRAL VICENTE GUERRERO NO. MZ F6 INT. L4, COL. RENACIMIENTO",
+            "codigo_postal":"39715",
+            "referencia":"FRENTE A LA DELEGACION MUNICIPAL DE CD RENACIMIENTO Y A UN COSTADO DE LA CASA DE VESTIDOS DE NOVIA. ENTRE LA CALLE EDUARDO NERI Y TRES PALOS"
+          }
+        ]
+      },
+      {
+        "id":"12",
+        "nombre":"AYUTLA DE LOS LIBRES",
+        "modulos":[
+          {
+            "numero":"120821",
+            "nombre":"AYUTLA DE LOS LIBRES",
+            "direccion":"JUAN N. \u00c1LVAREZ NO. 35, COL. LA VILLA",
+            "codigo_postal":"39213",
+            "referencia":"ENTRE AYUNTAMIENTO Y ALLENDE, A UNA CUADRA DE LA IGLESIA DE LA VILLA"
+          }
+        ]
+      },
+      {
+        "id":"28",
+        "nombre":"CHILAPA DE ALVAREZ",
+        "modulos":[
+          {
+            "numero":"120621",
+            "nombre":"CHILAPA DE ALVAREZ",
+            "direccion":"12 SUR NO. 210, COL. BARRIO DE SAN JOS\u00c9",
+            "codigo_postal":"41100",
+            "referencia":"OFICINA DISTRITAL DEL IFE, ENTRE LAS CALLES 7 ORIENTE E INSURGENTES, A DOS CUADRAS AL SUROESTE DE LA CENTRAL DE AUTOBUSES ESTRELLA BLANCA."
+          }
+        ]
+      },
+      {
+        "id":"29",
+        "nombre":"CHILPANCINGO DE LOS BRAVO",
+        "modulos":[
+          {
+            "numero":"120721",
+            "nombre":"CHILPANCINGO DE LOS BRAVO",
+            "direccion":"IGNACIO RAM\u00cdREZ NO. S\/N, COL. CENTRO",
+            "codigo_postal":"39000",
+            "referencia":"A UN LADO DE LA OFICINA DEL REGISTRO CIVIL, DENTRO DEL AYUNTAMIENTO, SOTANO 2."
+          }
+        ]
+      },
+      {
+        "id":"36",
+        "nombre":"IGUALA DE LA INDEPENDENCIA",
+        "modulos":[
+          {
+            "numero":"120221",
+            "nombre":"IGUALA DE LA INDEPENDENCIA",
+            "direccion":"MARIANO ESCOBEDO NO. 59-A, COL. CENTRO",
+            "codigo_postal":"40000",
+            "referencia":"ENTRE NICOLAS BRAVO Y MIGUEL HIDALGO"
+          }
+        ]
+      },
+      {
+        "id":"51",
+        "nombre":"PUNGARABATO",
+        "modulos":[
+          {
+            "numero":"120121",
+            "nombre":"PUNGARABATO",
+            "direccion":"VENUSTIANO CARRANZA NO. 904, COL. LINDAVISTA",
+            "codigo_postal":"40660",
+            "referencia":"ENTRE AVENIDA REY IREPAN Y CIPRIANO JAIMES (CERCA DE LA EXPO)"
+          }
+        ]
+      },
+      {
+        "id":"56",
+        "nombre":"TAXCO DE ALARCON",
+        "modulos":[
+          {
+            "numero":"120229",
+            "nombre":"TAXCO DE ALARC\u00d3N",
+            "direccion":"JUAN RUIZ DE ALARC\u00d3N NO. 16, COL. CENTRO",
+            "codigo_postal":"40200",
+            "referencia":"A UN COSTADO DE PLAZA TAXCO"
+          }
+        ]
+      },
+      {
+        "id":"67",
+        "nombre":"TLAPA DE COMONFORT",
+        "modulos":[
+          {
+            "numero":"120521",
+            "nombre":"TLAPA DE COMONFORT",
+            "direccion":"HIDALGO NO. 126, COL. SAN FRANCISCO",
+            "codigo_postal":"41304",
+            "referencia":"ENTRE LAS CALLES A\u00d1ORVE Y GALEANA"
+          }
+        ]
+      },
+      {
+        "id":"39",
+        "nombre":"ZIHUATANEJO DE AZUETA",
+        "modulos":[
+          {
+            "numero":"120321",
+            "nombre":"JOSE AZUETA",
+            "direccion":"AVENIDA ZIHUATANEJO MZ 3 NO. LT 14, COL. EL HUJAL",
+            "codigo_postal":"40880",
+            "referencia":"03 JUNTA DISTRITAL EJECUTIVA AUN COSTADO DEL SALON MILLENIUM"
+          }
+        ]
+      }
+    ],
+    "nombre":"GUERRERO"
+  },
+  {
+    "id":"13",
+    "municipios":[
+      {
+        "id":"3",
+        "nombre":"ACTOPAN",
+        "modulos":[
+          {
+            "numero":"130325",
+            "nombre":"ACTOPAN",
+            "direccion":"5 DE MAYO NO. 182, COL. CENTRO SUR",
+            "codigo_postal":"42500",
+            "referencia":"ENTRE C. LIC. VERDAD Y CARRETERA MEXICO-LAREDO, CASI FRENTE AL CENTRO DE SALUD. 03 JUNTA DISTRITAL EJECUTIVA DEL IFE"
+          }
+        ]
+      },
+      {
+        "id":"15",
+        "nombre":"CUAUTEPEC DE HINOJOSA",
+        "modulos":[
+          {
+            "numero":"130726",
+            "nombre":"CUAUTEPEC DE HINOJOSA",
+            "direccion":"AV CORREGIDORA NO. 103, COL. CENTRO",
+            "codigo_postal":"43740",
+            "referencia":"ENTRE C. BENITO JU\u00c1REZ Y C. VENUSTIANO CARRANZA, EN EL HOTEL EL DORADO"
+          }
+        ]
+      },
+      {
+        "id":"28",
+        "nombre":"HUEJUTLA DE REYES",
+        "modulos":[
+          {
+            "numero":"130121",
+            "nombre":"HUEJUTLA DE REYES",
+            "direccion":"ELOXOCHITLAN ALTOS NO. 3, COL. SANTA IRENE",
+            "codigo_postal":"43000",
+            "referencia":"ENTRE AV NUEVO LE\u00d3N Y AV M\u00c9XICO, ANTES SAL\u00d3N CRISTAL"
+          }
+        ]
+      },
+      {
+        "id":"29",
+        "nombre":"HUICHAPAN",
+        "modulos":[
+          {
+            "numero":"130528",
+            "nombre":"HUICHAPAN",
+            "direccion":"AV. HIDALGO NO. 3, COL. CENTRO HISTORICO",
+            "codigo_postal":"42400",
+            "referencia":"ENTRE JORGE ROJO LUGO Y CALLE SIN NOMBRE AL INTERIOR DE LA PLAZA"
+          }
+        ]
+      },
+      {
+        "id":"30",
+        "nombre":"IXMIQUILPAN",
+        "modulos":[
+          {
+            "numero":"130221",
+            "nombre":"IXMIQUILPAN",
+            "direccion":"L\u00c1ZARO C\u00c1RDENAS NO. 14, COL. EL BONDHO",
+            "codigo_postal":"42300",
+            "referencia":"ENTRE CERRADA PINO SU\u00c1REZ Y CUARTA CERRADA L\u00c1ZARO C\u00c1RDENAS. 02 JUNTA DISTRITAL EJECUTIVA DEL IFE"
+          }
+        ]
+      },
+      {
+        "id":"47",
+        "nombre":"PACHUCA DE SOTO",
+        "modulos":[
+          {
+            "numero":"130621",
+            "nombre":"PACHUCA DE SOTO",
+            "direccion":"BLVD. EVERARDO M\u00c1RQUEZ NO. 1100, COL. PERIODISTAS",
+            "codigo_postal":"42060",
+            "referencia":"ENTRE BOULEVARD R\u00cdO DE LAS AVENIDAS Y AV. DOLORES FREIXA BATLE, EN EL INTERIOR DE CONSTRUPLAZA"
+          },
+          {
+            "numero":"130625",
+            "nombre":"RINCONADA DE SAN FRANCISCO",
+            "direccion":"AV. SANTA ELENA NO. 211, COL. RINCONADA DE SAN FRANCISCO",
+            "codigo_postal":"42185",
+            "referencia":"PASANDO EL PUENTE DEL VENADO, ENTRE CIRCUITO SANFRANCISCO Y CALLE 3"
+          }
+        ]
+      },
+      {
+        "id":"61",
+        "nombre":"TEPEAPULCO",
+        "modulos":[
+          {
+            "numero":"130721",
+            "nombre":"TEPEAPULCO",
+            "direccion":"BARTOLOM\u00c9 DE MEDINA NO. 4, COL. CENTRO",
+            "codigo_postal":"43970",
+            "referencia":"ENTRE C. FERNANDO SOTO Y C. BENITO JU\u00c1REZ, A MEDIA CUADRA DE SEPOMEX"
+          }
+        ]
+      },
+      {
+        "id":"73",
+        "nombre":"TLAXCOAPAN",
+        "modulos":[
+          {
+            "numero":"130522",
+            "nombre":"TLAXCOAPAN",
+            "direccion":"PLAZA PRINCIPAL NO. S\/N, COL. CENTRO",
+            "codigo_postal":"42950",
+            "referencia":"PRESIDENCIA MUNICIPAL. ENTRE FRANCISCO I. MADERO Y ABASO"
+          }
+        ]
+      },
+      {
+        "id":"75",
+        "nombre":"TULA DE ALLENDE",
+        "modulos":[
+          {
+            "numero":"130521",
+            "nombre":"TULA DE ALLENDE",
+            "direccion":"AV. DEL TRABAJO NO. 206, COL. BARRIO ALTO",
+            "codigo_postal":"42807",
+            "referencia":"05 JUNTA DISTRITAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL"
+          }
+        ]
+      },
+      {
+        "id":"76",
+        "nombre":"TULANCINGO DE BRAVO",
+        "modulos":[
+          {
+            "numero":"130421",
+            "nombre":"TULANCINGO DE BRAVO",
+            "direccion":"VICENTE GUERRERO NO. 607-A, COL. CENTRO",
+            "codigo_postal":"43600",
+            "referencia":"ENTRE C. DURANGO Y C. GALEANA, A UN COSTADO DE LA ESCUELA NORMAL SUPERIOR LUIS DONALDO"
+          }
+        ]
+      }
+    ],
+    "nombre":"HIDALGO"
+  },
+  {
+    "id":"14",
+    "municipios":[
+      {
+        "id":"6",
+        "nombre":"AMECA",
+        "modulos":[
+          {
+            "numero":"141823",
+            "nombre":"AMECA",
+            "direccion":"ZARAGOZA 89 NO. S\/N, COL. CENTRO",
+            "codigo_postal":"46600",
+            "referencia":"JAVIER MINA Y CONSTITUCI\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"ARANDAS",
+        "modulos":[
+          {
+            "numero":"140326",
+            "nombre":"ARANDAS",
+            "direccion":"\u00c1LVARO OBREG\u00d3N NO. 50, COL. CENTRO",
+            "codigo_postal":"47180",
+            "referencia":"HERN\u00c1NDEZ Y FRANCISCO MORA"
+          }
+        ]
+      },
+      {
+        "id":"13",
+        "nombre":"ATOTONILCO EL ALTO",
+        "modulos":[
+          {
+            "numero":"141523",
+            "nombre":"ATOTONILCO EL ALTO",
+            "direccion":"PROLONGACI\u00d3N ZARAGOZA NO. S\/N, COL. CENTRO",
+            "codigo_postal":"47750",
+            "referencia":"ZARAGOZA Y SOUTH SAN FRANCISCO"
+          }
+        ]
+      },
+      {
+        "id":"15",
+        "nombre":"AUTLAN DE NAVARRO",
+        "modulos":[
+          {
+            "numero":"141821",
+            "nombre":"AUTLAN DE NAVARRO",
+            "direccion":"INDEPENDENCIA NACIONAL NO. 94, COL. CENTRO",
+            "codigo_postal":"48900",
+            "referencia":"JAIME LLAMAS Y REVOLUCI\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"26",
+        "nombre":"COLOTLAN",
+        "modulos":[
+          {
+            "numero":"140128",
+            "nombre":"COLOTLAN",
+            "direccion":"MORELOS NO. 31, COL. CENTRO",
+            "codigo_postal":"46200",
+            "referencia":"PASEO Y GUERRERO A MEDIA CALLE DE BANORTE"
+          }
+        ]
+      },
+      {
+        "id":"41",
+        "nombre":"GUADALAJARA",
+        "modulos":[
+          {
+            "numero":"140821",
+            "nombre":"GUADALAJARA",
+            "direccion":"FRANCISCO ROJAS GONZ\u00c1LEZ NO. 131, COL. LADR\u00d3N DE GUEVARA",
+            "codigo_postal":"44600",
+            "referencia":"M\u00c9XICO Y JUSTO SIERRA"
+          },
+          {
+            "numero":"140823",
+            "nombre":"GUADALAJARA",
+            "direccion":"FLORENCIA NO. 2370, COL. ITALIA PROVIDENCIA",
+            "codigo_postal":"44630",
+            "referencia":"L\u00d3PEZ MATEOS Y AS\u00cdS"
+          },
+          {
+            "numero":"140824",
+            "nombre":"GUADALAJARA",
+            "direccion":"ALCALDE NO. 500, COL. CENTRO",
+            "codigo_postal":"44100",
+            "referencia":"HOSPITAL Y JUAN ALVAREZ, LA ENTRADA AL M\u00d3DULO A PARTIR DE LAS 16 HRS, ES POR LA CALLE LICEO A ESPALDAS DE LA ENTRADA PRINCIPAL."
+          },
+          {
+            "numero":"140921",
+            "nombre":"GUADALAJARA",
+            "direccion":"COMBATE DE PALO ALTO NO. 583, COL. JARDINES DE SANTA ISABEL",
+            "codigo_postal":"44300",
+            "referencia":"SAN GABRIEL Y COMBATE DE ATENQUIQUE"
+          },
+          {
+            "numero":"140922",
+            "nombre":"GUADALAJARA",
+            "direccion":"CIRCUNVALACI\u00d3N NO. 2921, COL. OBLATOS",
+            "codigo_postal":"44700",
+            "referencia":"ARTESANOS Y HACIENDA OJO ZARCO"
+          },
+          {
+            "numero":"141121",
+            "nombre":"GUADALAJARA",
+            "direccion":"INDUSTRIA NO. 3182, COL. LIBERTAD",
+            "codigo_postal":"44750",
+            "referencia":"ENTRE IRAN Y T\u00daNEZ"
+          },
+          {
+            "numero":"141321",
+            "nombre":"GUADALAJARA",
+            "direccion":"28 DE ENERO NO. 361, COL. BARRIO DE ANALCO",
+            "codigo_postal":"44450",
+            "referencia":"CONSTITUCI\u00d3N Y GUADALUPE VICTORIA"
+          },
+          {
+            "numero":"141322",
+            "nombre":"GUADALAJARA",
+            "direccion":"L\u00c1ZARO P\u00c9REZ NO. 1510, COL. MODERNA",
+            "codigo_postal":"44190",
+            "referencia":"ENRIQUE D\u00cdAZ DE LE\u00d3N Y B\u00c9LGICA"
+          },
+          {
+            "numero":"141421",
+            "nombre":"GUADALAJARA",
+            "direccion":"AV. TOPACIO NO. 2547, COL. BOSQUES DE LA VICTORIA",
+            "codigo_postal":"44550",
+            "referencia":"DIAMANTE Y BARLOVENTO"
+          }
+        ]
+      },
+      {
+        "id":"52",
+        "nombre":"JOCOTEPEC",
+        "modulos":[
+          {
+            "numero":"141721",
+            "nombre":"EL CHANTE",
+            "direccion":"RIBERA DEL LAGO NO. 21, COL. CENTRO",
+            "codigo_postal":"45800",
+            "referencia":"17 JUNTA DISTRITAL EJECUTIVA, CRIST\u00d3BAL COL\u00d3N Y MORELOS"
+          }
+        ]
+      },
+      {
+        "id":"18",
+        "nombre":"LA BARCA",
+        "modulos":[
+          {
+            "numero":"141521",
+            "nombre":"LA BARCA",
+            "direccion":"RU\u00cdZ CORT\u00cdNEZ NO. 1163, COL. SAN ANTONIO",
+            "codigo_postal":"47910",
+            "referencia":"ENTRE ROBLE Y SAN ANTONIO"
+          }
+        ]
+      },
+      {
+        "id":"55",
+        "nombre":"LAGOS DE MORENO",
+        "modulos":[
+          {
+            "numero":"140221",
+            "nombre":"LAGOS DE MORENO",
+            "direccion":"CONSTITUYENTES NO. 498, COL. CENTRO",
+            "codigo_postal":"47400",
+            "referencia":"FRANCISCO GONZ\u00c1LEZ LE\u00d3N Y DR. MARIANO AZUELA"
+          }
+        ]
+      },
+      {
+        "id":"69",
+        "nombre":"PUERTO VALLARTA",
+        "modulos":[
+          {
+            "numero":"140521",
+            "nombre":"PUERTO VALLARTA",
+            "direccion":"RIO NILO NO. 110, COL. L\u00d3PEZ MATEOS",
+            "codigo_postal":"48340",
+            "referencia":"LAS PALMAS Y R\u00cdO AMECA, A UN COSTADO DE LA PGR"
+          },
+          {
+            "numero":"140528",
+            "nombre":"PITILLAL",
+            "direccion":"AV. FRANCISCO VILLA NO. 1526, COL. LOS SAUCES",
+            "codigo_postal":"48290",
+            "referencia":"CENTRO COMERCIAL MACROPLAZA, LOCAL D-12"
+          }
+        ]
+      },
+      {
+        "id":"75",
+        "nombre":"SAN JUAN DE LOS LAGOS",
+        "modulos":[
+          {
+            "numero":"140224",
+            "nombre":"SAN JUAN DE LOS LAGOS",
+            "direccion":"PRIMAVERA 33 NO. S\/N, COL. CENTRO",
+            "codigo_postal":"47000",
+            "referencia":"LABERINTO Y MINERVA"
+          }
+        ]
+      },
+      {
+        "id":"94",
+        "nombre":"TEPATITLAN DE MORELOS",
+        "modulos":[
+          {
+            "numero":"140321",
+            "nombre":"TEPATITLAN DE MORELOS",
+            "direccion":"ADOLFO L\u00d3PEZ MATEOS NO. 211, COL. LAS COLONIAS",
+            "codigo_postal":"47620",
+            "referencia":"CORREGIDORA Y GARC\u00cdA RAMOS"
+          }
+        ]
+      },
+      {
+        "id":"95",
+        "nombre":"TEQUILA",
+        "modulos":[
+          {
+            "numero":"140121",
+            "nombre":"TEQUILA",
+            "direccion":"MORELOS NO. 109 INT. LOCAL-G, COL. CENTRO",
+            "codigo_postal":"46400",
+            "referencia":"NI\u00d1OS H\u00c9ROES Y EDUARDO GONZ\u00c1LEZ A MEDIA CALLE DEL MERCADO"
+          }
+        ]
+      },
+      {
+        "id":"98",
+        "nombre":"TLAJOMULCO DE ZU\u00d1IGA",
+        "modulos":[
+          {
+            "numero":"141221",
+            "nombre":"TLAJOMULCO DE Z\u00da\u00d1IGA",
+            "direccion":"AV. VALLARTA ORIENTE NO. 100, COL. CENTRO",
+            "codigo_postal":"45640",
+            "referencia":"ENTRE LAS CALLES HIGUERA NORTE Y CONSTITUCI\u00d3N ORIENTE, EN EL CENTRO COMERCIAL."
+          },
+          {
+            "numero":"141229",
+            "nombre":"CONCEPCI\u00d3N DEL VALLE (LA CONCHA)",
+            "direccion":"HIDALGO NO. S\/N, COL. CONCEPCI\u00d3N DEL VALLE",
+            "codigo_postal":"45655",
+            "referencia":"INDEPENDENCIA Y CUAUHT\u00c9MOC"
+          }
+        ]
+      },
+      {
+        "id":"99",
+        "nombre":"TLAQUEPAQUE",
+        "modulos":[
+          {
+            "numero":"141622",
+            "nombre":"TOLUQUILLA",
+            "direccion":"GONZ\u00c1LEZ GALLO NO. 3 INT. A, COL. TOLUQUILLA",
+            "codigo_postal":"45610",
+            "referencia":"GUADALUPE VICTORIA Y VICENTE GUERRERO DELEGACI\u00d3N TOLUQUILLA"
+          },
+          {
+            "numero":"141624",
+            "nombre":"TLAQUEPAQUE",
+            "direccion":"HIDALGO NO. 400, COL. LOS ALTOS",
+            "codigo_postal":"45500",
+            "referencia":"PE\u00d1A Y PE\u00d1A Y FRANCISCO SILVA ROMERO"
+          }
+        ]
+      },
+      {
+        "id":"102",
+        "nombre":"TONALA",
+        "modulos":[
+          {
+            "numero":"140721",
+            "nombre":"TONALA",
+            "direccion":"MORELOS NO. 167, COL. CENTRO",
+            "codigo_postal":"45400",
+            "referencia":"CONSTITUCI\u00d3N Y L\u00d3PEZ COTILLA"
+          }
+        ]
+      },
+      {
+        "id":"120",
+        "nombre":"ZAPOPAN",
+        "modulos":[
+          {
+            "numero":"140421",
+            "nombre":"ZAPOPAN",
+            "direccion":"CALLE 5 DE MAYO NO. 183, COL. ATEMAJAC DEL VALLE",
+            "codigo_postal":"45190",
+            "referencia":"ENTRE LAS CALLES DE NICOL\u00c1S BRAVO Y JAVIER MINA"
+          },
+          {
+            "numero":"140422",
+            "nombre":"ZAPOPAN",
+            "direccion":"ARCO DEL TRIUNFO NO. S\/N, COL. ARCOS DE ZAPOPAN",
+            "codigo_postal":"45130",
+            "referencia":"ARCO PERTINAX Y ARCO VALENTE (FRENTE PLAZA LA ESTRELLA)"
+          },
+          {
+            "numero":"140423",
+            "nombre":"ZAPOPAN",
+            "direccion":"WATERPOLO NO. 696, COL. AUDITORIO",
+            "codigo_postal":"45190",
+            "referencia":"PERIF\u00c9RICO NORTE Y B\u00c1DMINTON (M\u00d3DULO DE SEGURIDAD)"
+          },
+          {
+            "numero":"140621",
+            "nombre":"ZAPOPAN",
+            "direccion":"ANAHUAC NO. 375, COL. EL VIGIA",
+            "codigo_postal":"45100",
+            "referencia":"FRANCISCO DE SALES Y LIBERTAD, OFICINA DEL RFE, CERCA DEL HOSPITAL CIVIL DE ZAPOPAN"
+          },
+          {
+            "numero":"140624",
+            "nombre":"ZAPOPAN",
+            "direccion":"EL GRECO NO. 5100, COL. REAL EUCALIPTO VALLARTA",
+            "codigo_postal":"45040",
+            "referencia":"MIGUEL \u00c1NGEL Y VALLARTA JUNTA DE COLONOS"
+          },
+          {
+            "numero":"140625",
+            "nombre":"TESISTAN",
+            "direccion":"JALISCO NO. S\/N, COL. TESISTAN",
+            "codigo_postal":"45200",
+            "referencia":"PUEBLA Y JUAN GARCIA PARGA DELEGACION MUNICIPAL TESISTAN"
+          },
+          {
+            "numero":"140626",
+            "nombre":"ZAPOPAN",
+            "direccion":"JES\u00daS NO. S\/N, COL. LA CASITA",
+            "codigo_postal":"45138",
+            "referencia":"GALEANAS Y CLAVEL JUNTA DE COLONOS"
+          },
+          {
+            "numero":"141021",
+            "nombre":"ZAPOPAN",
+            "direccion":"CIPRESES NO. 20, COL. CIUDAD GRANJA",
+            "codigo_postal":"45010",
+            "referencia":"CENTRAL Y CIRCUNVALACI\u00d3N PONIENTE"
+          },
+          {
+            "numero":"141022",
+            "nombre":"ZAPOPAN",
+            "direccion":"GUADALUPE VICTORIA NO. 4, COL. SANTA ANA TEPETITLAN",
+            "codigo_postal":"42235",
+            "referencia":"HIDALGO Y MORELOS"
+          }
+        ]
+      },
+      {
+        "id":"23",
+        "nombre":"ZAPOTLAN EL GRANDE",
+        "modulos":[
+          {
+            "numero":"141921",
+            "nombre":"ZAPOTLAN EL GRANDE",
+            "direccion":"PRIMERO DE MAYO NO. 126-47, COL. CENTRO",
+            "codigo_postal":"49000",
+            "referencia":"PEDRO CELESTINO NEGRETE Y GENERAL JOS\u00c9 SILVERIO N\u00da\u00d1EZ"
+          }
+        ]
+      },
+      {
+        "id":"124",
+        "nombre":"ZAPOTLANEJO",
+        "modulos":[
+          {
+            "numero":"141727",
+            "nombre":"ZAPOTLANEJO",
+            "direccion":"SABAS CARRILLO NO. S\/N, COL. CENTRO",
+            "codigo_postal":"45430",
+            "referencia":"CENTRO COMERCIAL SABAS CARRILLO Y SOLIDARIDAD"
+          }
+        ]
+      }
+    ],
+    "nombre":"JALISCO"
+  },
+  {
+    "id":"15",
+    "municipios":[
+      {
+        "id":"13",
+        "nombre":"ATIZAPAN DE ZARAGOZA",
+        "modulos":[
+          {
+            "numero":"151421",
+            "nombre":"ATIZAPAN DE ZARAGOZA",
+            "direccion":"BLVD. DE LAS FLORES NO. 8, COL. HACIENDA DE LA LUZ",
+            "codigo_postal":"52929",
+            "referencia":"ENTRE ORQUIDEA Y CARRETERA LAGO DE GUADALUPE, A UN COSTADO DEL TEC DE MONTERREY"
+          },
+          {
+            "numero":"151525",
+            "nombre":"ATIZAPAN CENTRO",
+            "direccion":"CALZ. SAN MATEO NO. 17, COL. ATIZAP\u00c1N CENTRO",
+            "codigo_postal":"52946",
+            "referencia":"DENTRO DE LA PLAZA CRYSTAL (LOCAL F-4), ENTRE CALLE R\u00cdO SAN JAVIER Y PRIVADA DE LOS PINOS, FRENTE A LA CRUZ ROJA DE ZARAGOZA"
+          }
+        ]
+      },
+      {
+        "id":"14",
+        "nombre":"ATLACOMULCO",
+        "modulos":[
+          {
+            "numero":"150321",
+            "nombre":"ATLACOMULCO",
+            "direccion":"AV. INSURGENTES NO. 4, COL. BARRIO BONGONI",
+            "codigo_postal":"50450",
+            "referencia":"ENTRE CERRADA NUMERO 25 Y CIRCUITO VIAL JORGE JIMENEZ CANTU A UN COSTADO DE OFIC. DE LA DIR. DE LA POLICIA ESTATAL"
+          }
+        ]
+      },
+      {
+        "id":"26",
+        "nombre":"CHALCO",
+        "modulos":[
+          {
+            "numero":"153321",
+            "nombre":"CHALCO",
+            "direccion":"TIZAPA NO. 30-G, COL. LA BOMBA",
+            "codigo_postal":"56600",
+            "referencia":"ENTRE CALLE BODEGAS Y PEDRO INFANTE FRENTE A LA ESCUELA PRIMAR\u00cdA LUIS GONZAGA URBINA"
+          },
+          {
+            "numero":"153324",
+            "nombre":"SAN GREGORIO CUAUTZINGO",
+            "direccion":"AV. JOS\u00c9 MAR\u00cdA MORELOS NO. S\/N, COL. SAN GREGORIO CUAUTZINGO, CHALCO",
+            "codigo_postal":"56640",
+            "referencia":"DELEGACI\u00d3N MUNICIPAL, ENTRE CALLEJ\u00d3N JOS\u00c9FA ORTIZ DE DOM\u00cdNGUEZ Y CALLEJ\u00d3N GARC\u00cdA FRENTE AL JARD\u00cdN"
+          }
+        ]
+      },
+      {
+        "id":"32",
+        "nombre":"CHIMALHUACAN",
+        "modulos":[
+          {
+            "numero":"152521",
+            "nombre":"CHIMALHUACAN",
+            "direccion":"P\u00c1JARO AZUL NO. 1, COL. BARRIO SAN PEDRO",
+            "codigo_postal":"56334",
+            "referencia":"A UN COSTADO DEL JARD\u00cdN DE NI\u00d1OS MARIANO MATAMOROS ENTRE CALLE DE SAN JUAN Y PELICANOS"
+          }
+        ]
+      },
+      {
+        "id":"20",
+        "nombre":"COACALCO DE BERRIOZABAL",
+        "modulos":[
+          {
+            "numero":"150621",
+            "nombre":"COACALCO DE BERRIOZABAL",
+            "direccion":"AV. ZARZAPARRILLAS NO. 6, COL. FRACC. VILLA DE LAS FLORES",
+            "codigo_postal":"55710",
+            "referencia":"ENTRE CALLE SAN PEDRO Y V\u00cdA JOS\u00c9 L\u00d3PEZ PORTILLO, A MEDIA CUADRA DE LA V\u00cdA JOS\u00c9 L\u00d3PEZ PORTILLO Y A DOS CUADRAS DEL CENTRO COMERCIAL PLAZA LAS FLORES"
+          },
+          {
+            "numero":"150623",
+            "nombre":"COACALCO DE BERRIOZ\u00c1BAL",
+            "direccion":"ENRIQUE MILLAN CEJUDO MZ. 1 LOTE 1 NO. 263, COL. UNIDAD HABITACIONAL SAN RAFAEL",
+            "codigo_postal":"55710",
+            "referencia":"DENTRO DE LA PLAZA COMERCIAL, PABELLON COACALCO, ESQUINA EJE 8 Y VIALIDAD MEXIQUENSE"
+          }
+        ]
+      },
+      {
+        "id":"24",
+        "nombre":"CUAUTITLAN",
+        "modulos":[
+          {
+            "numero":"153721",
+            "nombre":"CUAUTITLAN",
+            "direccion":"CEDRO NO. 5, COL. FRACC. SAN JUAN",
+            "codigo_postal":"54800",
+            "referencia":"ENTRE CIPRES Y DEL PARQUE, ATRAS DEL MERCADO MUNICIPAL FRENTE DEL ESTADIO DE FUT-BOL LOS PINOS"
+          }
+        ]
+      },
+      {
+        "id":"25",
+        "nombre":"CUAUTITLAN IZCALLI",
+        "modulos":[
+          {
+            "numero":"150424",
+            "nombre":"CUAUTITL\u00c1N IZCALLI",
+            "direccion":"AV. HIDALGO NO. 8, COL. PUEBLO SAN FRANCISCO TEPOJACO",
+            "codigo_postal":"54745",
+            "referencia":"A UN COSTADO DE LA IGLESIA Y LA BIBLIOTECA MUNICIPAL, OFICINAS DEL SISTEMA DE AGUA POTABLE"
+          },
+          {
+            "numero":"150721",
+            "nombre":"CUAUTITLAN IZCALLI",
+            "direccion":"AV. ROSALES NO. 242, COL. SAN ISIDRO",
+            "codigo_postal":"54730",
+            "referencia":"ENTRE CALLE PIRULES Y CALLE CLAVELES A UN COSTADO DE LA IGLESIA"
+          }
+        ]
+      },
+      {
+        "id":"34",
+        "nombre":"ECATEPEC DE MORELOS",
+        "modulos":[
+          {
+            "numero":"151021",
+            "nombre":"ECATEPEC DE MORELOS",
+            "direccion":"LAGO TANGA\u00d1ICA MZA.70 27, COL. FRACC. JARD\u00cdNES DE MORELOS",
+            "codigo_postal":"55070",
+            "referencia":"ENTRE AVENIDA LAGO DE CHAPULTEPEC ESQUINA CALLE LAGO GRANDE ESCLAVO A UNA CUADRA DE LAS VIAS DEL TREN"
+          },
+          {
+            "numero":"151024",
+            "nombre":"ECATEPEC DE MORELOS",
+            "direccion":"CIRCUITO CUAUHTEMOC NO. S\/N, COL. CIUDAD CUAUHT\u00c9MOC",
+            "codigo_postal":"55070",
+            "referencia":"ENTRE QUIAHUITL Y CIRCUITO CUAUHT\u00c9MOC"
+          },
+          {
+            "numero":"151121",
+            "nombre":"ECATEPEC DE MORELOS",
+            "direccion":"NICOL\u00c1S BRAVO NO. 12, COL. SAN CRIST\u00d3BAL CENTRO",
+            "codigo_postal":"55000",
+            "referencia":"ENTRE CALLE ABASOLO Y MELCHOR OCAMPO, CERCA DE LA PRESIDENCIA MUNICIPAL DE ECATEPEC DE MORELOS"
+          },
+          {
+            "numero":"151321",
+            "nombre":"ECATEPEC DE MORELOS",
+            "direccion":"AV. CENTRAL SANTA CLARA NO. 2, COL. JARD\u00cdNES DE SANTA CLARA",
+            "codigo_postal":"55450",
+            "referencia":"JUNTA DISTRITAL EJECUTIVA NO. 13, ENTRE AVENIDA CIRCUNVALACI\u00d3N SUR Y CALLE 2"
+          },
+          {
+            "numero":"151621",
+            "nombre":"ECATEPEC DE MORELOS",
+            "direccion":"INSURGENTES SUR NO. 456, COL. PUEBLO SAN PEDRO XALOSTOC",
+            "codigo_postal":"55310",
+            "referencia":"JUNTA DISTRITAL EJECUTIVA NO. 16, ENTRE CALLE CUAUHT\u00c9MOC PONIENTE Y PRIVADA INSURGENTES, JUNTO AL CENTRO COMERCIAL BARA BARA"
+          },
+          {
+            "numero":"151624",
+            "nombre":"ECATEPEC DE MORELOS",
+            "direccion":"CERRADA ELVIRA NO. S\/N, COL. AMPLIACI\u00d3N TULPETLAC",
+            "codigo_postal":"55310",
+            "referencia":"SEDE DEL CONSEJO DE PARTICIPACI\u00d3N CIUDADANA, ENTRE ANA MAR\u00cdA Y MAR\u00cdA DOLORES"
+          },
+          {
+            "numero":"151721",
+            "nombre":"ECATEPEC DE MORELOS",
+            "direccion":"AVENIDA CENTRAL NO. 128, COL. VALLE DE ARAGON 3A. SECCI\u00d3N",
+            "codigo_postal":"55280",
+            "referencia":"VALLE DE GUADALQUIVIR Y VALLE GRIJALVA"
+          }
+        ]
+      },
+      {
+        "id":"38",
+        "nombre":"HUIXQUILUCAN",
+        "modulos":[
+          {
+            "numero":"151821",
+            "nombre":"HUIXQUILUCAN",
+            "direccion":"GALEANA NO. S\/N, COL. SAN MIGUEL HUIXQUILUCAN DE DEGOLLADO",
+            "codigo_postal":"52760",
+            "referencia":"18 JUNTA DISTRITAL EJECUTIVA DEL IFE; ENTRE CALLES GALEANA Y L\u00d3PEZ RAY\u00d3N, ATR\u00c1S DEL PALACIO MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"40",
+        "nombre":"IXTAPALUCA",
+        "modulos":[
+          {
+            "numero":"151221",
+            "nombre":"IXTAPALUCA",
+            "direccion":"BLVD. SAN BUENAVENTURA NO. 38, COL. EL CAPULIN, LOC. IXTAPALUCA, IXTAPALUCA, MEXICO",
+            "codigo_postal":false,
+            "referencia":"ENTRE CARRIL CAPULIN Y CARRIL EL JARAL"
+          },
+          {
+            "numero":"151223",
+            "nombre":"IXTAPALUCA",
+            "direccion":"CARRETERA FEDERAL M\u00c9XICO-PUEBLA S\/N PUEBLO. DE AYOTLA NO. S\/N, COL. PUEBLO DE AYOTLA",
+            "codigo_postal":"56560",
+            "referencia":"DELEGACI\u00d3N MUNICIPAL DE AYOTLA, ENTRE CALLE VICENTE GUERRERO Y CALLE JUAN JOS\u00c9 MART\u00cdNEZ"
+          },
+          {
+            "numero":"151227",
+            "nombre":"IXTAPALUCA",
+            "direccion":"LOCAL PARTICULAR SIN NOMBRE AV. HACIENDA OJO DE AGUA NO. S\/N, COL. UNIDAD HABITACIONAL GEOVILLAS DE SANTA B\u00c1RBARA",
+            "codigo_postal":"56530",
+            "referencia":"ENTRE AVENIDA HACIENDA OJO DE AGUA Y AVENIDA HACIENDA LA COTERA"
+          }
+        ]
+      },
+      {
+        "id":"43",
+        "nombre":"IXTLAHUACA",
+        "modulos":[
+          {
+            "numero":"150921",
+            "nombre":"IXTLAHUACA",
+            "direccion":"IGNACIO ALLENDE NO. 216, COL. CENTRO",
+            "codigo_postal":"50740",
+            "referencia":"ENTRE NICOLAS BRAVO Y FRAY SERVANDO TERESA DE MIER, A UN COSTADO DE LA PANADER\u00cdA 'LA ESPIGA DE ORO,"
+          }
+        ]
+      },
+      {
+        "id":"46",
+        "nombre":"JILOTEPEC",
+        "modulos":[
+          {
+            "numero":"150121",
+            "nombre":"JILOTEPEC",
+            "direccion":"AV. ANDR\u00c9S MOLINA ENR\u00cdQUEZ NO. S\/N, COL. CENTRO",
+            "codigo_postal":"54240",
+            "referencia":"ENTRE CALLE CONSTITUYENTES E ISIDRO FABELA, JUNTO AL AURRERA"
+          }
+        ]
+      },
+      {
+        "id":"71",
+        "nombre":"LA PAZ",
+        "modulos":[
+          {
+            "numero":"153921",
+            "nombre":"PAZ, LA",
+            "direccion":"13 MZA116 LT 1, COL. VALLE DE LOS REYES",
+            "codigo_postal":"56430",
+            "referencia":"39 JUNTA DISTRITAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, ENTRE CALLE LERMA Y CALLE 14 ESQUINA AVENIDA TENANCINGO"
+          }
+        ]
+      },
+      {
+        "id":"55",
+        "nombre":"METEPEC",
+        "modulos":[
+          {
+            "numero":"152721",
+            "nombre":"METEPEC",
+            "direccion":"DIAGONAL SANTA MAR\u00cdA NO. 66, COL. PILARES",
+            "codigo_postal":"52179",
+            "referencia":"ENTRE ZARAGOZA Y PE\u00d1A Y PE\u00d1A A DOS CUADRAS DEL EDIFICIO DE TELMEX"
+          }
+        ]
+      },
+      {
+        "id":"58",
+        "nombre":"NAUCALPAN DE JUAREZ",
+        "modulos":[
+          {
+            "numero":"152121",
+            "nombre":"NAUCALPAN DE JUAREZ",
+            "direccion":"MISI\u00d3N DE SANTIAGO NO. 48, COL. SANTIAGO OCCIPACO",
+            "codigo_postal":"53250",
+            "referencia":"ENTRE CAMINO A SAN MATEO NOPALA Y MISION DE SANTA CRUZ, A UN COSTADO DE LA IGLESIA DE SANTIAGUITO"
+          },
+          {
+            "numero":"152221",
+            "nombre":"NAUCALPAN DE JUAREZ",
+            "direccion":"VALLE DE M\u00c9XICO NO. 42, COL. EL MIRADOR",
+            "codigo_postal":"53050",
+            "referencia":"ENTRE VALLE DE BRAVO Y MANAGUA"
+          },
+          {
+            "numero":"152222",
+            "nombre":"NAUCALPAN DE JU\u00c1REZ",
+            "direccion":"HUICHOLES NO. 34, COL. PUEBLO DE SANTA CRUZ ACATL\u00c1N",
+            "codigo_postal":"53150",
+            "referencia":"ENTRE CALLE YAQUIS Y MIXTECAS"
+          },
+          {
+            "numero":"152423",
+            "nombre":"NAUCALPAN DE JUAREZ",
+            "direccion":"MELCHOR NO. 12, COL. SAN RAFAEL CHAMAPA",
+            "codigo_postal":"53660",
+            "referencia":"ENTRE GASPAR Y CALLE CAMELIA A CINCO CUADRAS AL ORIENTE DE LA PARTE BAJA DEL PARQUE LA HORMIGA"
+          }
+        ]
+      },
+      {
+        "id":"60",
+        "nombre":"NEZAHUALCOYOTL",
+        "modulos":[
+          {
+            "numero":"152021",
+            "nombre":"NEZAHUALCOYOTL",
+            "direccion":"AV. UNO NO. 42, COL. CAMPESTRE GUADALUPANA",
+            "codigo_postal":"57120",
+            "referencia":"JUNTA DISTRITAL EJECUTIVA NO 20, ENTRE LA IGLESIA NUESTRA SE\u00d1ORA DE GUADALUPE Y EL TEMPLO DE LOS MORMONES ENTRE LA CALLE 18 Y 19"
+          },
+          {
+            "numero":"152921",
+            "nombre":"NEZAHUALCOYOTL",
+            "direccion":"RELOX NO. 277, COL. MODELO",
+            "codigo_postal":"57530",
+            "referencia":"ENTRE AVENIDA PANTITLAN Y ANDADOR 2 FRENTE A LA DISCOTEQUE ESFINGE Y JUNTO AL DORMIMUNDO"
+          },
+          {
+            "numero":"153021",
+            "nombre":"NEZAHUALCOYOTL",
+            "direccion":"AVENIDA PANTITL\u00c1N NO. 334, COL. EVOLUCI\u00d3N",
+            "codigo_postal":"57700",
+            "referencia":"JUNTA DISTRITAL EJECUTIVA NO 30, ENTRE CALLE HEMICICLO A JU\u00c1REZ Y AVENIDA \u00c1NGEL DE LA INDEPENDENCIA"
+          },
+          {
+            "numero":"153121",
+            "nombre":"NEZAHUALCOYOTL",
+            "direccion":"MONTA\u00d1A NO. 119 INT. 0, COL. BENITO JU\u00c1REZ",
+            "codigo_postal":"57000",
+            "referencia":"JUNTA DISTRITAL EJECUTIVA NO 31, ENTRE AVENIDA CHIMALHUAC\u00c1N Y Y CIELITO LINDO"
+          }
+        ]
+      },
+      {
+        "id":"61",
+        "nombre":"NICOLAS ROMERO",
+        "modulos":[
+          {
+            "numero":"150421",
+            "nombre":"NICOLAS ROMERO",
+            "direccion":"EMILIANO ZAPATA NO. 5, COL. SANTA ANITA",
+            "codigo_postal":"54400",
+            "referencia":"ENTRE CALLE GUADALUPE VICTORIA Y PRIMERO DE MAYO, CERCA DE LA ESCUELA SECUNDARIA HIMNO NACIONAL FRENTE A LA CANCCHA DE BASQUET"
+          },
+          {
+            "numero":"150425",
+            "nombre":"NICOL\u00c1S ROMERO",
+            "direccion":"AV. PRINCIPAL NO. S\/N, COL. COLMENA CENTRO",
+            "codigo_postal":"54400",
+            "referencia":"ENTRE CALLE FRANCISCO I. MADERO Y CAMINO A LA PRESA, FRENTE AL KIOSCO DE LA DELEGACI\u00d3N MUNICIPAL Y LA UNIDAD DE BOMBEROS"
+          }
+        ]
+      },
+      {
+        "id":"75",
+        "nombre":"SAN FELIPE DEL PROGRESO",
+        "modulos":[
+          {
+            "numero":"150922",
+            "nombre":"SAN FELIPE DEL PROGRESO",
+            "direccion":"AV. JOS\u00c9 MAR\u00cdA MORELOS NO. S\/N, COL. PROGRESO",
+            "codigo_postal":"50640",
+            "referencia":"ENTRE CALLE BARRANCA R\u00cdO PERLA Y CALLEJ\u00d3N SIN NOMBRE A UN COSTADO DE LA ESCUELA ANEXA A LA NORMAL SAN FELIPE DEL PROGRESO, FRENTE A ESC. PRIMARIA FERNANDO OROZCO Y BERRA"
+          }
+        ]
+      },
+      {
+        "id":"124",
+        "nombre":"SAN JOSE DEL RINCON",
+        "modulos":[
+          {
+            "numero":"150326",
+            "nombre":"SAN JOS\u00c9 DEL RINC\u00d3N CENTRO",
+            "direccion":"C. PASEO MARIPOSA MONARCA NO. S\/N, COL. CENTRO",
+            "codigo_postal":"50660",
+            "referencia":"ENTRE LAS CALLES IGNACIO ALLENDE Y MARIANO MATAMOROS, PLANTA BAJA DEL RESTAURANTE LOS 'ADOBES'"
+          }
+        ]
+      },
+      {
+        "id":"82",
+        "nombre":"TECAMAC",
+        "modulos":[
+          {
+            "numero":"152822",
+            "nombre":"TEC\u00c1MAC",
+            "direccion":"5 DE MAYO NO. S\/N, COL. TEC\u00c1MA CENTRO",
+            "codigo_postal":"55740",
+            "referencia":"ENTRE CALLES SAN RAFAEL Y CALLE CALVARIO, PLAZA COMERCIAL SHIDARTA LOCALES 111, 112 Y 113"
+          }
+        ]
+      },
+      {
+        "id":"83",
+        "nombre":"TEJUPILCO",
+        "modulos":[
+          {
+            "numero":"153621",
+            "nombre":"TEJUPILCO",
+            "direccion":"AV. 27 DE SEPTIEMBRE NO. 58, COL. CENTRO",
+            "codigo_postal":"51400",
+            "referencia":"ENTRE CALLE CONSTITUCION Y BENITO JUAREZ A UN COSTADO DEL CENTRO COMERCIAL 'CHEDRAUI'"
+          }
+        ]
+      },
+      {
+        "id":"89",
+        "nombre":"TENANCINGO",
+        "modulos":[
+          {
+            "numero":"153521",
+            "nombre":"TENANCINGO",
+            "direccion":"D, ESQ. PABLO GONZ\u00c1LEZ CASANOVA NO. S\/N, COL. SAN ISIDRO",
+            "codigo_postal":"52400",
+            "referencia":"35 JUNTA DISTRITAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, ENTRE CALLE 2 DE MARZO Y R\u00cdO MAGDALENA, A UNA CUADRA DEL ESTACIONAMIENTO DE LA MANZANITA Y A CIEN METROS DE LA TERMINAL DE AUTOBUSES"
+          }
+        ]
+      },
+      {
+        "id":"92",
+        "nombre":"TEOLOYUCAN",
+        "modulos":[
+          {
+            "numero":"150221",
+            "nombre":"TEOLOYUCAN",
+            "direccion":"NICOL\u00c1S ROMERO NO. S\/N, COL. BARRIO TLATILCO",
+            "codigo_postal":"54770",
+            "referencia":"ENTRE CALLE PALMAS Y MATAMOROS, A UN COSTADO DEL MERCADO MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"93",
+        "nombre":"TEOTIHUACAN",
+        "modulos":[
+          {
+            "numero":"150521",
+            "nombre":"TEOTIHUACAN",
+            "direccion":"PROL. MIGUEL HIDALGO NO. 34, COL. BARRIO PURIFICACI\u00d3N",
+            "codigo_postal":"55810",
+            "referencia":"ENTRE CALLE LA PARROQUIA DE GUADALUPE Y LA PALMA, FRENTE AL BALNEARIO LA FUENTE Y CERCA DEL BANCO AZTECA"
+          }
+        ]
+      },
+      {
+        "id":"100",
+        "nombre":"TEXCOCO",
+        "modulos":[
+          {
+            "numero":"153825",
+            "nombre":"TEXCOCO",
+            "direccion":"16 DE SEPTIEMBRE NO. 310, COL. SAN PABLO TEXCOCO",
+            "codigo_postal":"56110",
+            "referencia":"'PLAZA COMERCIAL LA MORENA', ENTRE CALLEJ\u00d3N SAN PABLO Y CALLE 2 DE MARZO"
+          }
+        ]
+      },
+      {
+        "id":"105",
+        "nombre":"TLALNEPANTLA DE BAZ",
+        "modulos":[
+          {
+            "numero":"151521",
+            "nombre":"TLANEPANTLA DE BAZ",
+            "direccion":"VIVEROS DE ASIS NO. 79, COL. FRACC. VIVEROS DE LA LOMA",
+            "codigo_postal":"54080",
+            "referencia":"ENTRE CALLE VIVERO DE LA COLINA Y CERRADA VIVEROS DEL REY"
+          },
+          {
+            "numero":"151622",
+            "nombre":"TLALNEPANTLA DE BAZ",
+            "direccion":"AQUILES SERD\u00c1N 15, COL. PUEBLO DE SAN JUAN IXHUATEPEC",
+            "codigo_postal":"54180",
+            "referencia":"ENTRE SEBASTI\u00c1N LERDO DE TEJADA Y 20 DE NOVIEMBRE"
+          },
+          {
+            "numero":"151921",
+            "nombre":"TLANEPANTLA DE BAZ",
+            "direccion":"CULIAC\u00c1N NO. 18, COL. FRACC. VALLE CEYLAN",
+            "codigo_postal":"54150",
+            "referencia":"ENTRE AVENIDA JES\u00daS REYES HEROLES Y CALLE ZACATECAS"
+          }
+        ]
+      },
+      {
+        "id":"107",
+        "nombre":"TOLUCA",
+        "modulos":[
+          {
+            "numero":"152621",
+            "nombre":"TOLUCA",
+            "direccion":"5 DE MAYO NO. 906, COL. FRACCIONAMIENTO VALLE DON CAMILO",
+            "codigo_postal":"50140",
+            "referencia":"ENTRE LAS CALLES DE MONTE EVEREST Y MONTE BLANCO A DOS CUADRAS DEL PARQUE URAWA, OFICINA DISTRITAL DEL IFE"
+          },
+          {
+            "numero":"153421",
+            "nombre":"TOLUCA",
+            "direccion":"EMILIANO ZAPATA PTE. NO. 207, COL. UNIVERSIDAD",
+            "codigo_postal":"50130",
+            "referencia":"ENTRE IGNACIO ALLENDE Y JUAN ALDAMA"
+          }
+        ]
+      },
+      {
+        "id":"110",
+        "nombre":"TULTITLAN",
+        "modulos":[
+          {
+            "numero":"150822",
+            "nombre":"TULTITLAN",
+            "direccion":"MARIANO ESCOBEDO NO. 13, COL. BARRIO LOS REYES TULTITL\u00c1N",
+            "codigo_postal":"54900",
+            "referencia":"ENTRE CALLE AMADO NERVO Y CALLE FRANCISCO VILLA"
+          },
+          {
+            "numero":"153723",
+            "nombre":"SAN PABLO DE LAS SALINAS",
+            "direccion":"AV. PRADOS, MZ 53 LOT. 38, COL. U. HAB. JOS\u00c9 MAR\u00cdA MORELOS Y PAV\u00d3N TERCERA SECCI\u00d3N",
+            "codigo_postal":"54930",
+            "referencia":"ENFRENTE DE LA IGLESIA SAN JUAN DE LOS LAGOS Y A 100 METROS DE LA SUBDELEGACI\u00d3N 'ZONA ORIENTE'"
+          }
+        ]
+      },
+      {
+        "id":"111",
+        "nombre":"VALLE DE BRAVO",
+        "modulos":[
+          {
+            "numero":"152321",
+            "nombre":"VALLE DE BRAVO",
+            "direccion":"AV. TOLUCA NO. 208, COL. BARRIO DE OTUMBA",
+            "codigo_postal":"51200",
+            "referencia":"ENTRE CALLE ALFAREROS Y ALCANTARILLAS, A ESPALDAS DE LA ESCUELA PRIMARIA JOSE MARIA MORELOS Y PAV\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"122",
+        "nombre":"VALLE DE CHALCO SOLIDARIDAD",
+        "modulos":[
+          {
+            "numero":"153221",
+            "nombre":"VALLE DE CHALCO SOLIDARIDAD",
+            "direccion":"JOSEFA ORT\u00cdZ DE DOM\u00cdNGUEZ NO. S\/N, COL. DAR\u00cdO MART\u00cdNEZ",
+            "codigo_postal":"56619",
+            "referencia":"ESQUINA CON AVENIDA JOS\u00c9 GUADALUPE POSADA Y CALLE MANUEL DE LA PE\u00d1A Y A TRES CALLES DE LA GASOLINERA UBICADA EN LA AVENIDA CUAUHT\u00c9MOC"
+          }
+        ]
+      },
+      {
+        "id":"116",
+        "nombre":"XONACATLAN",
+        "modulos":[
+          {
+            "numero":"151822",
+            "nombre":"XONACATL\u00c1N",
+            "direccion":"GUSTAVO A. VICENCIO NO. S\/N, COL. XONACATL\u00c1N DE VICENCIO",
+            "codigo_postal":"52060",
+            "referencia":"ENTRE CALLE 5 DE MAYO E INDEPENDENCIA, JUNTO A LAS OFICINAS DEL MINISTERIO P\u00daBLICO"
+          }
+        ]
+      },
+      {
+        "id":"119",
+        "nombre":"ZINACANTEPEC",
+        "modulos":[
+          {
+            "numero":"154021",
+            "nombre":"ZINANCANTEPEC",
+            "direccion":"BENITO JU\u00c1REZ NO. 482, COL. BARRIO DE LA VERACRUZ",
+            "codigo_postal":"51350",
+            "referencia":"ENTRE CALLE MORELOS Y 20 DE NOVIEMBRE, CASI ESQUINA CON JOSE MARIA MORELOS"
+          }
+        ]
+      },
+      {
+        "id":"121",
+        "nombre":"ZUMPANGO",
+        "modulos":[
+          {
+            "numero":"152821",
+            "nombre":"ZUMPANGO",
+            "direccion":"AV. DR. JORGE JIM\u00c9NEZ CANT\u00da NO. 35, COL. BARRIO SAN JUAN",
+            "codigo_postal":"55600",
+            "referencia":"ENTRE CALLE 2 DE MARZO Y LIBRAMIENTO LUIS DONALDO COLOSIO, ATR\u00c1S DEL MERCADO MUNICIPAL LOS INSURGENTES"
+          }
+        ]
+      }
+    ],
+    "nombre":"MEXICO"
+  },
+  {
+    "id":"16",
+    "municipios":[
+      {
+        "id":"6",
+        "nombre":"APATZINGAN",
+        "modulos":[
+          {
+            "numero":"161221",
+            "nombre":"APATZINGAN DE LA CONSTITUCION",
+            "direccion":"AV. JOS\u00c9 MA. MORELOS NO. 166, COL. CENTRO",
+            "codigo_postal":"60600",
+            "referencia":"CENTRO COMERCIAL PLAZA LINDA, ENTRE C. JOSE SOTERO, CORNELIO ORTIZ Y ESTEBAN VACA"
+          }
+        ]
+      },
+      {
+        "id":"34",
+        "nombre":"HIDALGO",
+        "modulos":[
+          {
+            "numero":"160621",
+            "nombre":"HIDALGO",
+            "direccion":"IGNACIO ZARAGOZA NO. 47, COL. CENTRO",
+            "codigo_postal":"61100",
+            "referencia":"ENTRE C ABASOLO E SANTOS DEGOLLADO"
+          }
+        ]
+      },
+      {
+        "id":"43",
+        "nombre":"JACONA",
+        "modulos":[
+          {
+            "numero":"160428",
+            "nombre":"JACONA DE PLANCARTE",
+            "direccion":"CONSTITUCI\u00d3N NO. 44, COL. CENTRO",
+            "codigo_postal":"59800",
+            "referencia":"EN EL AUDITORIO MUNICIPAL, ENTRE C. ZARAGOZA OTE, AMADO NERVO OTE Y ALVARO OBREGON"
+          }
+        ]
+      },
+      {
+        "id":"45",
+        "nombre":"JIQUILPAN",
+        "modulos":[
+          {
+            "numero":"160421",
+            "nombre":"JIQUILPAN DE JUAREZ",
+            "direccion":"FRANCISCO J. M\u00daJICA NO. 385, COL. LA CAMPANA",
+            "codigo_postal":"59510",
+            "referencia":"ENTRE C LEONA VICARIO, DR M SILVA Y BENITO JUAREZ"
+          }
+        ]
+      },
+      {
+        "id":"70",
+        "nombre":"LA PIEDAD",
+        "modulos":[
+          {
+            "numero":"160522",
+            "nombre":"LA PIEDAD",
+            "direccion":"20 DE NOVIEMBRE NO. 71, COL. CENTRO",
+            "codigo_postal":"59300",
+            "referencia":"ENTRE JUAN ESCUTIA, 16 DE SEPTIEMBRE Y AVENIDA HIDALGO, ENTRE EL TEMPLO DEL SE\u00d1OR DE LA PIEDAD Y EL BANCO HSBC."
+          }
+        ]
+      },
+      {
+        "id":"50",
+        "nombre":"LAZARO CARDENAS",
+        "modulos":[
+          {
+            "numero":"160121",
+            "nombre":"LAZARO CARDENAS",
+            "direccion":"AV. MELCHOR OCAMPO NO. 12, COL. 2DO. SECTOR DE FIDELAC",
+            "codigo_postal":"60950",
+            "referencia":"ENTRE C LAURELES, JOSE MA MORELOS Y LA LAGUNA"
+          }
+        ]
+      },
+      {
+        "id":"76",
+        "nombre":"LOS REYES",
+        "modulos":[
+          {
+            "numero":"160729",
+            "nombre":"LOS REYES",
+            "direccion":"PORTAL MORELOS NO. S\/N, COL. CENTRO",
+            "codigo_postal":"60300",
+            "referencia":"FRENTE A LA PRESIDENCIA MUNICIPAL, ENTRE LAS CALLES DE JAVIER MINA Y BENITO JU\u00c1REZ."
+          }
+        ]
+      },
+      {
+        "id":"54",
+        "nombre":"MORELIA",
+        "modulos":[
+          {
+            "numero":"160821",
+            "nombre":"MORELIA",
+            "direccion":"AV. PERIODISMO NO. 1137, COL. AGUST\u00cdN ARRIAGA RIVERA",
+            "codigo_postal":"58190",
+            "referencia":"ENTRE C J M ANZORENA, I FDEZ DE CORDOBA Y PEDRO ARANDA"
+          },
+          {
+            "numero":"160826",
+            "nombre":"MORELIA",
+            "direccion":"VALENT\u00cdN G\u00d3MEZ FAR\u00cdAS NO. 525, COL. INDUSTRIAL",
+            "codigo_postal":"58130",
+            "referencia":"A UN COSTADO DE LAS OFICINAS DEL REGISTRO CIVIL, ENTRE AV. HEROES DE NOCUPETARO Y C. URANIO Y LEON GUZMAN"
+          },
+          {
+            "numero":"161021",
+            "nombre":"MORELIA",
+            "direccion":"TECUEN NO. S\/N, COL. FELIX IRETA",
+            "codigo_postal":"58070",
+            "referencia":"ENTRE REY TARIACURI, SOLIDARIDAD VIRREY DE MENDOZA, A UNA CUADRA DEL R\u00cdO"
+          }
+        ]
+      },
+      {
+        "id":"67",
+        "nombre":"PATZCUARO",
+        "modulos":[
+          {
+            "numero":"161121",
+            "nombre":"PATZCUARO",
+            "direccion":"PONCE DE LE\u00d3N NO. 13, COL. CENTRO",
+            "codigo_postal":"61600",
+            "referencia":"ENTRE C. FEDERICO TENA, BENITO ROMERO Y SAN JUAN DE DIOS"
+          }
+        ]
+      },
+      {
+        "id":"72",
+        "nombre":"PURUANDIRO",
+        "modulos":[
+          {
+            "numero":"160221",
+            "nombre":"PURUANDIRO",
+            "direccion":"EMILIO CARRANZA NO. 707, COL. CENTRO",
+            "codigo_postal":"58502",
+            "referencia":"ENTRE C BARTOLOME DE LAS CASAS, MATEOS Y VILLALONGIN"
+          }
+        ]
+      },
+      {
+        "id":"83",
+        "nombre":"TACAMBARO",
+        "modulos":[
+          {
+            "numero":"161122",
+            "nombre":"TACAMBARO DE CODALLOS",
+            "direccion":"GENERAL NICOL\u00c1S DE REGULES NO. S\/N, COL. CENTRO",
+            "codigo_postal":"61650",
+            "referencia":"ESQ. BENITO JU\u00c1REZ, FRENTE A LA ESC. PRIMARIA CONSTITUCION DE 1917, ENTRE C. GRAL. IGNACIO ZARAGOZA, 5 DE MAYO Y BENITO JUAREZ"
+          }
+        ]
+      },
+      {
+        "id":"103",
+        "nombre":"URUAPAN",
+        "modulos":[
+          {
+            "numero":"160921",
+            "nombre":"URUAPAN DEL PROGRESO",
+            "direccion":"AV. CHIAPAS NO. 93, COL. RAM\u00d3N FAR\u00cdAS",
+            "codigo_postal":"60050",
+            "referencia":"CENTRO COMERCIAL LA FUENTE, ENTRE AV. SARABIA, C. CALIFORNIA Y DURANGO"
+          }
+        ]
+      },
+      {
+        "id":"108",
+        "nombre":"ZACAPU",
+        "modulos":[
+          {
+            "numero":"160721",
+            "nombre":"ZACAPU",
+            "direccion":"MELCHOR OCAMPO NO. 201, COL. CENTRO",
+            "codigo_postal":"58600",
+            "referencia":"ENTRE C J M MORELOS, I ZARAGOZA Y LIC EDUARDO RUIZ"
+          }
+        ]
+      },
+      {
+        "id":"109",
+        "nombre":"ZAMORA",
+        "modulos":[
+          {
+            "numero":"160521",
+            "nombre":"ZAMORA DE HIDALGO",
+            "direccion":"PINO SU\u00c1REZ SUR NO. S\/N, COL. LOS LAURELES",
+            "codigo_postal":"59674",
+            "referencia":"ESQ. MARTINEZ DE NAVARRETE, ENTRE AV. FRANCISCO I MADERO SUR Y PASEO DE LOS LAURELES, LOCAL COMERCIAL EN PLAZA LAS PALOMAS"
+          }
+        ]
+      },
+      {
+        "id":"113",
+        "nombre":"ZITACUARO",
+        "modulos":[
+          {
+            "numero":"160321",
+            "nombre":"ZITACUARO",
+            "direccion":"GENERAL PUEBLITA NORTE NO. B-15, COL. HEROES FERROCARRILEROS",
+            "codigo_postal":"61508",
+            "referencia":"LOCAL EN LA PLAZA COMERCIAL DE LA CENTRAL DE AUTOBUSES, ENTRE CUAUHTEMOC OTE Y MOCTEZUMA OTE"
+          }
+        ]
+      }
+    ],
+    "nombre":"MICHOACAN"
+  },
+  {
+    "id":"17",
+    "municipios":[
+      {
+        "id":"6",
+        "nombre":"CUAUTLA",
+        "modulos":[
+          {
+            "numero":"170321",
+            "nombre":"CUAUTLA",
+            "direccion":"CIRCUNVALACI\u00d3N NO. 38, COL. EMILIANO ZAPATA",
+            "codigo_postal":"62744",
+            "referencia":"ENTRE AV INSURGENTE Y AV FRANCISCO I MADERO"
+          }
+        ]
+      },
+      {
+        "id":"7",
+        "nombre":"CUERNAVACA",
+        "modulos":[
+          {
+            "numero":"170121",
+            "nombre":"CUERNAVACA",
+            "direccion":"AV. PLAN DE AYALA NO. 501, COL. TEOPANZOLCO",
+            "codigo_postal":"62350",
+            "referencia":"ENTRE CALLE JUAN DUBERNARD Y CORONEL AHUMADA, LOCALES 8 Y 9 DE PLAZA ARCOS CRISTAL"
+          },
+          {
+            "numero":"170123",
+            "nombre":"CUERNAVACA",
+            "direccion":"AV. JOS\u00c9 MAR\u00cdA MORELOS Y PAV\u00d3N NO. 178, COL. CENTRO",
+            "codigo_postal":"62000",
+            "referencia":"ENTRE CALLE CUAUHTEMITZIN Y CALLE MOTOLINIA, LOCAL E-7 PLAZA ESMERALDA"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"EMILIANO ZAPATA",
+        "modulos":[
+          {
+            "numero":"170223",
+            "nombre":"EMILIANO ZAPATA",
+            "direccion":"CARRETERRA ZAPATA-TEZOYUCA KM 1, COL. CAMPO NUEVO",
+            "codigo_postal":"62766",
+            "referencia":"ENTRE LAS CALLES EX HACIENDA DE DOLORES Y PRIVADA PINOS EN LA PLAZA COMERCIAL DEL \u00c1NGEL"
+          }
+        ]
+      },
+      {
+        "id":"11",
+        "nombre":"JIUTEPEC",
+        "modulos":[
+          {
+            "numero":"170221",
+            "nombre":"JIUTEPEC",
+            "direccion":"MARIANO MATAMOROS NO. S\/N, COL. CENTRO",
+            "codigo_postal":"62550",
+            "referencia":"ENTRE LAS CALLES MIRADOR E IGNACIO ZARAGOZA EN EL INTERIOR DE LA PLAZA COMERCIAL ARBOLEDAS"
+          }
+        ]
+      },
+      {
+        "id":"12",
+        "nombre":"JOJUTLA",
+        "modulos":[
+          {
+            "numero":"170421",
+            "nombre":"JOJUTLA",
+            "direccion":"AV. IGNACIO MANUEL ALTAMIRANO NO. S\/N, COL. CENTRO",
+            "codigo_postal":"62900",
+            "referencia":"ENTRE CALLES TIERRA Y LIBERTAD Y AQUILES SERD\u00c1N ALTOS DEL MERCADO MUNICIPAL BENITO JU\u00c1REZ"
+          }
+        ]
+      },
+      {
+        "id":"18",
+        "nombre":"TEMIXCO",
+        "modulos":[
+          {
+            "numero":"170222",
+            "nombre":"TEMIXCO",
+            "direccion":"AV. EMILIANO ZAPATA NO. S\/N, COL. CENTRO",
+            "codigo_postal":"62580",
+            "referencia":"ENTRE LAS CALLES FRANCISCO I. MADERO Y \u00c1LVARO OBREG\u00d3N INTERIOR DE PLAZA COMERCIAL TEMIXCO"
+          }
+        ]
+      },
+      {
+        "id":"29",
+        "nombre":"YAUTEPEC",
+        "modulos":[
+          {
+            "numero":"170521",
+            "nombre":"YAUTEPEC",
+            "direccion":"AV. PASEO TLAHUICA 21.5 KM NO. S\/N, COL. PARAISO",
+            "codigo_postal":"62730",
+            "referencia":"ENTRE C. DEL GANADO Y C. ALFREDO V BONFIL"
+          }
+        ]
+      }
+    ],
+    "nombre":"MORELOS"
+  },
+  {
+    "id":"18",
+    "municipios":[
+      {
+        "id":"4",
+        "nombre":"BAHIA DE BANDERAS",
+        "modulos":[
+          {
+            "numero":"180329",
+            "nombre":"SAN JOS\u00c9 DEL VALLE",
+            "direccion":"YUCAT\u00c1N NO. S\/N, COL. CENTRO",
+            "codigo_postal":"63737",
+            "referencia":"ENTRE IGNACIO ZARAGOZA Y JUAN ESCUTIA"
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"COMPOSTELA",
+        "modulos":[
+          {
+            "numero":"180321",
+            "nombre":"COMPOSTELA",
+            "direccion":"CARRETERA TEPIC-PTO. VALLARTA (KM. 35) NO. 11, COL. EL MOLINO",
+            "codigo_postal":"63705",
+            "referencia":"FRENTE A LA GASOLINERA 18 DE MARZO, JDE DEL IFE 03."
+          }
+        ]
+      },
+      {
+        "id":"15",
+        "nombre":"SANTIAGO IXCUINTLA",
+        "modulos":[
+          {
+            "numero":"180121",
+            "nombre":"SANTIAGO IXCUINTLA",
+            "direccion":"GUILLERMO PRIETO NO. 217, COL. NUEVO M\u00c9XICO",
+            "codigo_postal":"63440",
+            "referencia":"AMADO NERVO Y AYUNTAMIENTO A ESPALDAS DE LA OFICINA T\u00c9CNICA DE TELMEX"
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"TEPIC",
+        "modulos":[
+          {
+            "numero":"180221",
+            "nombre":"TEPIC",
+            "direccion":"AV. M\u00c9XICO NO. 300 INT. 8, COL. CENTRO",
+            "codigo_postal":"63000",
+            "referencia":"ENTRE IGNACIO ZARAGOZA Y AMADO NERVO, PLAZA COMERCIAL HOMINIS"
+          },
+          {
+            "numero":"180223",
+            "nombre":"TEPIC",
+            "direccion":"COUNTRY CLUB NO. 94, COL. VERSALLES",
+            "codigo_postal":"63138",
+            "referencia":"ENTRE ACACIA Y ENCINO"
+          }
+        ]
+      }
+    ],
+    "nombre":"NAYARIT"
+  },
+  {
+    "id":"19",
+    "municipios":[
+      {
+        "id":"6",
+        "nombre":"APODACA",
+        "modulos":[
+          {
+            "numero":"190221",
+            "nombre":"APODACA",
+            "direccion":"CARRETERA MIGUEL ALEM\u00c1N NO. 102, COL. ZONA CENTRO",
+            "codigo_postal":"66600",
+            "referencia":"'PLAZA COMERCIAL LAS AM\u00c9RICAS' CASI ESQUINA CON C. ANDR\u00c9S GUAJARDO"
+          },
+          {
+            "numero":"190222",
+            "nombre":"APODACA",
+            "direccion":"AVENIDA CONCORDIA NO. 5000",
+            "codigo_postal":"66610",
+            "referencia":"ENTRE CARRETERA MEZQUITAL-SANTA ROSA Y C. MAPLE. (CENTRO COMERCIAL MOL CONCORDIA (HEB) 27\/01\/2014 FUSI\u00d3N QUE SE DAR\u00c1 ENTRE LOS MAC\u00b4S 190222 Y 190223"
+          }
+        ]
+      },
+      {
+        "id":"9",
+        "nombre":"CADEREYTA JIMENEZ",
+        "modulos":[
+          {
+            "numero":"191221",
+            "nombre":"CADEREYTA JIMENEZ",
+            "direccion":"BLVD. REVOLUCI\u00d3N (CARRETERA CADEREYTA- ALLENDE) NO. 2000, COL. ZONA CENTRO",
+            "codigo_postal":"67480",
+            "referencia":"ENTRE PEDRO MORENO Y ALVARO OBREGON"
+          }
+        ]
+      },
+      {
+        "id":"18",
+        "nombre":"GARCIA",
+        "modulos":[
+          {
+            "numero":"191228",
+            "nombre":"GARC\u00cdA",
+            "direccion":"GARZA AYALA NO. S\/N, COL. ZONA CENTRO",
+            "codigo_postal":"66000",
+            "referencia":"AUDITORIO MUNICIPAL, ENTRE JUAREZ Y MORELOS"
+          },
+          {
+            "numero":"191230",
+            "nombre":"GARC\u00cdA",
+            "direccion":"CORONEL JES\u00daS HERN\u00c1NDEZ NO. S\/N, COL. POPULAR JOS\u00c9 PAEZ GARC\u00cdA",
+            "codigo_postal":"66000",
+            "referencia":"BIBLIOTECA MUNICIPAL ENTRE C ROSAL Y C JAZM\u00cdN"
+          }
+        ]
+      },
+      {
+        "id":"21",
+        "nombre":"GRAL. ESCOBEDO",
+        "modulos":[
+          {
+            "numero":"190321",
+            "nombre":"GRAL. ESCOBEDO",
+            "direccion":"CARRETERA A LAREDO NO. 320, COL. RESIDENCIAL PUERTA DEL NTE.",
+            "codigo_postal":"66050",
+            "referencia":"PLAZA COMERCIAL DE LA SALUD INTEGRAL 'SAN ANTONIO', ENTRE BLVD. BENITO JU\u00c1REZ Y C. LAREDO"
+          },
+          {
+            "numero":"190322",
+            "nombre":"GENERAL ESCOBEDO",
+            "direccion":"AVENIDA LAS INDUSTRIAS NO. 300, COL. FRACCIONAMIENTO PARQUE INDUSTRIAL",
+            "codigo_postal":"66061",
+            "referencia":"ESQUINA AVENIDA LAS TORRES, A 500 METROS AL ORIENTE DE LA SECRETAR\u00cdA DE SEGURIDAD P\u00daBLICA Y VIALIDAD C4"
+          }
+        ]
+      },
+      {
+        "id":"26",
+        "nombre":"GUADALUPE",
+        "modulos":[
+          {
+            "numero":"190821",
+            "nombre":"GUADALUPE",
+            "direccion":"AV. MIGUEL ALEM\u00c1N NO. 5050, COL. LIBERTAD",
+            "codigo_postal":"67130",
+            "referencia":"CENTRO COMERCIAL 'MULTIPLAZA LINDA VISTA' ENTRE AV. LAS AMERICAS Y MONTERREY, LOCAL 10"
+          },
+          {
+            "numero":"190822",
+            "nombre":"GUADALUPE",
+            "direccion":"NAHUA A NO. 302, COL. FRACC. AZTECA",
+            "codigo_postal":"67150",
+            "referencia":"ENTRE AV. AZTECA Y C. OTOM\u00cd"
+          },
+          {
+            "numero":"191121",
+            "nombre":"GUADALUPE",
+            "direccion":"AV. ELOY CAVAZOS NO. 5100, COL. FRACC. SAN EDUARDO",
+            "codigo_postal":"67183",
+            "referencia":"PLAZA COMERCIAL T-SMART, ENTRE AV. ARTURO B. DE LA GARZA Y AV. SAN SEBASTIAN, A UN COSTADO DE WAL-MART"
+          },
+          {
+            "numero":"191124",
+            "nombre":"GUADALUPE",
+            "direccion":"AVENIDA BENITO JU\u00c1REZ NO. 4595, COL. CHULA VISTA",
+            "codigo_postal":"67180",
+            "referencia":"CENTRO COMERCIAL 'PLAZA VISTA', LOCAL A-1, ENTRE PINOS Y FRESNOS"
+          }
+        ]
+      },
+      {
+        "id":"32",
+        "nombre":"JUAREZ",
+        "modulos":[
+          {
+            "numero":"191225",
+            "nombre":"JU\u00c1REZ",
+            "direccion":"ARTURO B DE LA GARZA NO. S\/N, COL. CENTRO",
+            "codigo_postal":"67250",
+            "referencia":"CENTRO COMERCIAL DE LA ROSA LOCAL E, ENTRE C. PEDRO G. OCHOA Y FRANCISCO Y NARANJO"
+          },
+          {
+            "numero":"191229",
+            "nombre":"JU\u00c1REZ",
+            "direccion":"PIEDRAS NEGRAS NO. S\/N, COL. COAHUILA",
+            "codigo_postal":"67250",
+            "referencia":"ENTRE CALLE ACU\u00d1A Y PARRAS EN LA DELEGACI\u00d3N MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"34",
+        "nombre":"LINARES",
+        "modulos":[
+          {
+            "numero":"190921",
+            "nombre":"LINARES",
+            "direccion":"BLVD. DE LA REFORMA NO. 447, COL. LA AMISTAD",
+            "codigo_postal":"67713",
+            "referencia":"ENTRE PROFR. TOMAS RANGEL Y BERL\u00cdN, ENSEGUIDA DE LA AGENCIA VW"
+          }
+        ]
+      },
+      {
+        "id":"40",
+        "nombre":"MONTERREY",
+        "modulos":[
+          {
+            "numero":"190522",
+            "nombre":"MONTERREY",
+            "direccion":"AV. PALACIO DE JUSTICIA NO. 2406, COL. FERROCARRILERA",
+            "codigo_postal":"64250",
+            "referencia":"ENTRE ABELARDO REYES Y SERVANDO ALZATI, A 100 METROS. DEL PENAL"
+          },
+          {
+            "numero":"190523",
+            "nombre":"MONTERREY",
+            "direccion":"AV. LUIS DONALDO COLOSIO NO. 259, COL. CIUDAD SOLIDARIDAD",
+            "codigo_postal":"64105",
+            "referencia":"ENTRE MIRIM Y AVENIDA DEL CENTRO NORTE"
+          },
+          {
+            "numero":"190621",
+            "nombre":"MONTERREY",
+            "direccion":"AV. PASEO DE LOS LEONES NO. 1307, COL. CUMBRES 1ER SECTOR",
+            "codigo_postal":"64610",
+            "referencia":"ENTRE ENRIQUE C. LIVAS Y OCTAVA AVENIDA"
+          },
+          {
+            "numero":"190721",
+            "nombre":"MONTERREY",
+            "direccion":"IGNACIO L. VALLARTA SUR NO. 435, COL. ZONA CENTRO",
+            "codigo_postal":"64000",
+            "referencia":"ENTRE 5 Y 15 DE MAYO"
+          },
+          {
+            "numero":"190722",
+            "nombre":"MONTERREY",
+            "direccion":"AV. FRANCISCO I. MADERO NO. 1524, COL. ZONA CENTRO",
+            "codigo_postal":"64000",
+            "referencia":"ENTRE JULI\u00c1N VILLARREAL Y H\u00c9ROES DEL 47"
+          },
+          {
+            "numero":"191021",
+            "nombre":"MONTERREY",
+            "direccion":"AV. REVOLUCI\u00d3N NO. 3741, COL. VILLA R\u00cdO",
+            "codigo_postal":"64850",
+            "referencia":"ENTRE AV. ALFONSO REYES Y RIO SALADO"
+          }
+        ]
+      },
+      {
+        "id":"47",
+        "nombre":"SAN NICOLAS DE LOS GARZA",
+        "modulos":[
+          {
+            "numero":"190421",
+            "nombre":"SAN NICOLAS DE LOS GARZA",
+            "direccion":"AV. PICO BOL\u00cdVAR NO. 951, COL. LAS PUENTES SECTOR 10",
+            "codigo_postal":"66460",
+            "referencia":"CENTRO COMERCIAL 'PLAZA SAN NICOL\u00c1S-BOL\u00cdVAR', ENTRE C. PICO SORATA Y C. CERRO DEL CUBILETE"
+          }
+        ]
+      },
+      {
+        "id":"19",
+        "nombre":"SAN PEDRO GARZA GARCIA",
+        "modulos":[
+          {
+            "numero":"190122",
+            "nombre":"SAN PEDRO GARZA GARC\u00cdA",
+            "direccion":"AV. MORONES PRIETO 2090 NO. S\/N, COL. EL VALLE",
+            "codigo_postal":"66220",
+            "referencia":"OFICINA DE ENLACE DE LA SECRETAR\u00cdA DE RELACIONES EXTERIORES, ENTRE C. HUMBERTO LOBO Y C. MANUEL SANTOS"
+          }
+        ]
+      },
+      {
+        "id":"48",
+        "nombre":"SANTA CATARINA",
+        "modulos":[
+          {
+            "numero":"190123",
+            "nombre":"SANTA CATARINA",
+            "direccion":"AV. INDUSTRIALES DEL PONIENTE NO. 1050, COL. INDUSTRIAS DEL PONIENTE (CONOCIDO COMO EL PASEO),",
+            "codigo_postal":"66370",
+            "referencia":"ENTRE CALLE LOS ARREDONDOS Y AVENIDA MANUEL ORDO\u00d1ES EN LA PLAZA COMERCIAL 'EL PASEO SANTA CATARINA' LOCALES PSC-C 18 AL 22"
+          }
+        ]
+      }
+    ],
+    "nombre":"NUEVO LEON"
+  },
+  {
+    "id":"20",
+    "municipios":[
+      {
+        "id":"7",
+        "nombre":"ASUNCION NOCHIXTLAN",
+        "modulos":[
+          {
+            "numero":"200329",
+            "nombre":"ASUNCI\u00d3N NOCHIXTLAN",
+            "direccion":"C. ROBERTO KOCH NO. S\/N INT. 83, COL. COLONIA LOMA DE LA ERA",
+            "codigo_postal":"69600",
+            "referencia":"ENTRE ALFREDO NOGUERA Y CALZADA L\u00c1ZARO C\u00c1RDENAS"
+          }
+        ]
+      },
+      {
+        "id":"37",
+        "nombre":"HEROICA CIUDAD DE HUAJUAPAN DE LEON",
+        "modulos":[
+          {
+            "numero":"200321",
+            "nombre":"HEROICA CIUDAD DE HUAJUAPAN DE LEON",
+            "direccion":"2 DE ABRIL NO. 76 INT. 13, COL. TEPEYAC",
+            "codigo_postal":"69006",
+            "referencia":"FRENTE A LA GASOLINERA ENTRE PEDRO MORENO Y DIAZ ORDAZ"
+          }
+        ]
+      },
+      {
+        "id":"553",
+        "nombre":"HEROICA CIUDAD DE TLAXIACO",
+        "modulos":[
+          {
+            "numero":"200621",
+            "nombre":"HEROICA CIUDAD DE TLAXIACO",
+            "direccion":"FRAY CALDELAS NO. 16, COL. BENITO JU\u00c1REZ",
+            "codigo_postal":"69800",
+            "referencia":"ENTRE LAS CALLES DE HIPODROMO Y PASEO DE LA REFORMA"
+          }
+        ]
+      },
+      {
+        "id":"43",
+        "nombre":"JUCHITAN DE ZARAGOZA",
+        "modulos":[
+          {
+            "numero":"200721",
+            "nombre":"JUCHITAN DE ZARAGOZA",
+            "direccion":"PROL .5 DE MAYO NO. 7 INT. 29, COL. FELIPE PESCADOR",
+            "codigo_postal":"70050",
+            "referencia":"ENTRE CALLE 16 DE SEPTIEMBRE Y CARRETERA TRANSISMICA"
+          }
+        ]
+      },
+      {
+        "id":"59",
+        "nombre":"MIAHUATLAN DE PORFIRIO DIAZ",
+        "modulos":[
+          {
+            "numero":"201021",
+            "nombre":"MIAHUATLAN DE PORFIRIO DIAZ",
+            "direccion":"REFORMA NO. 222, COL. CENTRO",
+            "codigo_postal":"70800",
+            "referencia":"ENTRE LAS CALLES DE LUIS BELTRAN Y SAN FRANCISCO"
+          }
+        ]
+      },
+      {
+        "id":"66",
+        "nombre":"OAXACA DE JUAREZ",
+        "modulos":[
+          {
+            "numero":"200821",
+            "nombre":"OAXACA DE JUAREZ",
+            "direccion":"PROL. DE YAGUL NO. 107, COL. FRACC. POPULAR LA NORIA",
+            "codigo_postal":"68120",
+            "referencia":"ENTRE PROL. DE XICOTENCATL Y LA CA\u00d1ADA"
+          }
+        ]
+      },
+      {
+        "id":"182",
+        "nombre":"SAN JUAN BAUTISTA TUXTEPEC",
+        "modulos":[
+          {
+            "numero":"200121",
+            "nombre":"SAN JUAN BAUTISTA TUXTEPEC",
+            "direccion":"AV. INDEPENDENCIA NO. 1524 INT. 6, COL. BARRI\u00d3 LA PIRAGUA",
+            "codigo_postal":"68380",
+            "referencia":"ENTRE C. RIVAPALACIO Y CALLEJON ELISEO JIMENEZ RUIZ"
+          }
+        ]
+      },
+      {
+        "id":"316",
+        "nombre":"SAN PEDRO MIXTEPEC",
+        "modulos":[
+          {
+            "numero":"201126",
+            "nombre":"PUERTO ESCONDIDO",
+            "direccion":"4A NORTE 105 NO. S\/N, COL. SECTOR REFORMA",
+            "codigo_postal":"71980",
+            "referencia":"ENTRE LA CALLE PRIMERA ORIENTE Y AVENIDA OAXACA"
+          }
+        ]
+      },
+      {
+        "id":"392",
+        "nombre":"SANTA LUCIA DEL CAMINO",
+        "modulos":[
+          {
+            "numero":"200921",
+            "nombre":"SANTA LUCIA DEL CAMINO",
+            "direccion":"HORNOS NO. 10, COL. CENTRO",
+            "codigo_postal":"71228",
+            "referencia":"ENTRE C. DEL TRABAJO Y PRIV. DE HORNOS"
+          }
+        ]
+      },
+      {
+        "id":"484",
+        "nombre":"SANTIAGO PINOTEPA NACIONAL",
+        "modulos":[
+          {
+            "numero":"201121",
+            "nombre":"SANTIAGO PINOTEPA NACIONAL",
+            "direccion":"AV. JOS\u00c9 A. BA\u00d1OS AGUIRRE NO. 128, COL. BARRIO LA BANDA",
+            "codigo_postal":"71600",
+            "referencia":"ENTRE LAS CALLES 8A Y 10A ORIENTE"
+          }
+        ]
+      },
+      {
+        "id":"515",
+        "nombre":"SANTO DOMINGO TEHUANTEPEC",
+        "modulos":[
+          {
+            "numero":"200521",
+            "nombre":"SANTO DOMINGO TEHUANTEPEC",
+            "direccion":"AV. JUANA C. ROMERO NO. 83 INT. 17, COL. BARRIO LABOR\u00cdO",
+            "codigo_postal":"70760",
+            "referencia":"ENTRE LAS CALLES LOPEZ RAY\u00d3N Y PEDRO MORENO"
+          }
+        ]
+      },
+      {
+        "id":"545",
+        "nombre":"TEOTITLAN DE FLORES MAGON",
+        "modulos":[
+          {
+            "numero":"200221",
+            "nombre":"TEOTITLAN DE FLORES MAGON",
+            "direccion":"RICARDO FLORES MAG\u00d3N NO. 38, COL. LA PUR\u00cdSIMA",
+            "codigo_postal":"68540",
+            "referencia":"ENTRE LA C. PINO SU\u00c1REZ Y LA C. COL\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"550",
+        "nombre":"TLACOLULA DE MATAMOROS",
+        "modulos":[
+          {
+            "numero":"200421",
+            "nombre":"TLACOLULA DE MATAMOROS",
+            "direccion":"CARRETERA INTERNACIONAL CRIST\u00d3BAL COLON KM 32.5, COL. SIN NOMBRE",
+            "codigo_postal":"70400",
+            "referencia":"ENTRE LAS CALLES, SIMBOLOS PATRIOS Y PROLONGACION DE ZARAGOZA"
+          }
+        ]
+      }
+    ],
+    "nombre":"OAXACA"
+  },
+  {
+    "id":"21",
+    "municipios":[
+      {
+        "id":"3",
+        "nombre":"ACATLAN",
+        "modulos":[
+          {
+            "numero":"211426",
+            "nombre":"ACATLAN",
+            "direccion":"RICARDO REYES M\u00c1RQUEZ NO. 9, COL. BARRIO SAN RAFAEL",
+            "codigo_postal":"74940",
+            "referencia":"ENTRE EMILIANO ZAPATA Y AV. INTERNACIONAL INDEPENDENCIA"
+          }
+        ]
+      },
+      {
+        "id":"10",
+        "nombre":"AJALPAN",
+        "modulos":[
+          {
+            "numero":"211621",
+            "nombre":"AJALPAN",
+            "direccion":"2 PTE. NO. 616, COL. CENTRO",
+            "codigo_postal":"75910",
+            "referencia":"ENTRE C. GALEANA Y C. ALLENDE, ATRAS DEL MERCADO MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"15",
+        "nombre":"AMOZOC",
+        "modulos":[
+          {
+            "numero":"210724",
+            "nombre":"AMOZOC",
+            "direccion":"CALLE 14 SUR NO. 515, COL. BARRIO DE LA SAGRADA FAMILIA",
+            "codigo_postal":"72980",
+            "referencia":"(CARR. FED. AMOZOC-ORIENTAL), ENTRE 5 ORIENTE Y CARRETERA FEDERAL AMOZOC-ORIENTAL"
+          }
+        ]
+      },
+      {
+        "id":"19",
+        "nombre":"ATLIXCO",
+        "modulos":[
+          {
+            "numero":"211321",
+            "nombre":"ATLIXCO",
+            "direccion":"BOULEVARD NI\u00d1OS H\u00c9ROES NO. 805-A, COL. LA ALFONSINA",
+            "codigo_postal":"74270",
+            "referencia":"ENTRE LIBRAMIENTO CARRETERA A IZUCAR DE MATAMOROS E INDEPENDENCIA"
+          }
+        ]
+      },
+      {
+        "id":"46",
+        "nombre":"CHALCHICOMULA DE SESMA",
+        "modulos":[
+          {
+            "numero":"210821",
+            "nombre":"CHALCHICOMULA DE SESMA",
+            "direccion":"BLVD. JOS\u00c9 MAR\u00cdA MORELOS Y PAV\u00d3N NO. 604, COL. CENTRO",
+            "codigo_postal":"75520",
+            "referencia":"ENTRE C. 4 PONIENTE Y C. 6 PONIENTE, FRENTE AL MONUMENTO GUSTAVO D\u00cdAZ ORDAZ."
+          }
+        ]
+      },
+      {
+        "id":"42",
+        "nombre":"CUAUTLANCINGO",
+        "modulos":[
+          {
+            "numero":"211024",
+            "nombre":"SAN JUAN CUAUTLANCINGO",
+            "direccion":"AV. M\u00c9XICO - PUEBLA 151 NO. S\/N, COL. CENTRO",
+            "codigo_postal":"72700",
+            "referencia":"ENTRE CALLES OLIVOS Y BACHILLER, A 50 METROS DE LA SECUNDAR\u00cdA T\u00c9CNICA NO.19"
+          }
+        ]
+      },
+      {
+        "id":"72",
+        "nombre":"HUAUCHINANGO",
+        "modulos":[
+          {
+            "numero":"210121",
+            "nombre":"HUAUCHINANGO DE DEGOLLADO",
+            "direccion":"MORELOS NO. 3, COL. CENTRO",
+            "codigo_postal":"73160",
+            "referencia":"ENTRE CALLE MINA Y CALLE BRAVO A UN COSTADO DE LA IGLESIA"
+          }
+        ]
+      },
+      {
+        "id":"76",
+        "nombre":"HUEJOTZINGO",
+        "modulos":[
+          {
+            "numero":"210523",
+            "nombre":"HUEJOTZINGO",
+            "direccion":"PABLO L SIDAR NO. 221, COL. BARRIO SEGUNDO",
+            "codigo_postal":"74160",
+            "referencia":"ENTRE LAS CALLES DE 16 DE SEPTIEMBRE Y MARIANO ESCOBEDO"
+          }
+        ]
+      },
+      {
+        "id":"87",
+        "nombre":"IZUCAR DE MATAMOROS",
+        "modulos":[
+          {
+            "numero":"211421",
+            "nombre":"IZUCAR DE MATAMOROS",
+            "direccion":"GUERRERO NO. 16, COL. CENTRO",
+            "codigo_postal":"74400",
+            "referencia":"ENTRE ALDAMA Y ABASOLO, FRENTE AL KINDER DEL CENTRO ESCOLAR"
+          }
+        ]
+      },
+      {
+        "id":"115",
+        "nombre":"PUEBLA",
+        "modulos":[
+          {
+            "numero":"210621",
+            "nombre":"PUEBLA",
+            "direccion":"CALZADA IGNACIO ZARAGOZA NO. 266, COL. LOS PINOS",
+            "codigo_postal":"72240",
+            "referencia":"ENTRE DIAGONAL DEFENSORES DE LA REP\u00daBLICA Y CALLE 27 DE SEPTIEMBRE, A UN COSTADO DE LA TIENDA COMERCIAL MEXICANA"
+          },
+          {
+            "numero":"210921",
+            "nombre":"PUEBLA",
+            "direccion":"EUFEMIO ZAPATA NO. 1, COL. SANTAMAR\u00cdA LA RIVERA",
+            "codigo_postal":"72010",
+            "referencia":"ENTRE BLVD. CARMEN SERD\u00c1N SUR Y CAMINO A LOS \u00c1LAMOS"
+          },
+          {
+            "numero":"211121",
+            "nombre":"PUEBLA",
+            "direccion":"PROLONGACI\u00d3N NO. 11 SUR, COL. FRACC. PRADOS DE AGUA AZUL",
+            "codigo_postal":"72430",
+            "referencia":"ESQUINA AV. 53 PONIENTE S\/N Y CIRCUITO INTERIOR, FRENTE AL BALNEARIO"
+          },
+          {
+            "numero":"211221",
+            "nombre":"HEROICA PUEBLA DE ZARAGOZA",
+            "direccion":"PRIV. 8 B SUR NO. 3501, COL. FRACC. ANZURES",
+            "codigo_postal":"72530",
+            "referencia":"ENTRE PRIV 8 A SUR, C. 10 SUR , AV 33 Y AV 37 ORIENTE"
+          },
+          {
+            "numero":"211222",
+            "nombre":"HEROICA PUEBLA DE ZARAGOZA",
+            "direccion":"R\u00cdO PAPAGAYO O C. 24 SUR NO. 5539, COL. JARD\u00cdNES DE SAN MANUEL",
+            "codigo_postal":"72570",
+            "referencia":"ENTRE AV. SAN MANUEL Y AV. SAN FRANCISCO"
+          }
+        ]
+      },
+      {
+        "id":"133",
+        "nombre":"SAN MARTIN TEXMELUCAN",
+        "modulos":[
+          {
+            "numero":"210521",
+            "nombre":"SAN MARTIN TEXMELUCAN",
+            "direccion":"ZARAGOZA NORTE NO. 303, COL. CENTRO",
+            "codigo_postal":"74000",
+            "referencia":"ENTRE LAS CALLES ESTADO DE MEXICO Y ESTEBAN DE ANTU\u00d1ANO"
+          }
+        ]
+      },
+      {
+        "id":"141",
+        "nombre":"SAN PEDRO CHOLULA",
+        "modulos":[
+          {
+            "numero":"211021",
+            "nombre":"CHOLULA DE RIVADAVIA",
+            "direccion":"9 PONIENTE NO. 505, COL. SANTA MAR\u00cdA XIXITLA",
+            "codigo_postal":"72760",
+            "referencia":"ENTRE 5 Y 7 SUR, EDIFICIO QUE OCUPA LA 10 JDE"
+          }
+        ]
+      },
+      {
+        "id":"153",
+        "nombre":"TECAMACHALCO",
+        "modulos":[
+          {
+            "numero":"210824",
+            "nombre":"TECAMACHALCO",
+            "direccion":"AV. MORELOS NO. 8, COL. CENTRO",
+            "codigo_postal":"75480",
+            "referencia":"ENTRE AV. HIDALGO Y AV. 2 ORIENTE, A UN COSTADO DEL PALACIO MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"155",
+        "nombre":"TEHUACAN",
+        "modulos":[
+          {
+            "numero":"211521",
+            "nombre":"TEHUACAN",
+            "direccion":"BLVD. ALDAMA NO. 2002, COL. FRACC. ARCADIA",
+            "codigo_postal":"75760",
+            "referencia":"ENTRE C. 20 SUR Y C. SAN SEBASTIAN, JUNTO A LA ESC. TAMAYO."
+          }
+        ]
+      },
+      {
+        "id":"163",
+        "nombre":"TEPEACA",
+        "modulos":[
+          {
+            "numero":"210721",
+            "nombre":"TEPEACA",
+            "direccion":"9 PONIENTE NO. 301, COL. BARR EL SANTUARIO",
+            "codigo_postal":"75200",
+            "referencia":"ENTRE 3 Y 5 SUR"
+          }
+        ]
+      },
+      {
+        "id":"173",
+        "nombre":"TEZIUTLAN",
+        "modulos":[
+          {
+            "numero":"210321",
+            "nombre":"TEZIUTLAN",
+            "direccion":"AV. HIDALGO NO. 409, COL. CENTRO",
+            "codigo_postal":"73800",
+            "referencia":"ENTRE C. J. C. BONILLA Y C. NIGROMANTE"
+          }
+        ]
+      },
+      {
+        "id":"197",
+        "nombre":"XICOTEPEC",
+        "modulos":[
+          {
+            "numero":"210127",
+            "nombre":"XICOTEPEC",
+            "direccion":"AVENIDA JU\u00c1REZ SUR NO. 152, COL. LA RIVERA",
+            "codigo_postal":"73080",
+            "referencia":"ENTRE CALLE LA RIVERA Y AVENIDA MI RANCHITO"
+          }
+        ]
+      },
+      {
+        "id":"207",
+        "nombre":"ZACAPOAXTLA",
+        "modulos":[
+          {
+            "numero":"210421",
+            "nombre":"ZACAPOAXTLA",
+            "direccion":"CARLOS I. BETANCOURT MOLINA NO. 54, COL. CENTRO",
+            "codigo_postal":"73680",
+            "referencia":"ENTRE C LOS PINOS Y C 2 DE ABRIL. P\/B EDIF QUE OCUPA LA 04 JDE"
+          }
+        ]
+      },
+      {
+        "id":"208",
+        "nombre":"ZACATLAN",
+        "modulos":[
+          {
+            "numero":"210221",
+            "nombre":"210221",
+            "direccion":"IGNACIO ALLENDE NO. 9-A, COL. CENTRO, C.P. 73310, ZACATLAN, PUEBLA",
+            "codigo_postal":"73310",
+            "referencia":"ENTRE AV. LUIS CABRERA LOBATO Y C. 5 DE MAYO"
+          }
+        ]
+      }
+    ],
+    "nombre":"PUEBLA"
+  },
+  {
+    "id":"22",
+    "municipios":[
+      {
+        "id":"3",
+        "nombre":"CADEREYTA DE MONTES",
+        "modulos":[
+          {
+            "numero":"220121",
+            "nombre":"CADEREYTA DE MONTES",
+            "direccion":"REFORMA NO. S\/N, COL. CENTRO",
+            "codigo_postal":"76500",
+            "referencia":"ENTRE MELCHOR OCAMPO Y COMERCIANTES, DETR\u00c1S DE LA CENTRAL DE CAMIONERA"
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"CORREGIDORA",
+        "modulos":[
+          {
+            "numero":"220225",
+            "nombre":"CORREGIDORA",
+            "direccion":"JOSEFA ORTIZ DE DOM\u00cdNGUEZ NO. S\/N, COL. CENTRO",
+            "codigo_postal":"76900",
+            "referencia":"ENTRE FRANCISCO . MADERO Y PEDRO URTIAGA ANTIGUA PRESIDENCIA MUNICIPAL"
+          },
+          {
+            "numero":"220226",
+            "nombre":"LOS CANDILES",
+            "direccion":"AV. CANDILES NO. S\/N, COL. LOS CANDILES",
+            "codigo_postal":"76900",
+            "referencia":"ENTRE CIRCUITO P\u00c9REZ ALCOCER Y FERNANDO ALTAMIRANO DELEGACI\u00d3N MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"14",
+        "nombre":"QUERETARO",
+        "modulos":[
+          {
+            "numero":"220321",
+            "nombre":"EL CARRIZAL",
+            "direccion":"BAMB\u00da NO. 10, COL. EL CARRIZAL",
+            "codigo_postal":"76030",
+            "referencia":"ENTRE BEJUCO Y CA\u00d1AVERAL, A ESPALDAS DEL BANCO BBVA BANCOMER"
+          },
+          {
+            "numero":"220326",
+            "nombre":"EL SOL",
+            "direccion":"AV. DEL SOL NO. 1, COL. EL SOL",
+            "codigo_postal":"76113",
+            "referencia":"ENTRE AV. REVOLUCI\u00d3N Y PROLG. BERNARDO QUINTANA, A UN LADO DE ELEKTRA."
+          },
+          {
+            "numero":"220327",
+            "nombre":"LOMAS DE CASA BLANCA",
+            "direccion":"21 NO. 1000, COL. LOMAS DE CASA BLANCA",
+            "codigo_postal":"76080",
+            "referencia":"ENTRE AV. 22 Y 26, DELEGACION JOSEFA VERGARA Y HERNANDEZ."
+          },
+          {
+            "numero":"220426",
+            "nombre":"LOS ROBLES",
+            "direccion":"PIE DE LA CUESTA NO. 1703, COL. LOS ROBLES",
+            "codigo_postal":"76148",
+            "referencia":"ENTRE CERRADA QUINTA DE ROBLES Y CALLE 1, FRENTE AL CETIS NO. 16"
+          },
+          {
+            "numero":"220427",
+            "nombre":"PLAZAS DEL SOL 1RA SECC",
+            "direccion":"LUIS VEGA Y MONROY NO. 320, COL. PLAZAS DEL SOL 1RA SECC.",
+            "codigo_postal":"76099",
+            "referencia":"ENTRE PRIV. CONGREGACION Y CALLE SIN NOMBRE, CASI EN FRETE DEL INEGI."
+          }
+        ]
+      },
+      {
+        "id":"16",
+        "nombre":"SAN JUAN DEL RIO",
+        "modulos":[
+          {
+            "numero":"220221",
+            "nombre":"SAN JUAN DEL R\u00cdO",
+            "direccion":"IGNACIO L\u00d3PEZ RAY\u00d3N NO. 54, COL. CENTRO",
+            "codigo_postal":"76800",
+            "referencia":"ENTRE HIDALGO Y 20 DE NOVIEMBRE A UNA CUADRA DEL MERCADO REFORMA"
+          }
+        ]
+      }
+    ],
+    "nombre":"QUERETARO"
+  },
+  {
+    "id":"23",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"BENITO JUAREZ",
+        "modulos":[
+          {
+            "numero":"230127",
+            "nombre":"CANC\u00daN",
+            "direccion":"AV. TALLERES (AV. PUERTO JU\u00c1REZ) M 125, LOT. 15 Y 16, COL. REG. 93",
+            "codigo_postal":"77517",
+            "referencia":"ENTRE C 93 Y 95, SECTOR DE LA POLIC\u00cdA 10 ANTES 8 A UN LADO DE OPABI."
+          },
+          {
+            "numero":"230323",
+            "nombre":"CANCUN",
+            "direccion":"AV. LOMBARDO TOLEDANO MZ. 1 NO. LOT. 37-02, COL. SUPERMANZANA 73",
+            "codigo_postal":"77510",
+            "referencia":"ENTRE CALLE 16 Y 18 PONIENTE, OFICINA DE LA 03 JUNTA"
+          }
+        ]
+      },
+      {
+        "id":"7",
+        "nombre":"OTHON P. BLANCO",
+        "modulos":[
+          {
+            "numero":"230221",
+            "nombre":"OTHON P. BLANCO",
+            "direccion":"CONSTITUYENTES DEL 74 NO. 590, COL. PROTERRITORIO",
+            "codigo_postal":"77986",
+            "referencia":"OFICINAS DE LA 02 JUNTA DISTRITAL EJECUTIVA A 100 METROS DEL SORIANA, ENTRE C. 2 AGUADAS Y C. RAUDALES"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"SOLIDARIDAD",
+        "modulos":[
+          {
+            "numero":"230121",
+            "nombre":"PLAYA DEL CARMEN",
+            "direccion":"REGI\u00d3N 14, MZA 22 LOTE 01 -1, C. 28 NTE NO. S\/N, COL. EJIDAL",
+            "codigo_postal":"77712",
+            "referencia":"ENTRE 105 Y 110 AV. NORTE, A UN COSTADO DE LA EMPRESA CITLA"
+          },
+          {
+            "numero":"230133",
+            "nombre":"PLAYA DEL CARMEN",
+            "direccion":"12 NTE. BIS. NO. LOT. 1-2 INT. MZA. 060, COL. CENTRO (GONZALO GUERRERO)",
+            "codigo_postal":"77710",
+            "referencia":"ENTRE 20 NORTE Y 25 NORTE, A UN COSTADO DE LA TERMINAL ADO"
+          }
+        ]
+      }
+    ],
+    "nombre":"QUINTANA ROO"
+  },
+  {
+    "id":"24",
+    "municipios":[
+      {
+        "id":"13",
+        "nombre":"CIUDAD VALLES",
+        "modulos":[
+          {
+            "numero":"240421",
+            "nombre":"CIUDAD VALLES",
+            "direccion":"VICENTE SALAZAR NO. 1210 INT. 46, COL. ZONA CENTRO",
+            "codigo_postal":"79000",
+            "referencia":"ENTRE BLVD. MEXICO LAREDO Y C. GALEANA"
+          }
+        ]
+      },
+      {
+        "id":"20",
+        "nombre":"MATEHUALA",
+        "modulos":[
+          {
+            "numero":"240121",
+            "nombre":"MATEHUALA",
+            "direccion":"BLVD. DE LOS ANDES NO. 109, COL. COLINAS DE LA PAZ",
+            "codigo_postal":"78722",
+            "referencia":"ENTRE AND. PASAJE APENINOS Y C. MONTE EVEREST, A ESPALDAS DE LA SECUNDARIA NUM 2"
+          }
+        ]
+      },
+      {
+        "id":"24",
+        "nombre":"RIOVERDE",
+        "modulos":[
+          {
+            "numero":"240321",
+            "nombre":"RIOVERDE",
+            "direccion":"AMADO NERVO NO. 212, COL. CENTRO",
+            "codigo_postal":"79610",
+            "referencia":"OFICINA DEL REGISTRO FEDERAL DE ELECTORES, ENTRE C,. MORELOS Y C. HIDALGO"
+          }
+        ]
+      },
+      {
+        "id":"28",
+        "nombre":"SAN LUIS POTOSI",
+        "modulos":[
+          {
+            "numero":"240521",
+            "nombre":"SAN LUIS POTOSI",
+            "direccion":"DAMI\u00c1N CARMONA NO. 965, COL. ZONA CENTRO",
+            "codigo_postal":"78240",
+            "referencia":"ENTRE CALLE GRAL. IGNACIO MARTINEZ Y CALLE FAUSTO NIETO"
+          },
+          {
+            "numero":"240522",
+            "nombre":"SAN LUIS POTOS\u00cd",
+            "direccion":"AV MU\u00d1OZ NO. 650, COL. INT E LOS REYES",
+            "codigo_postal":"78170",
+            "referencia":"ENTRE AV FERROCARRIL Y REY CARLOS V, EN LA PLAZA MU\u00d1OZ"
+          },
+          {
+            "numero":"240621",
+            "nombre":"SAN LUIS POTOSI",
+            "direccion":"AV. HIMNO NACIONAL NO. 5315 INT. 66, COL. BARRIO DE SAN JUAN DE GUADALUPE",
+            "codigo_postal":"78359",
+            "referencia":"ENTRE C. ESCANDON Y C. LOS VARGAS, A MEDIA CUADRA DEL JARDIN DE SAN JUAN DE GUADALUPE"
+          },
+          {
+            "numero":"240622",
+            "nombre":"SAN LUIS POTOS\u00cd",
+            "direccion":"AV SALVADOR NAVA MART\u00cdNEZ LOCAL 2 NO. 105, COL. LOCAL ZONA HOTELERA",
+            "codigo_postal":"78398",
+            "referencia":"PLAZA INDUSTRIAS, ENTRE EL DISTRIBUIDOR JUAREZ Y AV. INDUSTRIAS, A MEDIA CUADRA DE LA UNIDAD 45 DEL IMSS"
+          }
+        ]
+      },
+      {
+        "id":"35",
+        "nombre":"SOLEDAD DE GRACIANO SANCHEZ",
+        "modulos":[
+          {
+            "numero":"240221",
+            "nombre":"SOLEDAD DE GRACIANO SANCHEZ",
+            "direccion":"BLAS ESCONTRIA NO. 746 INT. 13, COL. ZONA CENTRO",
+            "codigo_postal":"78430",
+            "referencia":"ENTRE MORELOS Y PARRODI, OFICINA DEL RFE"
+          }
+        ]
+      },
+      {
+        "id":"37",
+        "nombre":"TAMAZUNCHALE",
+        "modulos":[
+          {
+            "numero":"240721",
+            "nombre":"TAMAZUNCHALE",
+            "direccion":"AV. 20 DE NOVIEMBRE NO. 505 INT. 9, COL. BARRIO DE SAN MIGUEL",
+            "codigo_postal":"79960",
+            "referencia":"ENTRE CALLE PORFIRIO DIAZ Y CALLE DE LA MORA A UN COSTADO DE LA GASOLINERA ROMATAM"
+          }
+        ]
+      }
+    ],
+    "nombre":"SAN LUIS POTOSI"
+  },
+  {
+    "id":"25",
+    "municipios":[
+      {
+        "id":"1",
+        "nombre":"AHOME",
+        "modulos":[
+          {
+            "numero":"250225",
+            "nombre":"LOS MOCHIS",
+            "direccion":"GABRIEL LEYVA NO. S\/N, COL. CENTRO",
+            "codigo_postal":"81200",
+            "referencia":"ENTRE CALLE JOSE MARIA MORELOS Y CALLE BENITO JUAREZ, OFICINA DEL INSTITUTO FEDERAL ELECTORAL"
+          }
+        ]
+      },
+      {
+        "id":"6",
+        "nombre":"CULIACAN",
+        "modulos":[
+          {
+            "numero":"250521",
+            "nombre":"CULIACAN",
+            "direccion":"R\u00cdO PAPALOAPAN NO. 1006, COL. POPULAR",
+            "codigo_postal":"80120",
+            "referencia":"ESQ. RIO SANTIAGO OFICINA DEL INSTITUTO FEDERAL ELECTORAL"
+          },
+          {
+            "numero":"250522",
+            "nombre":"CULIAC\u00c1N",
+            "direccion":"AV. ALVARO OBREG\u00d3N NO. S\/N, COL. VICENTE LOMBARDO TOLEDANO",
+            "codigo_postal":"80010",
+            "referencia":"DENTRO DEL DIF 6 DE ENERO"
+          },
+          {
+            "numero":"250525",
+            "nombre":"CULIAC\u00c1N",
+            "direccion":"BLVD ENRIQUE CABRERA NO. S\/N, COL. INFONAVIT HUMAYA",
+            "codigo_postal":"80020",
+            "referencia":"ESQUINA CON BOLULEVARD JOSE LIMON NUMERO 1732 LOCAL 37 (PLAZA ABASTOS DEL HUMAYA)"
+          },
+          {
+            "numero":"250721",
+            "nombre":"CULIACAN",
+            "direccion":"CALZ. HER\u00d3ICO COLEGIO MILITAR NO. 3793 SUR, COL. MERCADO DE ABASTOS",
+            "codigo_postal":"80299",
+            "referencia":"EN PLAZA SANTA CLARA Y A UN COSTADO DEL MERCADO DE ABASTOS"
+          },
+          {
+            "numero":"250723",
+            "nombre":"ELDORADO",
+            "direccion":"C. MARIANO ESCOBEDO NO. S\/N, COL. LOC EL DORADO",
+            "codigo_postal":"80450",
+            "referencia":"ESQUINA CON NAYARIT, EN LA SINDICATURA DEL LUGAR, ENTRE AVENIDA NAYARIT Y AVENIDA DONATO GUERRA"
+          }
+        ]
+      },
+      {
+        "id":"10",
+        "nombre":"EL FUERTE",
+        "modulos":[
+          {
+            "numero":"250121",
+            "nombre":"EL FUERTE",
+            "direccion":"SANTOS DEGOLLADO NO. 213, COL. CENTRO",
+            "codigo_postal":"81820",
+            "referencia":"ENTRE CALLES MONTESCLAROS Y ANDADOR DE LA JUVENTUD, OFICINA DEL INSTITUTO FEDERAL ELECTORAL"
+          }
+        ]
+      },
+      {
+        "id":"9",
+        "nombre":"ESCUINAPA",
+        "modulos":[
+          {
+            "numero":"250627",
+            "nombre":"ESCUINAPA",
+            "direccion":"FRANCISCO I MADERO NO. S\/N",
+            "codigo_postal":"82400",
+            "referencia":"GIMNASIO MUNICIPAL, ENTRE AVENIDA DE LA JUVENTUD Y CALLE 21 DE MARZO A UN COSTADO DEL PANTEON MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"11",
+        "nombre":"GUASAVE",
+        "modulos":[
+          {
+            "numero":"250421",
+            "nombre":"GUASAVE",
+            "direccion":"AV. REVOLUCION NO. S\/N, COL. CENTRO",
+            "codigo_postal":"81000",
+            "referencia":"ESQ. CON C. CUAUHT\u00c9MOC, ENTRE CALLE SANTOS DEGOLLADO Y FRANCISCO GONZALEZ BOCANEGRA, A MEDIA CUADRA DEL BUFTE JURIDICO DE LA UAS"
+          }
+        ]
+      },
+      {
+        "id":"12",
+        "nombre":"MAZATLAN",
+        "modulos":[
+          {
+            "numero":"250621",
+            "nombre":"MAZATLAN",
+            "direccion":"AV. CAMAR\u00d3N S\u00c1BALO NO. 7, COL. FRACC. S\u00c1BALO COUNTRY CLUB",
+            "codigo_postal":"82100",
+            "referencia":"PLAZA DEL SABALO LOCAL 6, ENTRE BOULEVARD DEL MARLIN Y AVENIDA DE LA LANGOSTA, OFICINAS DEL INSTITUTO FEDERAL ELECTORAL"
+          },
+          {
+            "numero":"250624",
+            "nombre":"MAZATL\u00c1N",
+            "direccion":"AV. LUIS DONALDO COLOSIO NO. 17204, COL. FRACC. RESIDENCIAL JARD\u00cdNES DEL BOSQUE",
+            "codigo_postal":"82129",
+            "referencia":"LOCAL 5 , ENTRE LA ENTRADA AL INFONAVIT FRANCISCO ALARC\u00d3N FREGOSO Y CALLE CEDRO"
+          },
+          {
+            "numero":"250821",
+            "nombre":"MAZATLAN",
+            "direccion":"SINALOA NO. 41, COL. S\u00c1NCHEZ CELIS",
+            "codigo_postal":"82120",
+            "referencia":"ESQUINA CON AVENIDA REVOLUCION, ENTRE CALLE MICHOAC\u00c1N Y CALLE ZACATECAS, CASI FRENTE A LA CL\u00cdNICA DEL MAR, OFICINA DEL IFE"
+          },
+          {
+            "numero":"250822",
+            "nombre":"MAZATL\u00c1N",
+            "direccion":"RAFAEL BUELNA NO. S\/N, COL. BENITO JU\u00c1REZ",
+            "codigo_postal":"82180",
+            "referencia":"DIRECCION DE SEGURIDAD PUBLICA MUNICIPAL, ENTRE CALLE JUAN ESCUTIA Y CALLE AGUST\u00cdN MELGAR"
+          }
+        ]
+      },
+      {
+        "id":"18",
+        "nombre":"NAVOLATO",
+        "modulos":[
+          {
+            "numero":"250324",
+            "nombre":"NAVOLATO",
+            "direccion":"CALZADA JORGE ALMADA NO. 267, COL. CENTRO",
+            "codigo_postal":"80320",
+            "referencia":"FRENTE A BANORTE"
+          }
+        ]
+      },
+      {
+        "id":"15",
+        "nombre":"SALVADOR ALVARADO",
+        "modulos":[
+          {
+            "numero":"250321",
+            "nombre":"GUAM\u00daCHIL",
+            "direccion":"CARRETERA A MOCORITO NO. 315, COL. DEL EVORA",
+            "codigo_postal":"81460",
+            "referencia":"ENTRE C. SALVADOR ALVARADO A UN COSTADO DEL ESTACIONAMIENTO DEL SUPER MZ."
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"SINALOA",
+        "modulos":[
+          {
+            "numero":"250125",
+            "nombre":"SINALOA DE LEYVA",
+            "direccion":"DANIEL GAMEZ ENRIQUEZ NO. 71, COL. CENTRO",
+            "codigo_postal":"81900",
+            "referencia":"ENTRE \u00c1LVARO OBREG\u00d3N Y FRANCISCO ECHAVARRIA ROJO"
+          }
+        ]
+      }
+    ],
+    "nombre":"SINALOA"
+  },
+  {
+    "id":"26",
+    "municipios":[
+      {
+        "id":"2",
+        "nombre":"AGUA PRIETA",
+        "modulos":[
+          {
+            "numero":"260224",
+            "nombre":"AGUA PRIETA",
+            "direccion":"9 NO. 2501, COL. ACAPULCO",
+            "codigo_postal":"84200",
+            "referencia":"LOCAL 5, ENTRE LAS AVENIDAS 25 Y 26, PLAZA TRES DIAMANTES"
+          }
+        ]
+      },
+      {
+        "id":"46",
+        "nombre":"CABORCA",
+        "modulos":[
+          {
+            "numero":"260128",
+            "nombre":"CABORCA",
+            "direccion":"SEIS Y AV. JULIO AVI\u00d1A NO. S\/N, COL. CENTRO",
+            "codigo_postal":"83600",
+            "referencia":"ENTRE AVENIDA JULIO AVI\u00d1A Y AVENIDA 'K', LOCAL COMERCIAL JUNTO A ESTAFETA"
+          }
+        ]
+      },
+      {
+        "id":"59",
+        "nombre":"CAJEME",
+        "modulos":[
+          {
+            "numero":"260621",
+            "nombre":"CD OBREG\u00d3N",
+            "direccion":"SONORA NO. 228, COL. SIN NOMBRE",
+            "codigo_postal":"85000",
+            "referencia":"ALLENDE Y NAINARI, ADELANTE DE LA FARMACIA DEL ISSSTE"
+          }
+        ]
+      },
+      {
+        "id":"61",
+        "nombre":"GUAYMAS",
+        "modulos":[
+          {
+            "numero":"260421",
+            "nombre":"GUAYMAS",
+            "direccion":"AV. SERD\u00c1N NO. 508, COL. CENTRO",
+            "codigo_postal":"85400",
+            "referencia":"ENTRE CALLE 10 Y 11, FRENTE A SORIANA PLAZA DIEZ"
+          }
+        ]
+      },
+      {
+        "id":"49",
+        "nombre":"HERMOSILLO",
+        "modulos":[
+          {
+            "numero":"260321",
+            "nombre":"HERMOSILLO",
+            "direccion":"AV. ENRIQUE QUIJADA NO. 517, COL. CHOYAL",
+            "codigo_postal":"83130",
+            "referencia":"ESQUINA CALLE AYUNTAMIENTO Y CALLE OBREG\u00d3N, FRENTE A LA ESCUELA PRIMARIA \u00b7GENERAL L\u00c1ZARO C\u00c1RDENAS"
+          },
+          {
+            "numero":"260323",
+            "nombre":"HERMOSILLO",
+            "direccion":"ISRAEL GONZ\u00c1LEZ (PERIMETRAL) NO. S\/N, COL. JES\u00daS GARC\u00cdA",
+            "codigo_postal":"83140",
+            "referencia":"ENTRE LEOCADIO SALCEDO E IGNACIO HERN\u00c1NDEZ, ENTRADA PRINCIPAL POR LA CALLE ISRAEL GONZALEZ, EN LA PLAZA COMERCIAL LOCAL 3"
+          },
+          {
+            "numero":"260325",
+            "nombre":"HERMOSILLO",
+            "direccion":"CABO SAN ANTONIO NO. S\/N, COL. INTERNACIONAL",
+            "codigo_postal":"83131",
+            "referencia":"ENTRE ROSARIO P. DE CARPIO Y CULIAC\u00c1N (CENTRO COMUNITARIO, ENSEGUIDA DE LA ESCUELA PRIMARIA ' JESUS PERALTA')"
+          },
+          {
+            "numero":"260528",
+            "nombre":"HERMOSILLO",
+            "direccion":"EVERARDO MONROY NO. 46, COL. CENTRO",
+            "codigo_postal":"83000",
+            "referencia":"ENTRE REVOLUCI\u00d3N Y HERIBERTO AJA, FRENTE AL TALLER AUTOMASTERS"
+          }
+        ]
+      },
+      {
+        "id":"65",
+        "nombre":"NAVOJOA",
+        "modulos":[
+          {
+            "numero":"260721",
+            "nombre":"NAVOJOA",
+            "direccion":"OTERO NO. 906, COL. JU\u00c1REZ",
+            "codigo_postal":"85870",
+            "referencia":"ESQUINA DE OTERO Y JIM\u00c9NEZ, 07 JUNTA DISTRITAL EJECUTIVA, FRENTE AL MOTEL EL MAYO"
+          }
+        ]
+      },
+      {
+        "id":"30",
+        "nombre":"NOGALES",
+        "modulos":[
+          {
+            "numero":"260222",
+            "nombre":"NOGALES",
+            "direccion":"MOCTEZUMA NO. 819, COL. FUNDO LEGAL",
+            "codigo_postal":"84030",
+            "referencia":"FONDO LEGAL, ENTRE PUERTO RICO Y ESCOBEDO, A UN COSTADO DE LA PANADERIA FLOR DE MEXICO"
+          }
+        ]
+      },
+      {
+        "id":"55",
+        "nombre":"SAN LUIS RIO COLORADO",
+        "modulos":[
+          {
+            "numero":"260121",
+            "nombre":"SAN LUIS RIO COLORADO",
+            "direccion":"AV. CHIAPAS Y CALLE 7 NO. 701, COL. SONORA",
+            "codigo_postal":"83440",
+            "referencia":"ENTRE CALLES 7 Y 8, 01 JUNTA DISTRITAL EJECUTIVA DEL IFE, A UNA CUADRA DEL MERCADO WELTON"
+          }
+        ]
+      }
+    ],
+    "nombre":"SONORA"
+  },
+  {
+    "id":"27",
+    "municipios":[
+      {
+        "id":"2",
+        "nombre":"CARDENAS",
+        "modulos":[
+          {
+            "numero":"270221",
+            "nombre":"HEROICA C\u00c1RDENAS",
+            "direccion":"AV. BENITO JU\u00c1REZ NO. 323, COL. CENTRO",
+            "codigo_postal":"86500",
+            "referencia":"(MODULO DE ATENCI\u00d3N CIUDADANA FIJO DISTRITAL), FRENTE A EX CASA PAZOS,ENTRE AUREO L. CALLES Y AURELIO SOSA TORRES"
+          }
+        ]
+      },
+      {
+        "id":"4",
+        "nombre":"CENTRO",
+        "modulos":[
+          {
+            "numero":"270421",
+            "nombre":"VILLAHERMOSA",
+            "direccion":"ROSALES NO. 204, COL. CENTRO",
+            "codigo_postal":"86000",
+            "referencia":"CASI ESQ.CON EUSEBIO CASTILLO"
+          },
+          {
+            "numero":"270621",
+            "nombre":"VILLAHERMOSA",
+            "direccion":"PERIF\u00c9RICO CARLOS PELLICER C\u00c1MARA NO. 1500, COL. TAMULT\u00c9",
+            "codigo_postal":"86150",
+            "referencia":"FRACC. JARDINES DEL SUR, FRENTE AL RECINTO MEMORIAL."
+          }
+        ]
+      },
+      {
+        "id":"5",
+        "nombre":"COMALCALCO",
+        "modulos":[
+          {
+            "numero":"270321",
+            "nombre":"COMALCALCO",
+            "direccion":"PIMIENTA NO. 1, COL. FRACC. LAS ROSAS",
+            "codigo_postal":"86360",
+            "referencia":"A TRES CUADRAS DE LA CASETA DE POLIC\u00cdA"
+          }
+        ]
+      },
+      {
+        "id":"6",
+        "nombre":"CUNDUACAN",
+        "modulos":[
+          {
+            "numero":"270322",
+            "nombre":"CUNDUACAN",
+            "direccion":"ADOLFO RUIZ CORTINEZ NO. S\/N, COL. CENTRO",
+            "codigo_postal":"86690",
+            "referencia":"PLAZA COMERCIAL SANTA ELENA LOCAL N\u00daM 3 FRENTE AL HOSPITAL REGIONAL"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"HUIMANGUILLO",
+        "modulos":[
+          {
+            "numero":"270224",
+            "nombre":"HUIMANGUILLO",
+            "direccion":"CUAUHT\u00c9MOC NO. S\/N, COL. CENTRO",
+            "codigo_postal":"86400",
+            "referencia":"ESQ. JACINTO L\u00d3PEZ (MODULO DE ATENCI\u00d3N CIUDADANA FIJO), CERCA DE LA ACADEMIA DEL DIF, ENTRE LAS CALLES JACINTO L\u00d3PEZ Y PROGRESO"
+          }
+        ]
+      },
+      {
+        "id":"12",
+        "nombre":"MACUSPANA",
+        "modulos":[
+          {
+            "numero":"270121",
+            "nombre":"MACUSPANA",
+            "direccion":"AGUST\u00cdN D\u00cdAZ DEL CASTILLO NO. 323, COL. CENTRO",
+            "codigo_postal":"86700",
+            "referencia":"FRENTE A LA PANADERIA LASTRA"
+          }
+        ]
+      },
+      {
+        "id":"14",
+        "nombre":"PARAISO",
+        "modulos":[
+          {
+            "numero":"270523",
+            "nombre":"PARAISO",
+            "direccion":"AQUILES SERD\u00c1N S\/N, COL. CENTRO",
+            "codigo_postal":"86600",
+            "referencia":"ENTRE MELCHOR OCAMPO Y GREGORIO MENDEZ.(POR ELEKTRA)"
+          }
+        ]
+      }
+    ],
+    "nombre":"TABASCO"
+  },
+  {
+    "id":"28",
+    "municipios":[
+      {
+        "id":"9",
+        "nombre":"CIUDAD MADERO",
+        "modulos":[
+          {
+            "numero":"280721",
+            "nombre":"CIUDAD MADERO",
+            "direccion":"13 DE ENERO NO. 311, COL. CENTRO",
+            "codigo_postal":"89400",
+            "referencia":"ENTRE CALLES FRANCISCO SARABIA Y PEDRO J. MENDEZ"
+          }
+        ]
+      },
+      {
+        "id":"21",
+        "nombre":"EL MANTE",
+        "modulos":[
+          {
+            "numero":"280621",
+            "nombre":"MANTE, EL",
+            "direccion":"ALVARO OBREG\u00d3N NO. 602, COL. CENTRO",
+            "codigo_postal":"89800",
+            "referencia":"ENTRE GUAYALEJO Y MONTERREY, ZONA CENTRO, MANTE TAMAULIPAS PLAZA COMERCIAL OBREGON"
+          }
+        ]
+      },
+      {
+        "id":"22",
+        "nombre":"MATAMOROS",
+        "modulos":[
+          {
+            "numero":"280421",
+            "nombre":"MATAMOROS",
+            "direccion":"SEGUNDA NO. 146, COL. CENTRO",
+            "codigo_postal":"87300",
+            "referencia":"ENTRE ABASOLO Y GONZALEZ, 04 JUNTA DISTRITAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL"
+          }
+        ]
+      },
+      {
+        "id":"27",
+        "nombre":"NUEVO LAREDO",
+        "modulos":[
+          {
+            "numero":"280121",
+            "nombre":"NUEVO LAREDO",
+            "direccion":"DR. MIER NO. 4336, COL. HIDALGO",
+            "codigo_postal":"88160",
+            "referencia":"ENTRE NI\u00d1OS HERORES Y CONSTITUCI\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"32",
+        "nombre":"REYNOSA",
+        "modulos":[
+          {
+            "numero":"280221",
+            "nombre":"REYNOSA",
+            "direccion":"CUARTA NO. 370, COL. PROLONGACI\u00d3N LONGORIA",
+            "codigo_postal":"88660",
+            "referencia":"ENTRE RIO MANTE Y RIO ALAMO FRENTE A LA REFACCIONARIA JOMAR"
+          }
+        ]
+      },
+      {
+        "id":"33",
+        "nombre":"RIO BRAVO",
+        "modulos":[
+          {
+            "numero":"280327",
+            "nombre":"RIO BRAVO",
+            "direccion":"CHIHUAHUA NO. 404, COL. FRACC. RIO BRAVO",
+            "codigo_postal":"88950",
+            "referencia":"ENTRE OAXACA Y NAYARIT, FRENTE A LA 03 JUNTA DISTRITAL"
+          }
+        ]
+      },
+      {
+        "id":"38",
+        "nombre":"TAMPICO",
+        "modulos":[
+          {
+            "numero":"280821",
+            "nombre":"TAMPICO",
+            "direccion":"M\u00c9XICO NO. 310, COL. GUADALUPE",
+            "codigo_postal":"89120",
+            "referencia":"ENTRE CALLE TAMPICO Y GUADALAJARA, INSTALACIONES DE LA 08 JUNTA DISTRITAL EJECUTIVA DEL IFE"
+          }
+        ]
+      },
+      {
+        "id":"41",
+        "nombre":"VICTORIA",
+        "modulos":[
+          {
+            "numero":"280521",
+            "nombre":"VICTORIA",
+            "direccion":"19 (MIER Y TER\u00c1N) NO. 1528, COL. PEDRO JOS\u00c9 M\u00c9NDEZ",
+            "codigo_postal":"87048",
+            "referencia":"ENTRE ALEJANDRO PRIETO Y VERACRUZ FRENTE DE LA IGLESIA HOREB"
+          }
+        ]
+      }
+    ],
+    "nombre":"TAMAULIPAS"
+  },
+  {
+    "id":"29",
+    "municipios":[
+      {
+        "id":"3",
+        "nombre":"APIZACO",
+        "modulos":[
+          {
+            "numero":"290121",
+            "nombre":"APIZACO",
+            "direccion":"AV. XICOT\u00c9NCATL NO. 2112, COL. F\u00c1TIMA",
+            "codigo_postal":"90357",
+            "referencia":"ENTRE 1ERA. PRIVADA DE CUAUHT\u00c9MOC Y PRIVADA XICOHT\u00c9NCATL, PLANTA BAJA DE LA JUNTA DISTRITAL EJECUTIVA 01PRIVADA XICOHTENCATL"
+          }
+        ]
+      },
+      {
+        "id":"10",
+        "nombre":"CHIAUTEMPAN",
+        "modulos":[
+          {
+            "numero":"290221",
+            "nombre":"SANTA ANA CHIAUTEMPAN",
+            "direccion":"CARR. OCOTL\u00c1N-SANTA ANA NO. 35, COL. FRACC. DEL BOSQUE",
+            "codigo_postal":"90800",
+            "referencia":"ENTRE AV. ARQUITECTOS Y AV. TLAPANCALCO, FRACC. EL BOSQUE, A UN COSTADO DE FARMAPRONTO"
+          }
+        ]
+      },
+      {
+        "id":"25",
+        "nombre":"SAN PABLO DEL MONTE",
+        "modulos":[
+          {
+            "numero":"290225",
+            "nombre":"VICENTE GUERRERO",
+            "direccion":"AV. PABLO SIDAR SUR, COL. BARRIO SAN MIGUEL",
+            "codigo_postal":"90970",
+            "referencia":"ENTRE AVENIDA AYUNTAMIENTO ORIENTE Y CALLE TLAXCALA ORIENTE, AL INTERIOR DE LA CASA DE LA CULTURA"
+          }
+        ]
+      },
+      {
+        "id":"33",
+        "nombre":"TLAXCALA",
+        "modulos":[
+          {
+            "numero":"290224",
+            "nombre":"290224",
+            "direccion":"PLAZA DE LA CONSTITUCI\u00d3N NO. S\/N, COL. CENTRO, C.P. 90000, TLAXCALA, TLAXCALA",
+            "codigo_postal":"90000",
+            "referencia":"ENTRE CALLE MORELOS Y AV. LARDIZABAL,PORTAL GRANDE, FRENTE A LA PLAZA DE LA CONSTITUCI\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"44",
+        "nombre":"ZACATELCO",
+        "modulos":[
+          {
+            "numero":"290321",
+            "nombre":"ZACATELCO",
+            "direccion":"HIDALGO OTE. NO. 20 INT. B, COL. CENTRO SECCI\u00d3N PRIMERA",
+            "codigo_postal":"90740",
+            "referencia":"ENTRE C NI\u00d1OS HEROES Y LIBERTAD"
+          }
+        ]
+      }
+    ],
+    "nombre":"TLAXCALA"
+  },
+  {
+    "id":"30",
+    "municipios":[
+      {
+        "id":"3",
+        "nombre":"ACAYUCAN",
+        "modulos":[
+          {
+            "numero":"302021",
+            "nombre":"ACAYUCAN",
+            "direccion":"AV. ZARAGOZA NO. 402, COL. BARRIO CRUZ VERDE",
+            "codigo_postal":"96079",
+            "referencia":"ENTRE JUAN ALVEREZ Y FRANCISCO I MADERO"
+          }
+        ]
+      },
+      {
+        "id":"8",
+        "nombre":"ALAMO TEMAPACHE",
+        "modulos":[
+          {
+            "numero":"300329",
+            "nombre":"\u00c1LAMTEMAPACHE",
+            "direccion":"C. SALVADOR D\u00cdAZ MIR\u00d3N S\/N, COL. CENTRO",
+            "codigo_postal":"92730",
+            "referencia":"ENTRE LAS CALLES INDEPENDENCIA Y AVILES, EN EL LOCAL COMERCIAL, A DOS CUADRAS DE LA ESCUELA PRIMARIA D\u00cdAZ MIR\u00d3N"
+          }
+        ]
+      },
+      {
+        "id":"12",
+        "nombre":"ALVARADO",
+        "modulos":[
+          {
+            "numero":"301733",
+            "nombre":"ALVARADO",
+            "direccion":"AV. MANUEL M OROPEZA NO. 30, COL. CENTRO",
+            "codigo_postal":"95270",
+            "referencia":"ENTRE JUAN SOTO Y ALLENDE, CONTRA ESQUINA DEL MUSEO POETA NEFTALI BELTR\u00c1N LARA"
+          }
+        ]
+      },
+      {
+        "id":"29",
+        "nombre":"BOCA DEL RIO",
+        "modulos":[
+          {
+            "numero":"300426",
+            "nombre":"BOCA DEL R\u00cdO",
+            "direccion":"AV REVOLUCI\u00d3N NO. S\/N, COL. ZONA CENTRO",
+            "codigo_postal":"94290",
+            "referencia":"ESQUINA C MIGUEL HIDALGO OFICINAS DEL REGISTRO CIVIL"
+          },
+          {
+            "numero":"300428",
+            "nombre":"BOCA DEL R\u00cdO",
+            "direccion":"BLVD. ADOLFO RUIZ CORTINES NO. 1228, COL. FRACC. COSTA VERDE",
+            "codigo_postal":"94294",
+            "referencia":"ENTRE PASEO S. S. JUAN PABLO II Y CALZ. ESCUELA MEDICO MILITAR , TIENDA MEGA COMERCIAL MEXICANA, JUNTO A LOS CENTROS COMERCIALES SORIANA Y COSTCO Y FRENTE A LA BIBLIOTECA USBI DE LA U.V."
+          }
+        ]
+      },
+      {
+        "id":"40",
+        "nombre":"COATEPEC",
+        "modulos":[
+          {
+            "numero":"300921",
+            "nombre":"COATEPEC",
+            "direccion":"IGNACIO ZARAGOZA NO. 42, COL. CENTRO",
+            "codigo_postal":"91500",
+            "referencia":"JUNTO A LA 09 JDE ENTRE C. IGNACIO ALLENDE Y C. MANUEL DE MIER Y TERAN A 50 MTS. DEL DIF MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"41",
+        "nombre":"COATZACOALCOS",
+        "modulos":[
+          {
+            "numero":"301121",
+            "nombre":"COATZACOALCOS",
+            "direccion":"AV. PEDRO MORENO NO. 1107, COL. MAR\u00cdA DE LA PIEDAD",
+            "codigo_postal":"96410",
+            "referencia":"ENTRE LAS C. MIGUEL ANGEL DE QUEVEDO Y C. CUAUHTEMOC EN LAS OFICINAS DE LA 11 JUNTA DISTRITAL EJECUTIVA"
+          }
+        ]
+      },
+      {
+        "id":"46",
+        "nombre":"CORDOBA",
+        "modulos":[
+          {
+            "numero":"301621",
+            "nombre":"CORDOBA",
+            "direccion":"AVE. 9 NO. 2403, COL. SAN JOSE",
+            "codigo_postal":"94560",
+            "referencia":"ENTRE 24 Y 26, AL RESPALDO DE LOS CINEMAS MAGIC"
+          }
+        ]
+      },
+      {
+        "id":"47",
+        "nombre":"COSAMALOAPAN",
+        "modulos":[
+          {
+            "numero":"301721",
+            "nombre":"COSAMALOAPAN",
+            "direccion":"AV. HERMENEGILDO GALEANA NO. 262, COL. ZONA CENTRO",
+            "codigo_postal":"95400",
+            "referencia":"ENTRE C. RUIZ CORTINEZ Y PINO SUAREZ, PLANTA ALTA DE LA JUNTA DISTRITAL17"
+          }
+        ]
+      },
+      {
+        "id":"49",
+        "nombre":"COSCOMATEPEC",
+        "modulos":[
+          {
+            "numero":"301529",
+            "nombre":"301529",
+            "direccion":"AMEZ Y ARGUELLES NO. S\/N, COL. CENTRO, C.P. 94140, COSCOMATEPEC, VERACRUZ",
+            "codigo_postal":"94140",
+            "referencia":"ENTRE NICOL\u00c1S BRAVO Y BENITO JU\u00c1REZ, FRENTE AL PARQUE MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"50",
+        "nombre":"COSOLEACAQUE",
+        "modulos":[
+          {
+            "numero":"302121",
+            "nombre":"COSOLEACAQUE",
+            "direccion":"CARR. TRANS\u00cdSMICA NO. 70, COL. BARRIO PRIMERO",
+            "codigo_postal":"96340",
+            "referencia":"ENTRE C CORREOS Y C VICENTE GURRERO, A 100 METROS DE LA COMANDANCIA DE POLICIA"
+          }
+        ]
+      },
+      {
+        "id":"73",
+        "nombre":"HUATUSCO",
+        "modulos":[
+          {
+            "numero":"301321",
+            "nombre":"HUATUSCO",
+            "direccion":"AVENIDA 1 PONIENTE NO. 1236, COL. CENTRO",
+            "codigo_postal":"94100",
+            "referencia":"ENTRE CALLE 8 SUR Y CALLE 12 SUR, A MEDIA CUADRA DE LA ALAMEDA"
+          }
+        ]
+      },
+      {
+        "id":"17",
+        "nombre":"LA ANTIGUA",
+        "modulos":[
+          {
+            "numero":"301335",
+            "nombre":"JOSE CARDEL",
+            "direccion":"EMILIANO ZAPATA PONIENTE NO. S\/N",
+            "codigo_postal":"91680",
+            "referencia":"ENTRE AV. JOSE CARDEL Y AV. DR. JUAN MARTINEZ A UN COSTADO DEL PALACIO MUNICIPAL"
+          }
+        ]
+      },
+      {
+        "id":"63",
+        "nombre":"LAS CHOAPAS",
+        "modulos":[
+          {
+            "numero":"301433",
+            "nombre":"CHOAPAS, LAS",
+            "direccion":"CALLE MIGUEL HIDALGO NO. S\/N, COL. CENTRO",
+            "codigo_postal":"96980",
+            "referencia":"EDIFICIO DEL PALACIO MUNICIPAL, ENTRE LAS CALLES MIGUEL BECERRIL Y REVOLUCI\u00d3N, FRENTE AL PARQUE CENTRAL"
+          }
+        ]
+      },
+      {
+        "id":"103",
+        "nombre":"MARTINEZ DE LA TORRE",
+        "modulos":[
+          {
+            "numero":"300721",
+            "nombre":"MARTINEZ DE LA TORRE",
+            "direccion":"AV. MAXIMINO AVILA CAMACHO NO. 501, COL. ZONA CENTRO",
+            "codigo_postal":"93600",
+            "referencia":"ANTIGUO CENTRO COMERCIAL MANTEROLA ENTRE CALLES GUADALUPE VICTORIA Y PEDRO BELLI, POR LA CRUZ VERDE"
+          }
+        ]
+      },
+      {
+        "id":"109",
+        "nombre":"MINATITLAN",
+        "modulos":[
+          {
+            "numero":"301421",
+            "nombre":"MINATITLAN",
+            "direccion":"AV. 18 DE MARZO NO. 49, COL. OBRERA",
+            "codigo_postal":"96740",
+            "referencia":"ENTRE LA CALLE BUENA VISTA Y 3ER CJON. 18 DE MARZO, A 150 METROS DE LA ESC. PRIMARIA FLORES MAGON."
+          }
+        ]
+      },
+      {
+        "id":"205",
+        "nombre":"NANCHITAL DE LAZARO CARDENAS DEL RIO",
+        "modulos":[
+          {
+            "numero":"301129",
+            "nombre":"NANCHITAL DE L\u00c1ZARO C\u00c1RDENAS",
+            "direccion":"CALLE BENITO JU\u00c1REZ NO. S\/N, COL. COLONIA CENTRO",
+            "codigo_postal":"96360",
+            "referencia":"ENTRE CALLEJ\u00d3N 5 DE FEBRERO Y CALLEJ\u00d3N JU\u00c1REZ, EN LOS BAJOS DEL PALACIO"
+          }
+        ]
+      },
+      {
+        "id":"119",
+        "nombre":"ORIZABA",
+        "modulos":[
+          {
+            "numero":"301521",
+            "nombre":"ORIZABA",
+            "direccion":"AV. PTE. 5 NO. 620, COL. CENTRO",
+            "codigo_postal":"94300",
+            "referencia":"ENTRE LAS C. SUR 12 Y C. 1A PRIVADA DE PONIENTE 5 A UNA CUADRA DE LA ALAMEDA CENTRAL"
+          }
+        ]
+      },
+      {
+        "id":"124",
+        "nombre":"PANUCO",
+        "modulos":[
+          {
+            "numero":"300121",
+            "nombre":"PANUCO",
+            "direccion":"AV. VENUSTIANO CARRANZA NO. 7, COL. ETIENNE",
+            "codigo_postal":"93990",
+            "referencia":"ENTRE LAS CALLES 5 DE FEBRERO Y 1ERO DE MAYO 01 JDE A UNA CUADRA DE SUBODEGA."
+          }
+        ]
+      },
+      {
+        "id":"125",
+        "nombre":"PAPANTLA",
+        "modulos":[
+          {
+            "numero":"300621",
+            "nombre":"PAPANTLA",
+            "direccion":"TUXPAN NO. 218, COL. BARRIO DE SAN JUAN",
+            "codigo_postal":"93400",
+            "referencia":"ENTRE C VOLADORES Y C RICARDO FLORES MAGON JUNTO A LA PLAZOLETA SOLIDARIDAD"
+          }
+        ]
+      },
+      {
+        "id":"129",
+        "nombre":"PEROTE",
+        "modulos":[
+          {
+            "numero":"300926",
+            "nombre":"PEROTE",
+            "direccion":"AV. ALEJANDRO VON HUMBOLDT NORTE NO. 40, COL. LU\u00cdS ECHEVERRIA",
+            "codigo_postal":"91270",
+            "referencia":"ANTIGUA 09 JDE, ENTRE AVENIDA PDTE. GUADALUPE VICTORIA Y C. RAFAEL MURILLO VIDAL, JUNTO A BODEGAS AURRERA"
+          }
+        ]
+      },
+      {
+        "id":"132",
+        "nombre":"POZA RICA DE HIDALGO",
+        "modulos":[
+          {
+            "numero":"300521",
+            "nombre":"POZA RICA DE HIDALGO",
+            "direccion":"BLVD. ADOLFO RUIZ CORTINES NO. 1616, COL. FRACC. LAS PALMAS",
+            "codigo_postal":"93230",
+            "referencia":"LOCAL-6, ENTRE LA AV. PALMAS PREPARATORIA Y AV. UNO, A UN COSTADO DE WALDOS"
+          }
+        ]
+      },
+      {
+        "id":"142",
+        "nombre":"SAN ANDRES TUXTLA",
+        "modulos":[
+          {
+            "numero":"301921",
+            "nombre":"SAN ANDRES TUXTLA",
+            "direccion":"REVOLUCI\u00d3N NO. 499, COL. EL MIRADOR",
+            "codigo_postal":"95770",
+            "referencia":"ENTRE C. AQUILES SERDAN, C. CRISTOBAL COLON Y C. EVERARDO CRUZ VOCALIA DTTAL A UNA CUADRA DE LA ASOCIACION GANADERA LOCAL"
+          }
+        ]
+      },
+      {
+        "id":"144",
+        "nombre":"SANTIAGO TUXTLA",
+        "modulos":[
+          {
+            "numero":"301928",
+            "nombre":"SANTIAGO TUXTLA",
+            "direccion":"CTO. \u00c1NGEL CARVAJAL NO. S\/N, COL. CENTRO",
+            "codigo_postal":"95830",
+            "referencia":"ENTRE C. 5 DE MAYO Y C. AYUNTAMIENTO, EN EL PALACIO MPAL., FRENTE AL PARQUE CENTRAL"
+          }
+        ]
+      },
+      {
+        "id":"156",
+        "nombre":"TANTOYUCA",
+        "modulos":[
+          {
+            "numero":"300221",
+            "nombre":"TANTOYUCA",
+            "direccion":"IGNACIO ALLENDE NO. 96, COL. CENTRO",
+            "codigo_postal":"92101",
+            "referencia":"ENTRE LAS C 12 DE JULIO Y C 16 DE SEPTIEMBRE A 50 METROS DE LAS OFICINAS DE TELEFONOS DE MEXICO"
+          }
+        ]
+      },
+      {
+        "id":"173",
+        "nombre":"TIERRA BLANCA",
+        "modulos":[
+          {
+            "numero":"301734",
+            "nombre":"TIERRA BLANCA",
+            "direccion":"CALLE DEL FERROCARRIL NO. S\/N, COL. EMILIANO ZAPATA",
+            "codigo_postal":"95100",
+            "referencia":"ENTRE CALZ. DEL FERROCARRIL Y CALZ. DEL HOSPITAL, LOCAL DEL DIF MUNICIPAL."
+          }
+        ]
+      },
+      {
+        "id":"188",
+        "nombre":"TUXPAN",
+        "modulos":[
+          {
+            "numero":"300321",
+            "nombre":"TUXPAN",
+            "direccion":"GONZ\u00c1LEZ ORTEGA NO. 36, COL. ZONA CENTRO",
+            "codigo_postal":"92800",
+            "referencia":"ENTRE C ARTEAGA Y C CRISTOBAL COLON CASI FRENTE AL SALON PLATA Y ROSA"
+          }
+        ]
+      },
+      {
+        "id":"192",
+        "nombre":"VERACRUZ",
+        "modulos":[
+          {
+            "numero":"300421",
+            "nombre":"VERACRUZ",
+            "direccion":"P\u00c1TZCUARO NO. 494, COL. FRACC. LAGUNA DEL VALLE",
+            "codigo_postal":"91779",
+            "referencia":"ENTRE AV. J.B. LOBOS Y C. DIEGO RIVERA , OFICINA DEL 04 JDE, A 100 METROS DE LA PGR Y A UNA CUADRA DEL CENTRO DE SALUD M\u00d3DULO EL COYOL DE LA SSA."
+          },
+          {
+            "numero":"301221",
+            "nombre":"VERACRUZ",
+            "direccion":"AV. NICOL\u00c1S BRAVO NO. 347, COL. ZONA CENTRO",
+            "codigo_postal":"91700",
+            "referencia":"ENTRE C BENITO JUAREZ Y C MIGUEL LERDO, CONTRA ESQUINA DE LA 'UNIVERSIDAD JEAN PIAGET"
+          },
+          {
+            "numero":"301223",
+            "nombre":"VERACRUZ",
+            "direccion":"AV. LA FRAGUA NO. 721-A, COL. IGNACIO ZARAGOZA",
+            "codigo_postal":"91910",
+            "referencia":"ENTRE C. IGNACIO DE LA LLAVE Y C. MANUEL ALTAMIRANO, ATR\u00c1S DE LAS OFICINAS ADMINISTRATIVAS DE TELMEX."
+          },
+          {
+            "numero":"301226",
+            "nombre":"VERACRUZ",
+            "direccion":"FIDEL VEL\u00c1ZQUEZ NO. 526, COL. FRACCIONAMIENTO LOMAS DE R\u00cdO MEDIO 2",
+            "codigo_postal":"91809",
+            "referencia":"ESQUINA AVENIDA R\u00cdO MEDIO"
+          }
+        ]
+      },
+      {
+        "id":"89",
+        "nombre":"XALAPA",
+        "modulos":[
+          {
+            "numero":"300821",
+            "nombre":"XALAPA",
+            "direccion":"TRANSVERSAL 1 NO. 303, COL. AZTECA",
+            "codigo_postal":"91180",
+            "referencia":"ESQUINA CONSTITUYENTES DE 1857, A UNA CUADRA DE LA FARMACIA DEL AHORRO"
+          },
+          {
+            "numero":"301021",
+            "nombre":"XALAPA",
+            "direccion":"AV. ADOLFO RUIZ CORTINES NO. 289, COL. REPRESA DEL CARMEN",
+            "codigo_postal":"91050",
+            "referencia":"ENTRE PRIV DEL PASO Y TRONCOSO Y PR\u00d3L. DE FCO NAVARRETE, JDE DEL IFE 10"
+          },
+          {
+            "numero":"301027",
+            "nombre":"XALAPA",
+            "direccion":"HERMINIO CABA\u00d1AS LE\u00d3N NO. 100, COL. RAFAEL LUCIO",
+            "codigo_postal":"9110",
+            "referencia":"ENTRE FERROCARRIL INTEROCE\u00c1NICO Y MARGARITA OLIVO LARA"
+          }
+        ]
+      },
+      {
+        "id":"201",
+        "nombre":"ZONGOLICA",
+        "modulos":[
+          {
+            "numero":"301821",
+            "nombre":"ZONGOLICA",
+            "direccion":"JOS\u00c9 MAR\u00cdA MORELOS NO. 8, COL. BARRIO DE GUADALUPE",
+            "codigo_postal":"95000",
+            "referencia":"ENTRE LAS C. IGNACIO ZARAGOZA Y C. MIGUEL HIDALGO A MEDIA CUADRA DEL HOSPITAL RURAL DEL IMSS"
+          }
+        ]
+      }
+    ],
+    "nombre":"VERACRUZ"
+  },
+  {
+    "id":"31",
+    "municipios":[
+      {
+        "id":"50",
+        "nombre":"MERIDA",
+        "modulos":[
+          {
+            "numero":"310321",
+            "nombre":"MERIDA",
+            "direccion":"CALLE 28 NO. 176, COL. GARC\u00cdA GINER\u00c9S",
+            "codigo_postal":"97070",
+            "referencia":"ENTRE CALLE 5 Y 7, A ESPALDAS DEL RESTAURANTE ELADIOS PENSIONES"
+          },
+          {
+            "numero":"310322",
+            "nombre":"M\u00c9RIDA",
+            "direccion":"C 70 X 51 Y 53 NO. 461-A, COL. SUBURBIO SANTIAGO",
+            "codigo_postal":"97000",
+            "referencia":"A DOS CALLES DEL MERCADO DE SANTIAGO"
+          },
+          {
+            "numero":"310421",
+            "nombre":"MERIDA",
+            "direccion":"CALLE 21 NO. 54-B, COL. M\u00c9XICO",
+            "codigo_postal":"97125",
+            "referencia":"ENTRE CALLE 8 Y 10, A MEDIA CUADRA DE BOMBEROS NORTE"
+          },
+          {
+            "numero":"310422",
+            "nombre":"M\u00c9RIDA",
+            "direccion":"CALLE 54 LOCALES 7 Y 8, COL. CENTRO",
+            "codigo_postal":"97000",
+            "referencia":"A 50 MTS DE MERCADO SAN BENITO. ENTRE CALLES 69 Y 71"
+          }
+        ]
+      },
+      {
+        "id":"59",
+        "nombre":"PROGRESO",
+        "modulos":[
+          {
+            "numero":"310221",
+            "nombre":"PROGRESO",
+            "direccion":"CALLE 27 NO. 2-Q, COL. ISMAEL GARC\u00cdA",
+            "codigo_postal":"97320",
+            "referencia":"A UNA ESQUINA DEL PARQUE ISMAEL GARC\u00cdA, ENTRE CALLES 48 Y 50"
+          }
+        ]
+      },
+      {
+        "id":"102",
+        "nombre":"VALLADOLID",
+        "modulos":[
+          {
+            "numero":"310121",
+            "nombre":"VALLADOLID",
+            "direccion":"CALLE 45 NO. 220-B, COL. BARRIO SISAL",
+            "codigo_postal":"97782",
+            "referencia":"A DOS CUADRAS AL SUR DE LAS 5 CALLES ENTRE CALLES 46 Y 48"
+          }
+        ]
+      }
+    ],
+    "nombre":"YUCATAN"
+  },
+  {
+    "id":"32",
+    "municipios":[
+      {
+        "id":"17",
+        "nombre":"GUADALUPE",
+        "modulos":[
+          {
+            "numero":"320421",
+            "nombre":"GUADALUPE",
+            "direccion":"CALZ. REVOLUCI\u00d3N MEXICANA NO. 99 INT. 49, COL. EJIDAL",
+            "codigo_postal":"98613",
+            "referencia":"LOCAL PUBLICO, OFICINAS DE LA 04 JUNTA DISTRITAL EJECUTIVA DEL IFE, ENTRE C. BARONES Y C. PABLO PICASSO"
+          }
+        ]
+      },
+      {
+        "id":"20",
+        "nombre":"JEREZ",
+        "modulos":[
+          {
+            "numero":"320221",
+            "nombre":"JEREZ",
+            "direccion":"JEREZ NO. 4-A INT. 7, COL. FRACC. BANRURAL",
+            "codigo_postal":"99340",
+            "referencia":"OFICINAS DE LA JDE 02 A ESPALDAS DEL HOTEL LEO, ENTRE CALZADA SUAVE PATRIA Y BOULEVARD DEL \u00c1LAMO."
+          }
+        ]
+      },
+      {
+        "id":"56",
+        "nombre":"ZACATECAS",
+        "modulos":[
+          {
+            "numero":"320321",
+            "nombre":"ZACATECAS",
+            "direccion":"DEL JARD\u00cdN NO. 304 INT. 28, COL. TECNOL\u00d3GICA",
+            "codigo_postal":"98099",
+            "referencia":"LOCAL PUBLICO A UN COSTADO DE GAS PLUS Y A ESPALDAS DE LA CENTRAL DE AUTOBUSES, ENTRE C. \u00c1TOMO Y C. JARD\u00cdN."
+          }
+        ]
+      }
+    ],
+    "nombre":"ZACATECAS"
+  }
+]
