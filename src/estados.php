@@ -37,7 +37,7 @@ array(
     'ZACATECAS',
 );
 
-# Ahora los estados (de curl_estados.php
+# Ahora los estados (de curl_estados.php)
 $estados = [
    array()
    ,

@@ -1,5 +1,4 @@
 <?php
-# CURLing is an olympic game
 error_reporting( E_ALL );
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, 'http://app-inter.ife.org.mx/siac2011/citasRPC_inicioRPC.siac');
@@ -9,6 +8,7 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
     'Content-Type: application/json-rpc',
 ));
 # Municipios por estado
+# ID Estado
 # $data = '{"params":["1"],"method":"buscarMunicipiosPorEstado","id":1}';
 # ...
 # $data = '{"params":["32"],"method":"buscarMunicipiosPorEstado","id":1}';
